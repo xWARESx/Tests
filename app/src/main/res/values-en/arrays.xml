@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actorQ">
+        <item>Do you often watch movies?</item>
+        <item>Do you think you understand it?</item>
+        <item>As a child, did you manage to lie to your parents so that they would believe you? </item>
+        <item>To get out of a difficult situation, do you act out a scene? </item>
+        <item> Have you ever participated in skits at school, etc?</item>
+        <item> Do you like to change your image, clothes, style?</item>
+        <item> Do you often make faces and try on your image in front of a mirror?</item>
+        <item> Do you care about people\'s opinions?</item>
+        <item> And the last question: Are you willing to do anything to get used to the role?</item>
+    </string-array>
+
+
+    <string-array name = "aAns1">
+        <item> often </item>
+        <item> rare </item>
+    </string-array>
+    <string-array name = "aAns2">
+        <item> don\'t think </item>
+        <item> understand </item>
+    </string-array>
+    <string-array name = "aAns3">
+        <item> oh yes, all the time </item>
+        <item> no </item>
+    </string-array>
+    <string-array name = "aAns4">
+        <item> no </item>
+        <item> yes </item>
+    </string-array>
+    <string-array name = "aAns5">
+        <item> nothing interesting </item>
+        <item> happened </item>
+    </string-array>
+    <string-array name = "aAns6">
+        <item> I already found my clothes </item>
+        <item> like </item>
+    </string-array>
+    <string-array name = "aAns7">
+        <item> often </item>
+        <item> rare </item>
+    </string-array>
+    <string-array name = "aAns8">
+        <item> absolutely not </item>
+        <item> important </item>
+    </string-array>
+    <string-array name = "aAns9">
+        <item> no </item>
+        <item> for everything </item>
+    </string-array>
+
+    <string-array name = "actorRight">
+        <item> to be a good actor, you mostly need to watch movies </item>
+        <item> to play correctly, you need to understand what movie you are playing </item>
+        <item> if successful, this is a sure sign of good acting </item>
+        <item> is another sure sign </item>
+        <item> participation experience can help you </item>
+        <item> actors often have to do this </item>
+        <item> facial expressions are an important part of acting </item>
+        <item> to play well you need not be afraid of people\'s opinions </item>
+        <item> some actors even change their physical appearance </item>
+    </string-array>
+
+    <string-array name = "animalsQ">
+        <item> What do otters do when faced with danger to inspire compassion in their attacker? </item>
+        <item> Who plants thousands of trees every year because they don\'t remember exactly where they buried the acorns? </item>
+        <item> What animals give each other names and use them when you need to call a relative? </item>
+        <item> Which animal stays with one partner for life? </item>
+        <item> Can oysters change their gender? </item>
+        <item> Who proposes to their partner with a pebble? </item>
+        <item> Vampire bats can run. How fast? </item>
+        <item> The sloth prefers not to go down to the ground without doing anything, but once every two weeks he still imposingly slides down the trunk. Why? </item>
+        <item> How do polar bears greet each other? </item>
+        <item> Which insect never sleeps? </item>
+    </string-array>
+
+    <string-array name = "anAns1">
+        <item> show cub </item>
+        <item> pretending to be sick </item>
+        <item> falling </item>
+    </string-array>
+    <string-array name = "anAns2">
+        <item> marmot </item>
+        <item> protein </item>
+        <item> porcupine </item>
+    </string-array>
+    <string-array name = "anAns3">
+        <item> killer whales </item>
+        <item> dolphins </item>
+        <item> lions </item>
+    </string-array>
+    <string-array name = "anAns4">
+        <item> dead end </item>
+        <item> hoopoe </item>
+        <item> silly </item>
+    </string-array>
+    <string-array name = "anAns5">
+        <item> nobody can </item>
+        <item> may </item>
+    </string-array>
+    <string-array name = "anAns6">
+        <item> penguin </item>
+        <item> squirrel </item>
+        <item> flamingos </item>
+    </string-array>
+    <string-array name = "anAns7">
+        <item> 15 km / h </item>
+        <item> 7 km / h </item>
+        <item> 3 km / h </item>
+    </string-array>
+    <string-array name = "anAns8">
+        <item> poop </item>
+        <item> for provisions </item>
+        <item> mate </item>
+    </string-array>
+    <string-array name = "anAns9">
+        <item> beating with paws </item>
+        <item> nose-to-nose </item>
+        <item> nothing </item>
+    </string-array>
+    <string-array name = "anAns10">
+        <item> ant </item>
+        <item> mosquito </item>
+    </string-array>
+
+    <string-array name = "animalsRight">
+        <item> show cub </item>
+        <item> protein </item>
+        <item> dolphins </item>
+        <item> dead end </item>
+        <item> may </item>
+        <item> penguin </item>
+        <item> 7 km / h </item>
+        <item> poop </item>
+        <item> noses touching? </item>
+        <item> ant </item>
+    </string-array>
+
+    <string-array name = "an2Ans1">
+        <item> rectangular </item>
+        <item> square </item>
+        <item> triangular </item>
+    </string-array>
+
+    <string-array name = "animals2Q">
+        <item> What is the pupil of the octopus? </item>
+        <item> Which animal has the largest heart of any land animal? </item>
+        <item> The only pet not mentioned in the Bible </item>
+        <item> Zebra - white with black stripes or vice versa? </item>
+        <item> The tiger has five toes on the front legs, and the hind legs? </item>
+        <item> Which animal sleeps with one eye open? </item>
+        <item> About 70 percent of living things on Earth are </item>
+        <item> Anteaters prefer to eat … </item>
+        <item> Which animal is immune to cancer? </item>
+        <item> Finally: how long does a pig\'s orgasm last? </item>
+    </string-array>
+
+    <string-array name = "an2Ans2">
+        <item> elephant </item>
+        <item> giraffe </item>
+        <item> tiger </item>
+    </string-array>
+    <string-array name = "an2Ans3">
+        <item> cat </item>
+        <item> dog </item>
+    </string-array>
+    <string-array name = "an2Ans4">
+        <item> black and white </item>
+        <item> white with black </item>
+    </string-array>
+    <string-array name = "an2Ans5">
+        <item> four </item>
+        <item> by five </item>
+        <item> three each </item>
+    </string-array>
+    <string-array name = "an2Ans6">
+        <item> dolphin </item>
+        <item> lion </item>
+        <item> whale </item>
+    </string-array>
+    <string-array name = "an2Ans7">
+        <item> mammals </item>
+        <item> bacteria </item>
+        <item> invertebrates </item>
+    </string-array>
+    <string-array name = "an2Ans8">
+        <item> termites </item>
+        <item> ants </item>
+        <item> pigeons </item>
+    </string-array>
+    <string-array name = "an2Ans9">
+        <item> by fish </item>
+        <item> shark </item>
+        <item> giraffe </item>
+    </string-array>
+    <string-array name = "an2Ans10">
+        <item> 30 minutes </item>
+        <item> human like </item>
+    </string-array>
+
+    <string-array name = "animals2Right">
+        <item> is rectangular. Such a pupil also provides him with panoramic vision. This allows the octopus not only to avoid danger, but also to clearly see the potential victim </item>
+        <item> giraffe. It weighs 12kg </item>
+        <item> cat </item>
+        <item> white with black </item>
+        <item> four </item>
+        <item> dolphin. When dolphins sleep, one of their hemispheres works. This is necessary in order to emerge to the surface for oxygen without waking up </item>
+        <item> bacteria. Yes, there are so many </item>
+        <item> termites. Yes, he has ants, hence the name, but, as it turned out, prefers termites </item>
+        <item> shark </item>
+        <item> 30 minutes </item>
+    </string-array>
+
+
+    <string-array name = "batQ">
+        <item> Imagine: you are lost in a deep cave, wandering along a huge network of winding passages and trying to find your way out. And then suddenly one bat flies up and whispers something in your ear … Which of the following phrases does it say? </item>
+    </string-array>
+
+    <string-array name = "batAns">
+        <item> I know where the exit is </item>
+        <item> let me help you and show you the way out of here </item>
+        <item> keep looking! </item>
+        <item> you\'ll never get out of here </item>
+    </string-array>
+
+    <string-array name = "bigQ">
+        <item> What is the largest aircraft in the world? </item>
+        <item> Which country has the largest swimming pool in the world located in the San Alfonso Del Mar Resort? </item>
+        <item> In which country is the largest building - the global center \ "New Age \"? </item>
+        <item> Where is the world\'s tallest building? </item>
+        <item> How tall do you think the tallest man ever was? </item>
+        <item> Which is the highest country located? </item>
+        <item> Highest mountain? </item>
+    </string-array>
+
+    <string-array name = "bigAns1">
+        <item> Ukrainian </item>
+        <item> French </item>
+        <item> English </item>
+    </string-array>
+    <string-array name = "bigAns2">
+        <item> Brazil </item>
+        <item> In Chile </item>
+        <item> In Mexico </item>
+    </string-array>
+    <string-array name = "bigAns3">
+        <item> In China </item>
+        <item> In America </item>
+        <item> In Russia </item>
+    </string-array>
+    <string-array name = "bigAns4">
+        <item> Dubai </item>
+        <item> Dublin </item>
+        <item> In Mumbai </item>
+    </string-array>
+    <string-array name = "bigAns5">
+        <item> 255cm </item>
+        <item> 285cm </item>
+        <item> 305cm </item>
+    </string-array>
+    <string-array name = "bigAns6">
+        <item> Kathmandu </item>
+        <item> Nepal </item>
+        <item> Kanpur </item>
+    </string-array>
+    <string-array name = "bigAns7">
+        <item> Chomolungma </item>
+        <item> Jomolunga </item>
+    </string-array>
+
+    <string-array name = "bigRight">
+        <item> Ukrainian. An-225 "Mriya" </item>
+        <item> In Chile. The pool is 1,013 meters long, covers an area of ​​8 hectares, and is filled with 250 million liters of seawater. The pool is about 3 m deep </item>
+        <item> In China. 1.76 million square meters (three times the size of the Pentagon and 20 times the size of the Sydney Opera House). Building length - 500 meters, width - 400 meters, height - 100 meters </item>
+        <item> In Dubai. 828 m </item>
+        <item> 285cm </item>
+        <item> Nepal. More than 40% of the territory of Nepal is located at an altitude of over 3000 m </item>
+        <item> Chomolungma. 8848 m </item>
+    </string-array>
+
+    <string-array name = "birdQ">
+        <item> One day, a bluebird suddenly flies into your room window and becomes trapped. Something about this lost bird attracts you, and you decide to keep it with you. But to your surprise, the next day the bird changes color from blue to yellow! This very unusual bird changes color every night - on the morning of the third day it is bright red, on the fourth day it turns completely black. What color is the bird when you wake up on the fifth day? </item>
+    </string-array>
+
+    <string-array name = "birdAns">
+        <item> the bird does not change color, it remains black </item>
+        <item> the bird returns to its original blue color </item>
+        <item> bird turns white </item>
+        <item> the bird turns golden </item>
+    </string-array>
+
+    <string-array name = "namesBrain">
+        <item> What do you know about space </item>
+        <item> Шаришь за слэнг? </item>
+        <item> Russian Literature </item>
+        <item> Русский язык </item>
+        <item> Survive the Wild </item>
+        <item> Mathematics </item>
+        <item> Physics </item>
+        <item> Human Evolution </item>
+        <item> Human body </item>
+        <item> Myths. Part 1 </item>
+        <item> Myths. Part 2 </item>
+        <item> Greek Gods </item>
+        <item> How is your English? </item>
+        <item> Accidental discoveries </item>
+        <item> Do you know cats well? </item>
+        <item> Children\'s questions </item>
+    </string-array>
+
+    <string-array name = "namesBrain2">
+        <item> 16 questions </item>
+        <item> 13 questions </item>
+        <item> 17 questions </item>
+        <item> 13 questions </item>
+        <item> 11 questions </item>
+        <item> 7 questions </item>
+        <item> 8 questions </item>
+        <item> 6 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 11 questions </item>
+        <item> 10 questions </item>
+        <item> 7 questions </item>
+        <item> 8 questions </item>
+        <item> 9 questions </item>
+    </string-array>
+
+    <string-array name = "namesBrainforex">
+        <item> What do you know about space </item>
+        <item> Russian Literature </item>
+        <item> Survive the Wild </item>
+        <item> Mathematics </item>
+        <item> Physics </item>
+        <item> Human Evolution </item>
+        <item> Human body </item>
+        <item> Myths. Part 1 </item>
+        <item> Myths. Part 2 </item>
+        <item> Greek Gods </item>
+        <item> How is your English? </item>
+        <item> Accidental discoveries </item>
+        <item> Do you know cats well? </item>
+        <item> Children\'s questions </item>
+    </string-array>
+
+    <string-array name = "namesBrain2forex">
+        <item> 16 questions </item>
+        <item> 17 questions </item>
+        <item> 11 questions </item>
+        <item> 7 questions </item>
+        <item> 8 questions </item>
+        <item> 6 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 11 questions </item>
+        <item> 10 questions </item>
+        <item> 7 questions </item>
+        <item> 8 questions </item>
+        <item> 9 questions </item>
+    </string-array>
+
+    <string-array name = "cats2Q">
+        <item> Cats can be loved or hated, but these animals have lived next to humans for so long! Unlike dogs, they do not carry newspapers to the owner, do not give their paws, but despite all these "sins", their arrogant indifference and complete impenetrability guarantee them a safe place in the human world. Each person perceives cats differently. Which of the following phrases is more in line with your idea of ​​these animals? </item>
+    </string-array>
+
+    <string-array name = "cats2Ans">
+        <item> they love to bask in the sun </item>
+        <item> these are mysterious and mysterious animals </item>
+        <item> they are so nice to iron </item>
+        <item> these are non-companion creatures </item>
+    </string-array>
+
+    <string-array name = "catsQ">
+        <item> Do you often want to treat your cat to something sweet? Do cats generally taste sweet? </item>
+        <item> Why do cats rub against people? </item>
+        <item> Who has a lower social IQ? </item>
+        <item> So can cats be fed raw fish anyway? </item>
+        <item> How many percent of their lives do cats sleep? </item>
+        <item> What is as unique in cats as human fingerprints? </item>
+        <item> What do cats sweat through? </item>
+        <item> Why do cats groom themselves? </item>
+    </string-array>
+
+    <string-array name = "catsAns1">
+        <item> don\'t feel </item>
+        <item> feel </item>
+    </string-array>
+    <string-array name = "catsAns2">
+        <item> mark as their territory </item>
+        <item> show trust </item>
+    </string-array>
+    <string-array name = "catsAns3">
+        <item> for a dog </item>
+        <item> cat </item>
+    </string-array>
+    <string-array name = "catsAns4">
+        <item> better not </item>
+        <item> is good for cats </item>
+        <item> should I fry ?! </item>
+    </string-array>
+    <string-array name = "catsAns5">
+        <item> 50% </item>
+        <item> 70% </item>
+        <item> 80% </item>
+    </string-array>
+    <string-array name = "catsAns6">
+        <item> prints </item>
+        <item> nose surface </item>
+        <item> ears </item>
+    </string-array>
+    <string-array name = "catsAns7">
+        <item> through the pads </item>
+        <item> full body </item>
+        <item> nose surface </item>
+    </string-array>
+    <string-array name = "catsAns8">
+        <item> to smooth hair </item>
+        <item> to stop smelling like a human </item>
+    </string-array>
+
+
+    <string-array name = "catsRight">
+        <item> don\'t feel </item>
+        <item> mark as their territory </item>
+        <item> cat </item>
+        <item> better not </item>
+        <item> 70% </item>
+        <item> nose surface </item>
+        <item> through the pads </item>
+        <item> to stop smelling like a human </item>
+    </string-array>
+
+    <string-array name = "classicQ">
+        <item> \"Fathers and Sons \" wrote … </item>
+        <item> A.S. Pushkin wrote the poem \"The Bronze Horseman \". Which Russian monarch is this monument dedicated to? </item>
+        <item> What was the name of the cat in the work of Mikhail Bulgakov \"The Master and Margarita \"? </item>
+        <item> Who was A.P. Chekhov by profession? </item>
+        <item> Whom did the main character of N.S. Leskov`s story \"Lefty \" forge? </item>
+        <item> From which famous play is the expression taken: \"Who are the judges? \" </item>
+        <item> What of this did not A.P. Chekhov write? </item>
+        <item> What was the name of the main character of Nikolai Gogol`s poem \"Dead Souls \"? </item>
+        <item> Which famous work was named Rodion Raskolnikov? </item>
+        <item> How many murders did Raskolnikov commit? </item>
+        <item> What was the name of Bolkonsky in Leo Tolstoy\'s novel "War and Peace"? </item>
+        <item> In which city does the play \"Thunderstorm \" take place? </item>
+        <item> What is the main message of the story \"The gentleman from San Francisco \"? </item>
+        <item> Mayakovsky belonged to such a trend as … </item>
+        <item> Maxim Gorky wrote a famous play, the title of which … </item>
+        <item> \"Beauty will save the world \". Who owns this phrase? </item>
+        <item> \"Don\'t leave the room \". Who owns this poem? </item>
+    </string-array>
+
+    <string-array name = "classicAns1">
+        <item> I.S.Turgenev </item>
+        <item> Leo Tolstoy </item>
+        <item> A.P. Chekhov </item>
+    </string-array>
+    <string-array name = "classicAns2">
+        <item> Alexander Nevsky </item>
+        <item> Peter the First </item>
+        <item> Alexander II </item>
+    </string-array>
+    <string-array name = "classicAns3">
+        <item> Cat </item>
+        <item> Behemoth </item>
+        <item> Beaumont </item>
+    </string-array>
+    <string-array name = "classicAns4">
+        <item> doctor </item>
+        <item> teacher </item>
+        <item> lawyer </item>
+    </string-array>
+    <string-array name = "classicAns5">
+        <item> flea </item>
+        <item> fly </item>
+    </string-array>
+    <string-array name = "classicAns6">
+        <item> Thunderstorm </item>
+        <item> Woe from Wit </item>
+        <item> Cherry Orchard </item>
+    </string-array>
+    <string-array name = "classicAns7">
+        <item> Man with glasses </item>
+        <item> Ward No. 6 </item>
+        <item> Joke </item>
+    </string-array>
+    <string-array name = "classicAns8">
+        <item> Chat </item>
+        <item> Chichikov </item>
+        <item> Pechorin </item>
+    </string-array>
+    <string-array name = "classicAns9">
+        <item> Crime and Punishment </item>
+        <item> War and Peace </item>
+        <item> Dead Souls </item>
+    </string-array>
+    <string-array name = "classicAns10">
+        <item> only the old woman pawnbroker </item>
+        <item> 2 </item>
+        <item> 3 </item>
+    </string-array>
+    <string-array name = "classicAns11">
+        <item> Andrey </item>
+        <item> Sergey </item>
+        <item> Gregory </item>
+    </string-array>
+    <string-array name = "classicAns12">
+        <item> Malinov </item>
+        <item> Kalinov </item>
+        <item> Moscow </item>
+    </string-array>
+    <string-array name = "classicAns13">
+        <item> everything is devalued in the face of death </item>
+        <item> you need to live here and now </item>
+    </string-array>
+    <string-array name = "classicAns14">
+        <item> classicism </item>
+        <item> futurism </item>
+    </string-array>
+    <string-array name = "classicAns15">
+        <item> At the bottom </item>
+        <item> By a thread </item>
+        <item> On the Needle </item>
+    </string-array>
+    <string-array name = "classicAns16">
+        <item> F.M. Dostoevsky </item>
+        <item> Leo Tolstoy </item>
+        <item> N.A. Nekrasov </item>
+    </string-array>
+    <string-array name = "classicAns17">
+        <item> S. Yesenin </item>
+        <item> I.A. Brodsky </item>
+    </string-array>
+
+    <string-array name = "classicRight">
+        <item> I.S.Turgenev </item>
+        <item> Peter the First. The writer reveals the other side of the emperor in the poem "The Bronze Horseman". In it, the population of St. Petersburg is faced with a disaster: a flood. It would seem that the only culprit is nature. But Peter I once decided to tame her. And she burst out like a beast in a cage. As a result, innocent people suffered. Did Peter know that this would happen? Probably yes. But the emperor believed that he, as Pushkin calls him, “the lord of fate” </item>
+        <item> Behemoth </item>
+        <item> doctor </item>
+        <item> flea </item>
+        <item> Woe from wit. This phrase is pronounced by Chatsky </item>
+        <item> A man with glasses. He has another work: \ "Man in a Case \" </item>
+        <item> Chichikov </item>
+        <item> Crime and Punishment. Posted by F.M.Dostoevsky </item>
+        <item> 2. The victims of Raskolnikov are the old woman-pawnbroker Alena Ivanovna and her sister Lizaveta </item>
+        <item> Andrey </item>
+        <item> Kalinov. Fictional City </item>
+        <item> everything is devalued in the face of death </item>
+        <item> futurism </item>
+        <item> At the bottom </item>
+        <item> F.M. Dostoevsky </item>
+        <item> I.A. Brodsky </item>
+    </string-array>
+
+    <string-array name = "confQ">
+        <item> Which handshake do you prefer? </item>
+        <item> What is your zodiac sign? </item>
+        <item> What kind of skin do you have? </item>
+        <item> A woman sits on a bench in the park, lost in her thoughts. It seems to you that … </item>
+        <item> What is typical for you? </item>
+        <item> Which shape do you like best? </item>
+        <item> What sport would you most like to play? </item>
+    </string-array>
+
+    <string-array name = "confAns1">
+        <item> short but strong </item>
+        <item> long lasting and intense </item>
+        <item> light touch </item>
+    </string-array>
+    <string-array name = "confAns2">
+        <item> Leo, Aries, Capricorn, Taurus </item>
+        <item> Gemini, Scorpio, Aquarius, Sagittarius </item>
+        <item> Pisces, Cancer, Virgo, Libra </item>
+    </string-array>
+    <string-array name = "confAns3">
+        <item> normal, low maintenance </item>
+        <item> insensitive </item>
+        <item> dry and sensitive </item>
+    </string-array>
+    <string-array name = "confAns4">
+        <item> she is willing to be alone </item>
+        <item> she wants to be pitied </item>
+        <item> she\'s in trouble </item>
+    </string-array>
+    <string-array name = "confAns5">
+        <item> quickly forget troubles and sorrows </item>
+        <item> think beyond yourself </item>
+        <item> if I deceive someone, I feel pangs of conscience </item>
+    </string-array>
+    <string-array name = "confAns6">
+        <item> triangle </item>
+        <item> rhombus </item>
+        <item> circle </item>
+    </string-array>
+    <string-array name = "confAns7">
+        <item> parachuting </item>
+        <item> diving </item>
+        <item> mountaineering </item>
+    </string-array>
+
+    <string-array name = "controlQ">
+        <item> I find it difficult to imitate other people </item>
+        <item> I would probably play the fool on occasion in order to attract attention or amuse others </item>
+        <item> I could make a good actor </item>
+        <item> Other people sometimes think that I am experiencing something deeper than I really am </item>
+        <item> I\'m rarely in the center of attention in a company </item>
+        <item> In different situations and in dealing with different people, I often behave in completely different ways </item>
+        <item> I can only defend what I am sincerely convinced of </item>
+        <item> To succeed in business and in relationships with people, I try to be what people expect me to be </item>
+        <item> I can be friendly with people I hate </item>
+        <item> I am always what I seem </item>
+    </string-array>
+
+    <string-array name = "controlAns">
+        <item> yes </item>
+        <item> no </item>
+    </string-array>
+
+    <string-array name = "countryQ">
+        <item> Are you more attracted to winter or summer? </item>
+        <item> How is your English? </item>
+        <item> In your house, the view should open to ... </item>
+        <item> What food do you prefer? </item>
+        <item> Who do you want to work? </item>
+        <item> Which people are you more attracted to? </item>
+        <item> What do you like best? </item>
+    </string-array>
+
+    <string-array name = "countryAns1">
+        <item> winter </item>
+        <item> summer </item>
+        <item> both </item>
+    </string-array>
+    <string-array name = "countryAns2">
+        <item> excellent </item>
+        <item> know a couple of phrases </item>
+        <item> nothing at all </item>
+    </string-array>
+    <string-array name = "countryAns3">
+        <item> ocean / sea </item>
+        <item> forest </item>
+        <item> city panorama </item>
+    </string-array>
+    <string-array name = "countryAns4">
+        <item> The main thing is that it is tasty </item>
+        <item> fish </item>
+        <item> exotic meat (sharks, etc.) </item>
+    </string-array>
+    <string-array name = "countryAns5">
+        <item> programmer </item>
+        <item> owner of a large company </item>
+        <item> the main thing, at one with nature </item>
+    </string-array>
+    <string-array name = "countryAns6">
+        <item> friendly and well-mannered </item>
+        <item> law abiding </item>
+        <item> party people </item>
+    </string-array>
+    <string-array name = "countryAns7">
+        <item> forest, nature </item>
+        <item> beach, safari </item>
+        <item> attracts everything </item>
+    </string-array>
+
+    <string-array name = "courtQ">
+        <item> If you were an actor and received an offer to play one of the actors in the courtroom, what role would you choose: lawyer, prosecutor, accused, witness? </item>
+    </string-array>
+
+    <string-array name = "courtAns">
+        <item> lawyer </item>
+        <item> prosecutor </item>
+        <item> defendant </item>
+        <item> witness </item>
+    </string-array>
+
+    <string-array name = "eggQ">
+        <item> Imagine that there is an egg in front of you. What color and size it is does not matter, the main thing is to determine who it belongs to: a turtle, a snake, a dinosaur or a chicken </item>
+    </string-array>
+
+    <string-array name = "eggAns">
+        <item> snake </item>
+        <item> turtle </item>
+        <item> dinosaur </item>
+        <item> chicken </item>
+    </string-array>
+
+    <string-array name = "englishQ">
+        <item> Explain to the person that this is your first time in this city </item>
+        <item> Most likely you will get lost. How do I report this? </item>
+        <item> About 10 minutes by bus. How to translate? </item>
+        <item> Clarify: is it far from here? </item>
+        <item> How to tell someone that you are happy to meet him? </item>
+        <item> Ask where is the nearest hotel? </item>
+        <item> You are hungry! Tell me about it </item>
+        <item> You have found an exhibition, but you do not know how much it costs to enter. Ask this </item>
+        <item> You were told the price: 131 </item>
+        <item> And finally: what is your name? </item>
+    </string-array>
+
+    <string-array name = "famousQ">
+        <item> Steve Jobs is … </item>
+        <item> Tesla founder? </item>
+        <item> Who made the album \ "House with normal phenomena \" </item>
+        <item> An actor who never used stunt doubles and did all the stunts himself? </item>
+        <item> The director who made the cult films \ "Seven \", \ "Fight Club \"? </item>
+        <item> The elusive head of the Al-Qaeda terrorist network? </item>
+        <item> What is Mikhail Lomonosov\'s middle name? </item>
+        <item> Author of the most famous dystopia \ "1984 \" and the story \ "Animal Farm \"? </item>
+        <item> His YouTube channel celebrated its 10th anniversary in 2020. He does a funny video review on the Internet and sometimes deduces moral from what he sees. He also has another channel \ "Moran days \" </item>
+        <item> Google founder? </item>
+    </string-array>
+
+    <string-array name = "famousAns1">
+        <item> APPLE Founder </item>
+        <item> ANDROID Founder </item>
+    </string-array>
+    <string-array name = "famousAns2">
+        <item> Mark Zuckerberk </item>
+        <item> Elon Musk </item>
+        <item> Nikola Tesla </item>
+    </string-array>
+    <string-array name = "famousAns3">
+        <item> scriptonite </item>
+        <item> face </item>
+        <item> basta </item>
+    </string-array>
+    <string-array name = "famousAns4">
+        <item> Brad Pitt </item>
+        <item> Jackie Chan </item>
+        <item> Leonardo DiCaprio </item>
+    </string-array>
+    <string-array name = "famousAns5">
+        <item> Christopher Nolan </item>
+        <item> David Fincher </item>
+        <item> Frank Darabont </item>
+    </string-array>
+    <string-array name = "famousAns6">
+        <item> Osama bin Laden </item>
+        <item> Gaddafi </item>
+        <item> Al Mair </item>
+    </string-array>
+    <string-array name = "famousAns7">
+        <item> Ivanovich </item>
+        <item> Vasilievich </item>
+        <item> Andreevich </item>
+    </string-array>
+    <string-array name = "famousAns8">
+        <item> Aldous Huxley </item>
+        <item> George Orwell </item>
+        <item> Mikhail Zamyatin </item>
+    </string-array>
+    <string-array name = "famousAns9">
+        <item> Max +100500 </item>
+        <item> Stav Davydov </item>
+        <item> Anton Lapenko </item>
+    </string-array>
+    <string-array name = "famousAns10">
+        <item> Bill Gates </item>
+        <item> Larry Page </item>
+    </string-array>
+
+    <string-array name = "famousRight">
+        <item> APPLE Founder </item>
+        <item> Elon Musk </item>
+        <item> Scryptonite </item>
+        <item> Jackie Chan </item>
+        <item> David Fincher </item>
+        <item> Osama bin Laden </item>
+        <item> Vasilievich </item>
+        <item> George Orwell </item>
+        <item> Max +100500 </item>
+        <item> Larry Page </item>
+    </string-array>
+
+
+    <string-array name = "GodsQ">
+        <item> Let\'s start simple: Who is Zeus? </item>
+        <item> What is the name of the god of wine and entertainment? Not a bad god </item>
+        <item> Goddess of Love? </item>
+        <item> Ares is a god of what? </item>
+        <item> Who is Zeus\'s father? </item>
+        <item> What about the water god? </item>
+        <item> Demeter is the goddess of fertility </item>
+        <item> Which of the gods defends justice? </item>
+        <item> Hermes - a god of what? </item>
+        <item> Is Apollo the god of light or darkness? </item>
+        <item> Hades - used to be the god of Olympus </item>
+    </string-array>
+
+    <string-array name = "godsAns1">
+        <item> god of the gods </item>
+        <item> messenger </item>
+    </string-array>
+    <string-array name = "godsAns2">
+        <item> Mercury </item>
+        <item> Dionysus </item>
+        <item> Aphrodite </item>
+    </string-array>
+    <string-array name = "godsAns3">
+        <item> Aphrodite </item>
+        <item> Venus </item>
+    </string-array>
+    <string-array name = "godsAns4">
+        <item> battle </item>
+        <item> wars </item>
+        <item> of the world </item>
+    </string-array>
+    <string-array name = "godsAns5">
+        <item> Kronos </item>
+        <item> Neptune </item>
+        <item> Bronos </item>
+    </string-array>
+    <string-array name = "godsAns6">
+        <item> Aquaman </item>
+        <item> Poseidon </item>
+        <item> Neptune </item>
+    </string-array>
+    <string-array name = "godsAns7">
+        <item> true </item>
+        <item> invalid </item>
+    </string-array>
+    <string-array name = "godsAns8">
+        <item> Zeus </item>
+        <item> Athena </item>
+        <item> Ares </item>
+    </string-array>
+    <string-array name = "godsAns9">
+        <item> trade and good luck </item>
+        <item> fun and happiness </item>
+        <item> troubles and sorrows </item>
+    </string-array>
+    <string-array name = "godsAns10">
+        <item> light </item>
+        <item> of darkness </item>
+    </string-array>
+    <string-array name = "godsAns11">
+        <item> everything is correct </item>
+        <item> invalid </item>
+    </string-array>
+
+    <string-array name = "GodsRight">
+        <item> god of the gods </item>
+        <item> Dionysus </item>
+        <item> Aphrodite </item>
+        <item> wars </item>
+        <item> Kronos </item>
+        <item> Poseidon </item>
+        <item> true </item>
+        <item> Athena </item>
+        <item> trade and good luck </item>
+        <item> light </item>
+        <item> that\'s right. He was banished </item>
+    </string-array>
+
+
+    <string-array name = "erudQ">
+        <item> The largest planet in our solar system? </item>
+        <item> Black Panthers are </item>
+        <item> Oxygen makes up … the Earth\'s atmosphere </item>
+        <item> Ancient Greek god of wine and fun </item>
+        <item> 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144. What is this? </item>
+        <item> Thomas Edisson invented the light bulb </item>
+        <item> Mental stress requires more energy than physical activity </item>
+        <item> Which animal is immortal? </item>
+        <item> Who ruled Russia the longest? </item>
+        <item> The very first computer appeared in </item>
+    </string-array>
+
+    <string-array name = "erudAns1">
+        <item> Saturn </item>
+        <item> Jupiter </item>
+        <item> Neptune </item>
+    </string-array>
+    <string-array name = "erudAns2">
+        <item> panthers </item>
+        <item> black leopards </item>
+        <item> black tigers </item>
+    </string-array>
+    <string-array name = "erudAns3">
+        <item> approximately 20% </item>
+        <item> approximately 30% </item>
+        <item> approximately 70% </item>
+    </string-array>
+    <string-array name = "erudAns4">
+        <item> Dionysus </item>
+        <item> Hermes </item>
+        <item> Ares </item>
+    </string-array>
+    <string-array name = "erudAns5">
+        <item> primes </item>
+        <item> Fibonacci numbers </item>
+        <item> messy numbers </item>
+    </string-array>
+    <string-array name = "erudAns6">
+        <item> false </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "erudAns7">
+        <item> false </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "erudAns8">
+        <item> jellyfish </item>
+        <item> tardigrade </item>
+    </string-array>
+    <string-array name = "erudAns9">
+        <item> Peter the First </item>
+        <item> Ivan the Terrible </item>
+        <item> Putin </item>
+    </string-array>
+    <string-array name = "erudAns10">
+        <item> 1946 </item>
+        <item> 1954 </item>
+    </string-array>
+
+    <string-array name = "erudRight">
+        <item> Jupiter </item>
+        <item> black leopards </item>
+        <item> approximately 20% </item>
+        <item> Dionysus </item>
+        <item> Fibonacci numbers (golden ratio) </item>
+        <item> is false. He didn\'t invent anything. He patented and not always in an honest way </item>
+        <item> true </item>
+        <item> jellyfish </item>
+        <item> Ivan the Terrible. He ruled for 50 years </item>
+        <item> 1946 </item>
+    </string-array>
+
+    <string-array name = "evQ">
+        <item> Stage 1: a transitional link between a monkey and a man </item>
+        <item> Stage 2: the first full-fledged representative of the human race </item>
+        <item> Stage 3: had a well-developed brain, which allowed him to make complex tools and conduct a collective hunt, skillfully use fire, quickly respond to changing environmental conditions </item>
+        <item> Stage 4: the brain was as well developed as that of a modern person </item>
+        <item> Stage 5: his appearance practically did not differ from the appearance of a modern person </item>
+        <item> Part of biological evolution that led to Homo sapiens </item>
+    </string-array>
+    <string-array name = "evAns1">
+        <item> Australopithecus </item>
+        <item> driopithecus </item>
+        <item> Neanderthal </item>
+    </string-array>
+    <string-array name = "evAns2">
+        <item> erect person </item>
+        <item> a skilled person </item>
+    </string-array>
+    <string-array name = "evAns3">
+        <item> Cro-Magnon </item>
+        <item> erect person </item>
+        <item> skillful person </item>
+    </string-array>
+    <string-array name = "evAns4">
+        <item> Neanderthal </item>
+        <item> archanthropus </item>
+    </string-array>
+    <string-array name = "evAns5">
+        <item> skillful person </item>
+        <item> Cro-Magnon </item>
+    </string-array>
+    <string-array name = "evAns6">
+        <item> anthropogenesis </item>
+        <item> abiogenesis </item>
+    </string-array>
+
+    <string-array name = "evRight">
+        <item> Australopithecus </item>
+        <item> a skilled person </item>
+        <item> erect person </item>
+        <item> Neanderthal </item>
+        <item> Cro-Magnon </item>
+        <item> anthropogenesis. Abiogenesis is the process of transformation of inanimate nature into living nature </item>
+    </string-array>
+
+
+    <string-array name = "potterQ">
+        <item> Who wrote Harry Potter? </item>
+        <item> Who has never owned the Elder Wand? </item>
+        <item> How many Deathly Hallows were there in Bard Biddle\'s tale? </item>
+        <item> What spell did Gilderoy Lockhart succeed in? </item>
+        <item> What was the last name of Severus Snape\'s mother? </item>
+        <item> Albus Dumbledore\'s full name does not include </item>
+        <item> What did Crybaby Myrtle die of? </item>
+        <item> Who, besides Harry Potter, did the prophecy point to? </item>
+        <item> What spell did Harry use to slay Draco in the men\'s room? </item>
+        <item> How many times did Harry really kiss Hermione? </item>
+    </string-array>
+
+    <string-array name = "potterAns1">
+        <item> J.K. Rowling </item>
+        <item> N.K. Rowling </item>
+        <item> M.K. Rowling </item>
+    </string-array>
+    <string-array name = "potterAns2">
+        <item> Dumbledore </item>
+        <item> Voldemort </item>
+        <item> Draco </item>
+    </string-array>
+    <string-array name = "potterAns3">
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> after the fact 1 </item>
+    </string-array>
+    <string-array name = "potterAns4">
+        <item> Alohomora </item>
+        <item> Pouring </item>
+        <item> Expelliarmus </item>
+    </string-array>
+    <string-array name = "potterAns5">
+        <item> Prince </item>
+        <item> Lord </item>
+        <item> Half-breed </item>
+    </string-array>
+    <string-array name = "potterAns6">
+        <item> Brian </item>
+        <item> Gellert </item>
+        <item> Percival </item>
+    </string-array>
+    <string-array name = "potterAns7">
+        <item> from the gaze of the Basilisk </item>
+        <item> by the bite of Aragog </item>
+        <item> drowned </item>
+    </string-array>
+    <string-array name = "potterAns8">
+        <item> Ron Weasley </item>
+        <item> Neville Longbottom </item>
+        <item> Sirius Black </item>
+    </string-array>
+    <string-array name = "potterAns9">
+        <item> Expelliarmus </item>
+        <item> Sectumsempra </item>
+        <item> Crucio </item>
+    </string-array>
+    <string-array name = "potterAns10">
+        <item> never </item>
+        <item> one was </item>
+    </string-array>
+
+    <string-array name = "hobbyQ">
+        <item> Do you think you have a sense of style? </item>
+        <item> What do you enjoy the most? </item>
+        <item> Can you say to yourself that you are assiduous? </item>
+        <item> What attracts you more in a person? </item>
+        <item> Do you have enough harmony in your life? </item>
+        <item> Do you like all kinds of body exercises? </item>
+    </string-array>
+
+    <string-array name = "hobbyAns1">
+        <item> yes </item>
+        <item> no </item>
+    </string-array>
+    <string-array name = "hobbyAns2">
+        <item> from result </item>
+        <item> from process </item>
+    </string-array>
+    <string-array name = "hobbyAns3">
+        <item> yes </item>
+        <item> no </item>
+    </string-array>
+    <string-array name = "hobbyAns4">
+        <item> mind </item>
+        <item> sociability </item>
+    </string-array>
+    <string-array name = "hobbyAns5">
+        <item> missing </item>
+        <item> missing </item>
+    </string-array>
+    <string-array name = "hobbyAns6">
+        <item> love </item>
+        <item> no </item>
+    </string-array>
+
+    <string-array name = "kidsQ">
+        <item> Do microbes see each other? </item>
+        <item> What makes the plane hang in the air? </item>
+        <item> Why is the Earth round? </item>
+        <item> Why is there no mouse-flavored cat food? </item>
+        <item> Why does a cat\'s eyes glow in the dark? </item>
+        <item> Why is blood red and veins blue? </item>
+        <item> Why do butterflies fly to the light? </item>
+        <item> Why aren\'t all flamingos pink? </item>
+        <item> And the main question:
+Which came first: chicken or egg? </item>
+    </string-array>
+
+    <string-array name = "kidsAns1">
+        <item> see </item>
+        <item> do not see </item>
+    </string-array>
+    <string-array name = "kidsAns2">
+        <item> lift </item>
+        <item> engine </item>
+        <item> gravity </item>
+    </string-array>
+    <string-array name = "kidsAns3">
+        <item> because of the sun </item>
+        <item> due to gravity </item>
+        <item> god did it </item>
+    </string-array>
+    <string-array name = "kidsAns4">
+        <item> people don\'t want to eat mice </item>
+        <item> cats don\'t want to eat mice </item>
+        <item> mice tasteless </item>
+    </string-array>
+    <string-array name = "kidsAns5">
+        <item> they are off </item>
+        <item> because of the special light </item>
+        <item> due to a special substance in the eyes </item>
+    </string-array>
+    <string-array name = "kidsAns6">
+        <item> due to different environments </item>
+        <item> due to light reflection </item>
+        <item> because the veins are blue </item>
+    </string-array>
+    <string-array name = "kidsAns7">
+        <item> they think it\'s the moon </item>
+        <item> they don\'t fly into the light </item>
+    </string-array>
+    <string-array name = "kidsAns8">
+        <item> their color depends on the diet </item>
+        <item> due to different genes </item>
+    </string-array>
+    <string-array name = "kidsAns9">
+        <item> chicken </item>
+        <item> egg </item>
+    </string-array>
+
+
+    <string-array name = "kidsRight">
+        <item> is not visible. Because microbes know about each other\'s existence, although, of course, they do not think about it - they have nothing to do with it. Actually, they do not see each other for the same reason </item>
+        <item> lift. That\'s what wings are for </item>
+        <item> due to gravity. The sun, stars, Earth, Moon, all planets and their large satellites are "round" (spherical) because they have a very large mass. Their own gravitational force (gravity) tends to give them the shape of a ball </item>
+        <item> people don\'t want to eat mice. To do something with mice bites, you need to know what they taste like </item>
+        <item> they do not light up. They only reflect light, but very well, thanks to which cats see in the dark much better than us </item>
+        <item> due to light reflection </item>
+        <item> they think it\'s the moon </item>
+        <item> their color depends on the diet. Their pink coloration comes from small red crustaceans that contain a carotenoid </item>
+        <item> egg. It is obvious. It is not a living creature that evolves, but its descendants. Hence, there was some species that laid an egg and hatched the first hen </item>
+    </string-array>
+
+    <string-array name = "kosmosQ">
+        <item> Let\'s start simple:
+what galaxy are we in? </item>
+        <item> Black Hole: Part 1.
+Is she really black? </item>
+        <item> Black hole: part 2.
+If we replace our Sun with a black hole of the same mass, then … </item>
+        <item> Okay, is there really absolute silence in space? </item>
+        <item> Is there a vacuum in space? </item>
+        <item> The sun is gone.
+How long will we know about it? (Approximately) </item>
+        <item> This is one small step for a person, but a giant leap for all of humanity.
+Can you still see Neil Armstrong\'s trail on the moon? </item>
+        <item> Is Earth the only planet with water? </item>
+        <item> Exoplanets are … </item>
+        <item> Time always goes slower in space </item>
+        <item> Okay, what is hindering the passage of time? </item>
+        <item> Does the sun rotate on its axis? </item>
+        <item> And the moon? </item>
+        <item> Is Time Travel Real? </item>
+        <item> Time goes by near the black hole … </item>
+        <item> One last thing:
+What is the shape of the universe? (According to the latest theory) </item>
+    </string-array>
+
+    <string-array name = "kosmosAns1">
+        <item> micky way </item>
+        <item> milky way </item>
+        <item> milky road </item>
+    </string-array>
+    <string-array name = "kosmosAns2">
+        <item> no </item>
+        <item> yes, from the name it is even clear </item>
+    </string-array>
+    <string-array name = "kosmosAns3">
+        <item> Earth will remain in its orbit </item>
+        <item> Everything nearby will be sucked in by a black hole </item>
+        <item> absolutely nothing will change </item>
+    </string-array>
+    <string-array name = "kosmosAns4">
+        <item> yes, there is a vacuum </item>
+        <item> yes, but only for our ears </item>
+        <item> there is sound in star wars, so .. </item>
+    </string-array>
+    <string-array name = "kosmosAns5">
+        <item> of course </item>
+        <item> not quite </item>
+    </string-array>
+    <string-array name = "kosmosAns6">
+        <item> 8 minutes </item>
+        <item> 10 minutes </item>
+        <item> 15 minutes </item>
+    </string-array>
+    <string-array name = "kosmosAns7">
+        <item> no, too many years have passed </item>
+        <item> yes, it\'s still there! </item>
+    </string-array>
+    <string-array name = "kosmosAns8">
+        <item> true </item>
+        <item> there are others </item>
+    </string-array>
+    <string-array name = "kosmosAns9">
+        <item> planets where life is possible </item>
+        <item> planets outside the solar system </item>
+        <item> planets with temperatures over 100 degrees Celsius </item>
+    </string-array>
+    <string-array name = "kosmosAns10">
+        <item> invalid </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "kosmosAns11">
+        <item> gravity </item>
+        <item> dark matter </item>
+        <item> supernovae </item>
+    </string-array>
+    <string-array name = "kosmosAns12">
+        <item> no </item>
+        <item> natural </item>
+    </string-array>
+    <string-array name = "kosmosAns13">
+        <item> rotates </item>
+        <item> does not rotate </item>
+    </string-array>
+    <string-array name = "kosmosAns14">
+        <item> only in movies </item>
+        <item> theoretically possible </item>
+    </string-array>
+    <string-array name = "kosmosAns15">
+        <item> faster </item>
+        <item> slower </item>
+    </string-array>
+    <string-array name = "kosmosAns16">
+        <item> donut shaped </item>
+        <item> cylindrical </item>
+    </string-array>
+
+    <string-array name = "rightKosmos">
+        <item> milky way </item>
+        <item> is not. A black hole even absorbs photons (light particles), so in fact it has no color, it is physically impossible to see it </item>
+        <item> The Earth will remain in its orbit. The black hole sucks in everything thanks to its infinite mass. And the condition says that its mass is equal to the mass of the Sun. This means that everything will remain in place </item>
+        <item> yes, but only for our ears. There are sounds in space, but at frequencies that the human ear is not able to pick up </item>
+        <item> not really. Outer space has very low density and pressure and is the best approximation of a physical vacuum. The cosmic vacuum is not really perfect, even in interstellar space there are several hydrogen atoms per cubic centimeter </item>
+        <item> 8 minutes </item>
+        <item> yes, it\'s still there! There is no atmosphere on the moon </item>
+        <item> there are others </item>
+        <item> planets outside the solar system </item>
+        <item> invalid </item>
+        <item> gravity. The closer to the massive body, the slower time goes </item>
+        <item> natural </item>
+        <item> rotates </item>
+        <item> theoretically possible </item>
+        <item> is slower. Since a black hole has infinite mass </item>
+        <item> donut shaped </item>
+    </string-array>
+
+    <string-array name = "mathQ">
+        <item> Once and for all:
+0 is </item>
+        <item> Sum of numbers from 1 to 100 </item>
+        <item> Zero is the only number in existence that has multiple names </item>
+        <item> Of all shapes with the same perimeter, which shape has the largest area? </item>
+        Is <item> 10 a number? </item>
+        <item> How many numbers in mathematics that cannot be written in Roman numerals? </item>
+        <item> Einstein remembered the number of one lady like this:
+two dozen and 19 squared. What number is that? </item>
+    </string-array>
+
+    <string-array name = "mathAns1">
+        <item> even </item>
+        <item> neutral </item>
+        <item> odd </item>
+    </string-array>
+    <string-array name = "mathAns2">
+        <item> 5050 </item>
+        <item> 3030 </item>
+        <item> 5500 </item>
+    </string-array>
+    <string-array name = "mathAns3">
+        <item> true </item>
+        <item> false </item>
+    </string-array>
+    <string-array name = "mathAns4">
+        <item> square </item>
+        <item> circle </item>
+        <item> triangle </item>
+    </string-array>
+    <string-array name = "mathAns5">
+        <item> number </item>
+        <item> digit </item>
+    </string-array>
+    <string-array name = "mathAns6">
+        <item> there are none </item>
+        <item> one </item>
+        <item> five </item>
+    </string-array>
+    <string-array name = "mathAns7">
+        <item> 24–361 </item>
+        <item> 12–361 </item>
+    </string-array>
+
+
+    <string-array name = "mathRight">
+        <item> even </item>
+        <item> 5050 </item>
+        <item> is true. Zero and zero. Zero and Null </item>
+        <item> circle </item>
+        <item> number. Only 10 digits (0 … 9) that form numbers </item>
+        <item> one. This is zero </item>
+        <item> 24–361. A dozen is 12. Two dozen is 24 </item>
+    </string-array>
+
+    <string-array name = "mith2Q">
+        <item> Citrus is the best source of vitamin C </item>
+        <item> Coca-Cola did not invent Santa Claus </item>
+        <item> There are two types of sunflower oil: good and "bad" with cholesterol </item>
+        <item> Beer and soda won\'t quench your thirst </item>
+        <item> A frightened ostrich hides its head in the sand </item>
+        <item> Can I look at welding? </item>
+        <item> Touching a toad will cause a wart </item>
+        <item> You can\'t sit close to the TV </item>
+        <item> Chloroform vapor can quickly put a person to sleep </item>
+        <item> Report missing person at least 24 hours later </item>
+    </string-array>
+
+    <string-array name = "mith2Ans1">
+        <item> this is a myth </item>
+        <item> it\'s true </item>
+    </string-array>
+    <string-array name = "mith2Ans2">
+        <item> true </item>
+        <item> invented </item>
+    </string-array>
+    <string-array name = "mith2Ans3">
+        <item> true </item>
+        <item> does not happen with cholesterol </item>
+    </string-array>
+    <string-array name = "mith2Ans4">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mith2Ans5">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mith2Ans6">
+        <item> not allowed </item>
+        <item> you can, but not like a TV </item>
+    </string-array>
+    <string-array name = "mith2Ans7">
+        <item> myth </item>
+        <item> frog specific </item>
+    </string-array>
+    <string-array name = "mith2Ans8">
+        <item> myth </item>
+        <item> you can! </item>
+    </string-array>
+    <string-array name = "mith2Ans9">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mith2Ans10">
+        <item> everything is correct </item>
+        <item> myth </item>
+    </string-array>
+
+    <string-array name = "mith2Right">
+        <item> is a myth. The highest vitamin C content is found in fruits such as: cockatoo plum, Barbados cherry, rose hips, guava, bell peppers, black currants, sea buckthorn, parsley, broccoli </item>
+        <item> is true. It\'s like Roscosmos invented space </item>
+        <item> does not happen with cholesterol </item>
+        <item> true </item>
+        <item> myth. The frightened ostrich runs away </item>
+        <item> you can, but not like a TV </item>
+        <item> myth </item>
+        <item> you can! </item>
+        <item> myth. This will take enough time </item>
+        <item> myth. If you are sure that a person is missing, then you need to report immediately </item>
+    </string-array>
+
+
+
+    <string-array name = "mithQ">
+        <item> Everyone knows:
+carrots improve eyesight </item>
+        <item> Coffee in reasonable amounts is not harmful to our body </item>
+        <item> Fresh is no better than frozen </item>
+        <item> We use the brain as much as possible </item>
+        <item> Hair and nails continue to grow after death </item>
+        <item> If we are cold, then we will get sick </item>
+        <item> You can swim after eating! </item>
+        <item> Reading in dim light impairs vision </item>
+        <item> Salt is very harmful </item>
+        <item> A shot works better than a pill </item>
+    </string-array>
+
+    <string-array name = "mithAns1">
+        <item> this is a myth </item>
+        <item> it\'s true </item>
+    </string-array>
+    <string-array name = "mithAns2">
+        <item> harmful </item>
+        <item> not harmful </item>
+    </string-array>
+    <string-array name = "mithAns3">
+        <item> true </item>
+        <item> false </item>
+    </string-array>
+    <string-array name = "mithAns4">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mithAns5">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mithAns6">
+        <item> not true </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mithAns7">
+        <item> you can </item>
+        <item> not allowed </item>
+    </string-array>
+    <string-array name = "mithAns8">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mithAns9">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "mithAns10">
+        <item> always </item>
+        <item> not always </item>
+    </string-array>
+
+    <string-array name = "mithRight">
+        <item> is a myth. However, vitamins, trace minerals and other components of this vegetable are beneficial for eye health and help reduce the risk of developing certain eye conditions, provided that carrots are part of a balanced diet </item>
+        <item> not harmful </item>
+        <item> true </item>
+        <item> true </item>
+        <item> myth. Nothing gets to them, so their growth is impossible </item>
+        <item> is not true. We do not get sick from the cold, but from bacteria and viruses </item>
+        <item> you can </item>
+        <item> myth. Eyes just get tired faster </item>
+        <item> myth </item>
+        <item> not always </item>
+    </string-array>
+
+
+
+    <string-array name = "homeQ">
+        <item> During the inspection, no one rushed you, and you asked all your questions. Nevertheless, before making a final decision, you would like to take another look at one of the premises of your future home. What part of the house requires additional inspection? </item>
+    </string-array>
+
+    <string-array name = "homeAns">
+        <item> bathroom </item>
+        <item> bedroom </item>
+        <item> kitchen </item>
+        <item> veranda / garden </item>
+    </string-array>
+
+    <string-array name = "openQ">
+        <item> Perhaps the most famous discovery is penicillin. It was discovered by biologist Sir Alexander Fleming. What bacteria was he researching during this period? </item>
+        <item> Magnetron, chocolate bar, pocket - what discovery is all this connected with? </item>
+        <item> Sparkling wine was considered a sure sign of poor quality winemaking. Dom Pierre Pérignon struggled with this by making its own wine, but eventually spread all over the world ... what? </item>
+        <item> Spencer Silver worked with a strong adhesive formula, but was able to create only a very weak adhesive that could be removed with little or no effort. Subsequently, thanks to Arthur Fry, this led to the discovery of what? </item>
+        <item> Which of this, like penicillin, was discovered by accident and still saves human lives? </item>
+        <item> This accidental discovery was used to heal wounded soldiers in Vietnam: it was sprayed onto open wounds, stopping bleeding, making it easier to transport soldiers </item>
+        <item> Finally:
+a drug that appeared by accident </item>
+    </string-array>
+
+    <string-array name = "openAns1">
+        <item> bacteria bacillus </item>
+        <item> Staphylococcus bacteria </item>
+        <item> coccobacillus bacteria </item>
+    </string-array>
+    <string-array name = "openAns2">
+        <item> microwave </item>
+        <item> electromagnetic oven </item>
+        <item> oven </item>
+    </string-array>
+    <string-array name = "openAns3">
+        <item> champagne </item>
+        <item> beer </item>
+        <item> cider </item>
+    </string-array>
+    <string-array name = "openAns4">
+        <item> bookmarks </item>
+        <item> Post-It Stickers </item>
+        <item> postage stamps </item>
+    </string-array>
+    <string-array name = "openAns5">
+        <item> Pacemaker </item>
+        <item> defibrillator </item>
+        <item> aspirin </item>
+    </string-array>
+    <string-array name = "openAns6">
+        <item> hydrogen peroxide </item>
+        <item> superglue </item>
+        <item> chlorine </item>
+    </string-array>
+    <string-array name = "openAns7">
+        <item> LSD </item>
+        <item> heroin </item>
+        <item> cocaine </item>
+    </string-array>
+
+    <string-array name = "openRight">
+        <item> Staphylococcus bacteria </item>
+        <item> microwave. American engineer Percy Spencer first noticed the ability of microwave radiation to heat food and patented the microwave oven. When he was experimenting with another magnetron, Spencer noticed that a piece of chocolate in his pocket had melted. </item>
+        <item> champagne. Here\'s a paradox </item>
+        <item> Post-It Stickers </item>
+        <item> Pacemaker </item>
+        <item> superglue </item>
+        <item> LSD. Albert Hofmann touched the substance with the tip of his injured finger. This day went down in history as "Bicycle Day". A few minutes after taking LSD, Albert could no longer form coherent sentences and, watched by his assistant, rode his bike home. During the trip, he felt the effects of LSD even more clearly </item>
+    </string-array>
+
+
+    <string-array name = "orgQ">
+        <item> Sometimes we twitch in sleep, do you know?
+Why? </item>
+        <item> Popular question:
+how many bones are in the human body? </item>
+        <item> How much information can our brain hold? </item>
+        <item> What happens when you sneeze? </item>
+        <item> Women\'s hearts beat faster than men\'s.
+Myth? </item>
+        <item> How many dreams do we completely forget? </item>
+        <item> What is the total weight of bacteria living in humans? </item>
+        <item> Babies are born without knee caps.
+Is it a myth or not? </item>
+        <item> What are the strongest muscles in the human body? </item>
+        <item> Finally: have you tried sneezing with your eyes open?
+Did it work? </item>
+    </string-array>
+
+    <string-array name = "orgAns1">
+        <item> seeing nightmares </item>
+        <item> might send an electrical shock </item>
+        <item> the brain wakes up before dawn </item>
+    </string-array>
+    <string-array name = "orgAns2">
+        <item> 205–207 </item>
+        <item> 195-197 </item>
+        <item> 210-212 </item>
+    </string-array>
+    <string-array name = "orgAns3">
+        <item> more than 4 terabytes </item>
+        <item> over 4 gigabytes </item>
+        <item> over 4 petabytes </item>
+    </string-array>
+    <string-array name = "orgAns4">
+        <item> all bodily functions stop </item>
+        <item> everything but the heart, of course </item>
+        <item> one nerve bursts </item>
+    </string-array>
+    <string-array name = "orgAns5">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "orgAns6">
+        <item> 65% </item>
+        <item> 98% </item>
+        <item> 50% </item>
+    </string-array>
+    <string-array name = "orgAns7">
+        <item> 2 kilograms </item>
+        <item> 200 grams </item>
+        <item> 20 kilograms </item>
+    </string-array>
+    <string-array name = "orgAns8">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "orgAns9">
+        <item> calf </item>
+        <item> gluteal </item>
+        <item> eye </item>
+    </string-array>
+    <string-array name = "orgAns10">
+        <item> of course </item>
+        <item> this is not possible :) </item>
+    </string-array>
+
+    <string-array name = "orgRight">
+        <item> can send an electrical shock. Sometimes the brain takes actions in a dream for real, so it sends an electric charge (that is, orders) the body to perform the action </item>
+        <item> 205–207 </item>
+        <item> is larger than 4 terabytes. </item>
+        <item> all bodily functions stop </item>
+        <item> is true. A woman\'s heart is slightly smaller than a man\'s and therefore beats faster. For men, it makes an average of 60–70 beats per minute, for women – 80–90 </item>
+        <item> 98% </item>
+        <item> 200 grams </item>
+        <item> is true. They are formed later </item>
+        <item> calf </item>
+        <item> it\'s impossible :) Eyes close due to involuntary muscle contractions. The muscles in your face contract when you sneeze. Hence the strange facial expression that is an integral part of this biological process. Some of these muscles surround your eyes, so when they contract, your eyes close </item>
+    </string-array>
+
+
+    <string-array name = "pcihonames">
+        <item> Are you Rick or Morty </item>
+        <item> What kind of comedian are you? </item>
+        <item> What kind of actor are you? </item>
+        <item> Choosing a hobby </item>
+        <item> Test for erudition </item>
+        <item> Zombieland </item>
+        <item> Real and made-up words </item>
+        <item> Animal Facts </item>
+        <item> Animal Facts Part 2 </item>
+        <item> Your country </item>
+        <item> Famous people </item>
+        <item> Harry Potter </item>
+        <item> Quotes </item>
+        <item> Unusual laws </item>
+        <item> Big Size </item>
+    </string-array>
+
+    <string-array name = "pcihonames2">
+        <item> 11 questions </item>
+        <item> 7 questions </item>
+        <item> 9 questions </item>
+        <item> 6 questions </item>
+        <item> 10 questions </item>
+        <item> 8 questions </item>
+        <item> 8 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 7 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 9 questions </item>
+        <item> 7 questions </item>
+    </string-array>
+
+    <string-array name = "pcihonamesforex">
+        <item> Are you Rick or Morty </item>
+        <item> What kind of comedian are you? </item>
+        <item> What kind of actor are you? </item>
+        <item> Test for erudition </item>
+        <item> Real and made-up words </item>
+        <item> Animal Facts </item>
+        <item> Animal Facts Part 2 </item>
+        <item> Famous people </item>
+        <item> Quotes </item>
+        <item> Unusual laws </item>
+        <item> Big Size </item>
+    </string-array>
+
+    <string-array name = "pcihonames2forex">
+        <item> 11 questions </item>
+        <item> 7 questions </item>
+        <item> 9 questions </item>
+        <item> 10 questions </item>
+        <item> 8 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 10 questions </item>
+        <item> 9 questions </item>
+        <item> 7 questions </item>
+    </string-array>
+
+    <string-array name = "physicsQ">
+        <item> Who formulated the law of universal gravitation? </item>
+        <item> The law according to which elastic deformations are directly proportional to the external influences causing them </item>
+        <item> How many laws are there that underlie Newtonian classical mechanics? </item>
+        <item> Boyle-Mariotte\'s Law describes which process? </item>
+        <item> The pressure exerted by external forces on the surface of a liquid or gas is transmitted equally in all directions </item>
+        <item> According to what law is it impossible to create a perpetual motion machine? </item>
+        <item> The rule governing the direction of induction currents arising from electromagnetic induction </item>
+        <item> And finally: the angle of incidence is … </item>
+    </string-array>
+
+    <string-array name = "physicsAns1">
+        <item> Archimedes </item>
+        <item> Newton </item>
+        <item> Einstein </item>
+    </string-array>
+    <string-array name = "physicsAns2">
+        <item> Hooke\'s Law </item>
+        <item> Kepler\'s Law </item>
+        <item> Newton\'s Law </item>
+    </string-array>
+    <string-array name = "physicsAns3">
+        <item> 3 </item>
+        <item> 2 </item>
+        <item> 1 </item>
+    </string-array>
+    <string-array name = "physicsAns4">
+        <item> exothermic </item>
+        <item> isothermal </item>
+    </string-array>
+    <string-array name = "physicsAns5">
+        <item> Archimedes\' Law </item>
+        <item> Pascal\'s law </item>
+        <item> Gay Lussac\'s Law </item>
+    </string-array>
+    <string-array name = "physicsAns6">
+        <item> law of conservation of energy </item>
+        <item> 1 Law of Hydrostatics </item>
+        <item> momentum conservation law </item>
+    </string-array>
+    <string-array name = "physicsAns7">
+        <item> Ohm\'s rule </item>
+        <item> Lenz\'s rule </item>
+        <item> German rule </item>
+    </string-array>
+    <string-array name = "physicsAns8">
+        <item> angle of reflection </item>
+        <item> 90 degrees </item>
+    </string-array>
+
+    <string-array name = "physicsRight">
+        <item> Newton </item>
+        <item> Hooke\'s Law </item>
+        <item> 3. The first law is known as the law of inertia. Newton\'s second law is the differential law of motion (acceleration). The third law - action is always equal and opposite opposition </item>
+        <item> isothermal </item>
+        <item> Pascal\'s law </item>
+        <item> the law of conservation of energy. Energy cannot arise from nothing and cannot disappear into nowhere </item>
+        <item> Lenz\'s rule </item>
+        <item> angle of reflection </item>
+    </string-array>
+
+
+    <string-array name = "pictureQ">
+        <item> You stand in front of a painting in a museum, put your hands behind your back and are trying your best to penetrate the artist\'s plan, when suddenly a complete stranger comes up to you and says something to you. Which of the following is the stranger telling you? </item>
+    </string-array>
+
+    <string-array name = "pictureAns">
+        <item> isn\'t this picture beautiful? </item>
+        <item> what do you think of this painting? </item>
+        <item> sorry, do you have time? </item>
+        <item> you know, I am an artist myself </item>
+    </string-array>
+
+    <string-array name = "porQ">
+        <item> Are you attracted by the opportunity to travel? </item>
+        <item> Do you love to learn something new? </item>
+        <item> Do you have trouble sleeping? </item>
+        <item> Are you a hospitable person? </item>
+        <item> Do you have a tendency to anticipate future problems? </item>
+        <item> Have your friends achieved more in life than you? </item>
+        <item> Do you like to play sports? </item>
+        <item> Does fate often surprise you? </item>
+        <item> Are you worried about the current state of the environment? </item>
+        <item> Has scientific progress caused the planet too many problems? </item>
+        <item> Is your profession chosen well? </item>
+        <item> Do you often use insurance? </item>
+        <item> Are you a mobile person? Is it easy for you to move to another place if you are offered something you like? </item>
+        <item> Do you consider yourself cute? </item>
+        <item> Are you worried about the condition of your body? </item>
+        <item> Are you not embarrassed by being in an unfamiliar team? </item>
+        <item> Love to be in the center of the action? </item>
+        <item> Is there friendship without mutual benefit? </item>
+        <item> Do you have your own personal characteristics? </item>
+        <item> Does everyone build their own destiny? </item>
+    </string-array>
+
+    <string-array name = "porAns">
+        <item> yes </item>
+        <item> no </item>
+    </string-array>
+
+    <string-array name = "psychonames">
+        <item> Pessimist, Optimist, Realist </item>
+        <item> Under the blue sky </item>
+        <item> Bluebird </item>
+        <item> Bat in the cave </item>
+        <item> Painting </item>
+        <item> Egg </item>
+        <item> Litigation </item>
+        <item> New home </item>
+        <item> Cats </item>
+        <item> Tidbit </item>
+        <item> The Tale of Cinderella </item>
+        <item> Are you confident </item>
+        <item> Type of temperament </item>
+        <item> Victim Complex </item>
+        <item> Ability for self-development </item>
+        <item> Control </item>
+    </string-array>
+
+    <string-array name = "psychonames2">
+        <item> 20 questions </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 1 question </item>
+        <item> 7 questions </item>
+        <item> 14 questions </item>
+        <item> 10 questions </item>
+        <item> 18 questions </item>
+        <item> 10 questions </item>
+    </string-array>
+
+    <string-array name = "quotesQ">
+        <item> He is not great who has never fallen, but he is great who fell and got up! </item>
+        <item> We love only once in our life, and after that we only look for similar ones </item>
+        <item> The one who is to blame does not always ask for forgiveness. The one who values ​​the relationship asks for forgiveness </item>
+        <item> Conquer yourself and win thousands of battles </item>
+        <item> Dance as if no one is looking at you
+Sing like nobody hears you
+Love as if you were never betrayed and live as if the earth is paradise </item>
+        <item> Sympathy is when you like appearance, falling in love - when you like appearance and character, and love is when you like even flaws </item>
+        <item> A true friend is a person who will express to your eyes everything that he thinks about you, and will tell everyone that you are a wonderful person </item>
+        <item> Women inspire us to do great things, but they always prevent us from doing them </item>
+        <item> Seeing and feeling is to be, to think, is to live </item>
+        <item> Soldiers are not born, soldiers die </item>
+    </string-array>
+
+    <string-array name = "quotesAns1">
+        <item> Confucius </item>
+        <item> Muhammad Ali </item>
+        <item> Jackie Chan </item>
+    </string-array>
+    <string-array name = "quotesAns2">
+        <item> E.M. Remark </item>
+        <item> S. Yesenin </item>
+        <item> A.S. Pushkin </item>
+    </string-array>
+    <string-array name = "quotesAns3">
+        <item> E.M. Remark </item>
+        <item> S. Yesenin </item>
+        <item> A.S. Pushkin </item>
+    </string-array>
+    <string-array name = "quotesAns4">
+        <item> Sun Tzu </item>
+        <item> Buddha </item>
+        <item> Confucius </item>
+    </string-array>
+    <string-array name = "quotesAns5">
+        <item> Mark Twain </item>
+        <item> Vysotsky </item>
+        <item> J.K. Rowling </item>
+    </string-array>
+    <string-array name = "quotesAns6">
+        <item> Saint-Exupery </item>
+        <item> A. Dumas </item>
+        <item> Oscar Wilde </item>
+    </string-array>
+    <string-array name = "quotesAns7">
+        <item> Mike Tyson </item>
+        <item> Omar Khayyam </item>
+        <item> John Lenon </item>
+    </string-array>
+    <string-array name = "quotesAns8">
+        <item> Oscar Wilde </item>
+        <item> Omar Khayyam </item>
+        <item> Saint-Exupery </item>
+    </string-array>
+    <string-array name = "quotesAns9">
+        <item> Galileo </item>
+        <item> William Shakespeare </item>
+        <item> Confucius </item>
+    </string-array>
+    <string-array name = "quotesAns10">
+        <item> Egor Letov </item>
+        <item> Sun Tzu </item>
+        <item> Buddha </item>
+    </string-array>
+
+    <string-array name = "quotesRight">
+        <item> Confucius </item>
+        <item> S. Yesenin </item>
+        <item> E.M. Remark </item>
+        <item> Buddha </item>
+        <item> Mark Twain </item>
+        <item> Saint-Exupery </item>
+        <item> Omar Khayyam </item>
+        <item> Oscar Wilde </item>
+        <item> William Shakespeare </item>
+        <item> Egor Letov </item>
+    </string-array>
+
+
+    <string-array name = "romQ">
+        <item> First of all:
+is a keel pool a good idea? </item>
+        <item> How do you like the Intercessors (parody of the Avengers)? </item>
+        <item> How many parallel worlds are there?
+Specifically </item>
+        <item> In one episode, Morty came up with an adventure himself. This is where King Gelatin comes in
+The adventure was … </item>
+        <item> How can a person\'s cynicism be justified? </item>
+        <item> Is it necessary to rid the world of all evil? </item>
+        <item> Every creature deserves freedom </item>
+        <item> Rick created an entire mini-universe that powers his ship\'s engine </item>
+        <item> Were you impressed with the cucumber transformation? </item>
+        <item> In one of the worlds you meet a girl who is in danger.
+Will you help her? </item>
+        <item> And finally:
+Sichuan sauce or the love of a lifetime? </item>
+    </string-array>
+
+    <string-array name = "romAns1">
+        <item> natural </item>
+        <item> nope </item>
+        <item> why? </item>
+    </string-array>
+    <string-array name = "romAns2">
+        <item> they are cool </item>
+        <item> without Rick they are nothing </item>
+        <item> are those that all died? </item>
+    </string-array>
+    <string-array name = "romAns3">
+        <item> something like 20billion </item>
+        <item> inverted figure eight </item>
+        <item> this is just a theory </item>
+    </string-array>
+    <string-array name = "romAns4">
+        <item> great </item>
+        <item> terrible </item>
+        <item> how did you go to the toilet? </item>
+    </string-array>
+    <string-array name = "romAns5">
+        <item> a great loss </item>
+        <item> endless number of worlds </item>
+    </string-array>
+    <string-array name = "romAns6">
+        <item> necessary evil exists </item>
+        <item> evil is evil, it is useless </item>
+    </string-array>
+    <string-array name = "romAns7">
+        <item> must be fought for </item>
+        <item> freedom is illusory </item>
+    </string-array>
+    <string-array name = "romAns8">
+        <item> it\'s practical </item>
+        <item> this is not ethical </item>
+        <item> this highlights the topic of the futility of being </item>
+    </string-array>
+    <string-array name = "romAns9">
+        <item> this is stupid </item>
+        <item> yeah, cucumber-Rick! </item>
+    </string-array>
+    <string-array name = "romAns10">
+        <item> definitely </item>
+        <item> no one can be trusted </item>
+    </string-array>
+    <string-array name = "romAns11">
+        <item> just give me this sauce </item>
+        <item> love </item>
+    </string-array>
+
+    <string-array name = "romRight">
+    <item> naturally - this is how Rick would answer
+     nope - that\'s what Morty would say </item>
+        <item> without Rick they are nothing - this is how Rick would answer
+     they\'re cool - that\'s what Morty would say </item>
+        <item> inverted figure eight (infinity) - this is how Rick would answer
+     something like 20 billion - that\'s what Morty would answer </item>
+        <item> great is Rick\'s answer
+     terrible (gelatin tried to rape him) - this is how Morty would answer </item>
+        <item> an infinite number of worlds - this is how Rick would answer
+     a great loss - that\'s what Morty would say </item>
+        <item> there is a necessary evil - this is how Rick would answer
+     evil is evil, it is useless - that\'s how Morty would answer </item>
+        <item> freedom is illusory - this is how Rick would answer
+     this must be fought for - that\'s what Morty would answer </item>
+        <item> it\'s practical - this is how Rick would answer
+     it\'s not ethical - that\'s what Morty would say </item>
+        <item> yeah cucumber-rick! - this is how Rick would answer
+     this is stupid - that\'s what Morty would answer </item>
+        <item> no one can be trusted - this is how Rick would answer
+     definitely - that\'s what Morty would answer </item>
+        <item> just give me this sauce - this is how Rick would answer
+     love is what Morty would say </item>
+    </string-array>
+
+    <string-array name = "selfQ">
+        <item> Why do your friends appreciate you? </item>
+        <item> Based on the comparative self-assessment, choose which characteristic suits you best </item>
+        <item> How do you feel about the idea of ​​keeping a personal diary, planning your work for a year, month, next week, day? </item>
+        <item> What prevents you the most from professional self-improvement, better studying? </item>
+        <item> What are the typical reasons for your mistakes and oversights? </item>
+        <item> Based on the comparative self-assessment, which characteristic suits you best? </item>
+        <item> Based on the comparative self-assessment, which characteristic suits you best? </item>
+        <item> Based on the comparative self-assessment, which characteristic suits you best? </item>
+        <item> Based on your comparative self-assessment, which qualities are you most developed? </item>
+        <item> What do you most often do when you have free time? </item>
+        <item> Which of the following areas has recently been of cognitive interest to you? </item>
+        <item> Who could you maximize your potential for? </item>
+        <item> How do teachers most often think or think of you? </item>
+        <item> Which of the three principles is closest to you and which do you adhere to most often? </item>
+        <item> Who is closest to your ideal? </item>
+        <item> Will you be able to achieve what you dream of in life? </item>
+        <item> What films do you like the most? </item>
+        <item> Imagine that you have made a million. Where would you like to spend it? </item>
+    </string-array>
+
+    <string-array name = "selfAns1">
+        <item> for being a loyal and loyal friend </item>
+        <item> strong and ready to stand up for friends in difficult times </item>
+        <item> erudite, interesting conversationalist </item>
+    </string-array>
+    <string-array name = "selfAns2">
+        <item> purposeful </item>
+        <item> hardworking </item>
+        <item> responsive </item>
+    </string-array>
+    <string-array name = "selfAns3">
+        <item> I think this is more often a waste of time </item>
+        <item> I tried to do this, but not regularly </item>
+        <item> positive, since I\'ve been doing this for a long time </item>
+    </string-array>
+    <string-array name = "selfAns4">
+        <item> not enough time </item>
+        <item> no suitable literature and conditions </item>
+        <item> lack of willpower and perseverance </item>
+    </string-array>
+    <string-array name = "selfAns5">
+        <item> inconsiderate </item>
+        <item> overestimate my abilities </item>
+        <item> don\'t know for sure </item>
+    </string-array>
+    <string-array name = "selfAns6">
+        <item> persistent </item>
+        <item> assiduous </item>
+        <item> friendly </item>
+    </string-array>
+    <string-array name = "selfAns7">
+        <item> decisive </item>
+        <item> inquisitive </item>
+        <item> fair </item>
+    </string-array>
+    <string-array name = "selfAns8">
+        <item> idea generator </item>
+        <item> critic </item>
+        <item> organizer </item>
+    </string-array>
+    <string-array name = "selfAns9">
+        <item> willpower </item>
+        <item> memory </item>
+        <item> required </item>
+    </string-array>
+    <string-array name = "selfAns10">
+        <item> I do what I love, I have a hobby </item>
+        <item> read fiction </item>
+        <item> spending time with friends or family </item>
+    </string-array>
+    <string-array name = "selfAns11">
+        <item> science fiction </item>
+        <item> religion </item>
+        <item> psychology </item>
+    </string-array>
+    <string-array name = "selfAns12">
+        <item> athlete </item>
+        <item> for scientists </item>
+        <item> artist </item>
+    </string-array>
+    <string-array name = "selfAns13">
+        <item> hardworking </item>
+        <item> quick-witted </item>
+        <item> disciplined </item>
+    </string-array>
+    <string-array name = "selfAns14">
+        <item> live and enjoy life </item>
+        <item> live to know more and be able to </item>
+        <item> to live life is not a field to go </item>
+    </string-array>
+    <string-array name = "selfAns15">
+        <item> a healthy person, strong in spirit </item>
+        <item> a person who knows a lot and is able </item>
+        <item> independent and self-confident person </item>
+    </string-array>
+    <string-array name = "selfAns16">
+        <item> think so </item>
+        <item> most likely yes </item>
+        <item> how lucky </item>
+    </string-array>
+    <string-array name = "selfAns17">
+        <item> adventure and romantic </item>
+        <item> comedy and entertainment </item>
+        <item> philosophical </item>
+    </string-array>
+    <string-array name = "selfAns18">
+        <item> would travel and see the world </item>
+        <item> would invest in what I love </item>
+        <item> would live for pleasure </item>
+    </string-array>
+
+    <string-array name = "standupQ">
+        <item> Do you often joke in a group? </item>
+        <item> Are these jokes successful? </item>
+        <item> Interesting ideas come to your mind? </item>
+        <item> Do you see things differently? </item>
+        <item> Do you often have unusual / funny situations? </item>
+        <item> Do you notice any nonsense going on around? </item>
+        <item> Can you convey a message to people? </item>
+    </string-array>
+
+    <string-array name = "standupAns1">
+        <item> always </item>
+        <item> usually not </item>
+    </string-array>
+    <string-array name = "standupAns2">
+        <item> yes, and not just for me </item>
+        <item> not always </item>
+    </string-array>
+    <string-array name = "standupAns3">
+        <item> rare </item>
+        <item> my head is teeming with them </item>
+    </string-array>
+    <string-array name = "standupAns4">
+        <item> no </item>
+        <item> yes </item>
+    </string-array>
+    <string-array name = "standupAns5">
+        <item> too often! </item>
+        <item> almost never </item>
+    </string-array>
+    <string-array name = "standupAns6">
+        <item> everything seems to be fine </item>
+        <item> full of silly things </item>
+    </string-array>
+    <string-array name = "standupAns7">
+        <item> can carry the parcel </item>
+        <item> can and will </item>
+    </string-array>
+
+    <string-array name = "standupRight">
+        <item> this is not typical of all comedians, but most (at least in the circle of close people) </item>
+        <item> if they are successful it is a good sign </item>
+        <item> fresh, interesting and even crazy thoughts are a sign of a great comedian </item>
+        <item> you need to look at things from a different angle, then you can make fun of anything </item>
+        <item> finalize a funny situation and a finished monologue will be released </item>
+        <item> stupid things make people laugh </item>
+        <item> this is also optional, but much more interesting </item>
+    </string-array>
+
+    <string-array name = "tastyQ">
+        <item> Imagine that you are lost in a dark forest and are already starting to experience the first pangs of hunger when you unexpectedly stumble upon a house consisting of sweets. How will you deal with this delicacy? </item>
+    </string-array>
+
+    <string-array name = "tastyAns">
+        <item> I will eat everything </item>
+        <item> I will try to taste as many different types of sweets as possible </item>
+        <item> I will find the most delicious part and will only eat it </item>
+        <item> actually, I don\'t really like sweets </item>
+    </string-array>
+
+    <string-array name = "tempQ">
+        <item> What is your character? </item>
+        <item> What emotions do you feel most often? </item>
+        <item> What games do you like? </item>
+        <item> How do you react to punishment? </item>
+        <item> How do you behave in unexpected situations? </item>
+        <item> How sociable are you? </item>
+        <item> Select a statement </item>
+        <item> Memory Features </item>
+        <item> How do you learn new things? </item>
+        <item> Fatigue: </item>
+        <item> Speech Features: </item>
+        <item> Movements: </item>
+        <item> Getting used to school: </item>
+        <item> Sleep Features: </item>
+    </string-array>
+
+    <string-array name = "tempAns1">
+        <item> calm, reserved, peaceful </item>
+        <item> timid, shy, impressionable </item>
+        <item> energetic, restless </item>
+        <item> cheerful, optimistic, compromise </item>
+    </string-array>
+    <string-array name = "tempAns2">
+        <item> positive, no violent reactions </item>
+        <item> fear </item>
+        <item> anger, violent emotions </item>
+        <item> positive emotions, I laugh a lot </item>
+    </string-array>
+    <string-array name = "tempAns3">
+        <item> secluded, quiet, calm </item>
+        <item> mobile and noisy - only with loved ones </item>
+        <item> gambling, noisy, mobile, even aggressive </item>
+        <item> all sorts of things, but to make it fun </item>
+    </string-array>
+    <string-array name = "tempAns4">
+        <item> almost emotionless </item>
+        <item> negative, resentful </item>
+        <item> to verbal - calm </item>
+        <item> calm </item>
+    </string-array>
+    <string-array name = "tempAns5">
+        <item> not very emotional </item>
+        <item> trying to avoid this situation </item>
+        <item> trying to resist </item>
+        <item> being curious </item>
+    </string-array>
+    <string-array name = "tempAns6">
+        <item> prefer privacy </item>
+        <item> I prefer solitude, I am sociable only with loved ones </item>
+        <item> I need viewers and companions </item>
+        <item> love society, get to know each other quickly </item>
+    </string-array>
+    <string-array name = "tempAns7">
+        <item> I have no authority and qualities of a leader </item>
+        <item> I have authority in a narrow circle of friends </item>
+        <item> nominating myself as a leader </item>
+        <item> born leader, soul of the company </item>
+    </string-array>
+    <string-array name = "tempAns8">
+        <item> I remember slowly, but I remember forever </item>
+        <item> I memorize in different ways, I delve into little things more </item>
+        <item> remember details quickly, but forget quickly </item>
+        <item> quickly and easily grasp the whole and remember for a long time </item>
+    </string-array>
+    <string-array name = "tempAns9">
+        <item> slow, but thorough </item>
+        <item> depends on the circumstances </item>
+        <item> catch on the fly, but forget quickly </item>
+        <item> quick and easy </item>
+    </string-array>
+    <string-array name = "tempAns10">
+        <item> very low, almost never tired </item>
+        <item> high </item>
+        <item> sometimes medium and sometimes high </item>
+        <item> average, I get tired in proportion to the activity </item>
+    </string-array>
+    <string-array name = "tempAns11">
+        <item> slow, no gestures, expressionless </item>
+        <item> quiet and uncertain, but expressive </item>
+        <item> speech is emotional, abrupt, fast </item>
+        <item> with gestures and facial expressions, expressive </item>
+    </string-array>
+    <string-array name = "tempAns12">
+        <item> solid, unhurried, slow </item>
+        <item> fussy, imprecise, unsure </item>
+        <item> sharp, choppy </item>
+        <item> rhythmic, precise, confident </item>
+    </string-array>
+    <string-array name = "tempAns13">
+        <item> fear of new, unwillingness to change </item>
+        <item> long addictive, difficult adaptation </item>
+        <item> reluctant submission to adult demands </item>
+        <item> easy and fast adaptation </item>
+    </string-array>
+    <string-array name = "tempAns14">
+        <item> fall asleep quickly, sleep well </item>
+        <item> go to bed for a long time, but fall asleep quickly </item>
+        <item> I fall asleep long and hard, sleep is restless </item>
+        <item> fall asleep quickly, sleep sound </item>
+    </string-array>
+
+    <string-array name = "thelawsQ">
+        <item> What is prohibited on Sunday afternoons in public places in Australia? </item>
+        <item> What not to do at train stations in England? </item>
+        <item> What is forbidden in the city of Eraclea, near Venice, on the beaches? </item>
+        <item> What has been banned from doing in Singapore since 1992? </item>
+        <item> In 2008, Japan decided to introduce an annual control over … its citizens aged 40–74 years
+Fill in the pass </item>
+        <item> In Canada, according to the law, from 6:00 to 18:00 from Monday to Friday, 35% of the radio airtime must be … </item>
+        <item> In Thailand, you will be fined if you step on the banknote with the image of the monarch
+Seriously? </item>
+        <item> What not to do in Belgium during the cold season? </item>
+        <item> What is prohibited in Italy in St. Mark\'s Square? </item>
+    </string-array>
+
+    <string-array name = "thelawsAns1">
+        <item> appear in pink pants </item>
+        <item> use column </item>
+        <item> walk the dog </item>
+    </string-array>
+    <string-array name = "thelawsAns2">
+        <item> kiss </item>
+        <item> read book </item>
+        <item> to be </item>
+    </string-array>
+    <string-array name = "thelawsAns3">
+        <item> be naked </item>
+        <item> building sand castles </item>
+        <item> feed the seagulls </item>
+    </string-array>
+    <string-array name = "thelawsAns4">
+        <item> chew gum </item>
+        <item> use plastic </item>
+        <item> eat pigeons </item>
+    </string-array>
+    <string-array name = "thelawsAns5">
+        <item> number of cars </item>
+        <item> waist size </item>
+        <item> the size of their area </item>
+    </string-array>
+    <string-array name = "thelawsAns6">
+        <item> national content only </item>
+        <item> hymn </item>
+        <item> head of forest protection </item>
+    </string-array>
+    <string-array name = "thelawsAns7">
+        <item> serious </item>
+        <item> not true </item>
+        <item> only if very large </item>
+    </string-array>
+    <string-array name = "thelawsAns8">
+        <item> being lightly dressed </item>
+        <item> throw snowballs </item>
+        <item> ice skating </item>
+    </string-array>
+    <string-array name = "thelawsAns9">
+        <item> feed pigeons </item>
+        <item> get baptized </item>
+        <item> pray </item>
+    </string-array>
+
+    <string-array name = "thelawsRight">
+        <item> appear in pink pants </item>
+        <item> kiss. The established signs indicate this. The authorities fear that long goodbyes will overload all aprons </item>
+        <item> building sand castles. They can "obstruct" the passage of people walking along the shore </item>
+        <item> chew gum. In this country, they are sure that chewing gum can very badly damage health and pollute the environment </item>
+        <item> waist size. This is how Japan is fighting obesity and related diseases. In 2015, those companies that "did not meet the targets" were fined </item>
+        <item> national content only </item>
+        <item> serious </item>
+        <item> throw snowballs. Five years ago, Belgium decided at the legislative level that a snowball and a stone are one and the same. And if your € 100 is dear to you, find something more interesting </item>
+        <item> feed the pigeons. This is due to the fact that pigeons spoil historical buildings and monuments. And also these seemingly harmless birds are carriers of dangerous diseases </item>
+    </string-array>
+
+
+
+    <string-array name = "skyQ">
+        <item> Imagine a clear blue sky without a single cloud. Just thinking about it should improve your mood at least a little. Now take a look at the surrounding landscape with the eyes of consciousness. Which of the following pictures looks most soothing and relaxing to you? </item>
+    </string-array>
+
+    <string-array name = "skyAns">
+        <item> white snowy plain </item>
+        <item> blue sea space </item>
+        <item> green mountains </item>
+        <item> field covered with yellow flowers </item>
+    </string-array>
+
+    <string-array name = "victimQ">
+        <item> Do you think you have a bad temper and cannot be tolerated? </item>
+        <item> Do you think you have to do something imposed by your social role (for example, cleaning or cooking), otherwise you will not live up to it? </item>
+        <item> Are you comparing your achievements with others to your disadvantage? </item>
+        <item> Do you think that you are constantly unlucky, while others, on the contrary, are lucky? </item>
+        <item> Are you doing more for the people around you than for yourself? </item>
+        <item> Is it difficult for you to refuse another person what you do not want to do, but he insists? </item>
+        <item> Are you sure that without the help of other people you would not achieve anything in life at all? </item>
+        <item> Do you tend to underestimate your skills and abilities? And do you find it difficult to evaluate the result of your own work (you may feel that you are always underestimated)? </item>
+        <item> Do you feel that you do not have enough opportunities to achieve your goals (talent, connections, funds, etc.)? </item>
+        <item> Are you sure that you cannot love a person just like that, but only for his achievements?
+</item>
+    </string-array>
+
+    <string-array name = "victimAns">
+        <item> yes </item>
+        <item> no </item>
+        <item> sometimes </item>
+    </string-array>
+
+    <string-array name = "wildQ">
+    <item> The main thing is water
+The easiest water filter </item>
+        <item> You have been bitten by a snake. Is it true that you need to suck out the poison? </item>
+        <item> And if bitten by a spider, what to do? </item>
+        <item> A savage tribe has attacked you. You have an arrow in your leg, what should you do? </item>
+        <item> Can I eat raw fish? </item>
+        <item> The water from the springs is clean and you can drink it </item>
+        <item> And if there is no water source, you need to drink your urine </item>
+        <item> You can attach a plantain to the wound </item>
+        <item> Is it possible to get out of quicksand without help? </item>
+        <item> Moss grows on the north side of the tree </item>
+        <item> And finally:
+you need to drink alcohol to keep warm </item>
+    </string-array>
+
+    <string-array name = "wildAns1">
+        <item> bottle, sand </item>
+        <item> bank, coal </item>
+        <item> stones, bottle / jar </item>
+    </string-array>
+    <string-array name = "wildAns2">
+        <item> myth </item>
+        <item> true </item>
+    </string-array>
+    <string-array name = "wildAns3">
+        <item> write a will and call an ambulance </item>
+        <item> suck it off! </item>
+    </string-array>
+    <string-array name = "wildAns4">
+        <item> do not touch </item>
+        <item> gently break and pull </item>
+        <item> push deeper </item>
+    </string-array>
+    <string-array name = "wildAns5">
+        <item> possible, but rare </item>
+        <item> no </item>
+    </string-array>
+    <string-array name = "wildAns6">
+        <item> not true </item>
+        <item> true </item>
+        <item> better than sea </item>
+    </string-array>
+    <string-array name = "wildAns7">
+        <item> only if you like it </item>
+        <item> shouldn\'t </item>
+        <item> it helps </item>
+    </string-array>
+    <string-array name = "wildAns8">
+        <item> no </item>
+        <item> yes, I know from childhood </item>
+    </string-array>
+    <string-array name = "wildAns9">
+        <item> no help at all </item>
+        <item> you can, it\'s not difficult </item>
+    </string-array>
+    <string-array name = "wildAns10">
+        <item> no </item>
+        <item> true </item>
+        <item> south </item>
+    </string-array>
+    <string-array name = "wildAns11">
+        <item> it will hurt, on the contrary </item>
+        <item> alcohol warms! </item>
+    </string-array>
+
+    <string-array name = "wildRight">
+        <item> bottle, sand </item>
+        <item> True </item>
+        <item> write a will and call an ambulance. A spider bite leaves a small hole in the skin, compared to snakes, so it is useless to suck. Also, the spider venom penetrates deeper much faster </item>
+        <item> do not touch. Imagine a ball filled with water. Pierce it with a pencil. What happens if you pull out a pencil? It\'s the same with a person </item>
+        <item> no </item>
+        <item> is not true. There are practically no clean springs. A trivial example: any animal could be in this spring </item>
+        <item> shouldn\'t. It won\'t quench your thirst. Only if for the sake of taste, but it can hit the kidneys and intestines </item>
+        <item> is not. After all, plantain is not sterile. You can get infected with anything </item>
+        <item> you can, it\'s not difficult </item>
+        <item> is not. Moss grows everywhere, it doesn\'t depend on the side of the world </item>
+        <item> it will hurt, on the contrary </item>
+    </string-array>
+
+
+
+    <string-array name = "wordsQ">
+        <item> Entropy </item>
+        <item> Viaphilia </item>
+        <item> Nosogrotus </item>
+        <item> Collier </item>
+        <item> Camiector </item>
+        <item> Verminophobia </item>
+        <item> Kervatization </item>
+        <item> Bibabo </item>
+    </string-array>
+
+    <string-array name = "wordsAns1">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns2">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns3">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns4">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns5">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns6">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns7">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+    <string-array name = "wordsAns8">
+        <item> real </item>
+        <item> fictional </item>
+    </string-array>
+
+    <string-array name = "wordsRight">
+        <item> is real. Widely used in natural and exact sciences, the term denoting a measure of irreversible dissipation of energy or the uselessness of energy </item>
+        <item> is real. Collecting souvenirs </item>
+        <item> fictional </item>
+        <item> is real. Label attached to the neck of the bottle </item>
+        <item> fictional </item>
+        <item> is real. This is the fear of contracting any disease associated with microorganisms, bacteria, germs and viruses, worms, insects </item>
+        <item> fictional </item>
+        <item> is real. The simplest doll, consisting of a head and a dress in the form of a glove </item>
+    </string-array>
+
+
+    <string-array name = "zolQ">
+        <item> Among the many tales, the story of Cinderella is the most popular. Which scene in this old tale attracts you the most? </item>
+    </string-array>
+
+    <string-array name = "zolAns">
+        <item> stepmother and sisters bullying Cinderella </item>
+        <item> cinderella transforms into a princess </item>
+        <item> cinderella loses her slipper while fleeing the palace </item>
+        <item> the prince puts a slipper on Cinderella </item>
+    </string-array>
+
+    <string-array name = "zombieQ">
+        <item> There is no way without it:
+Are you fit? </item>
+        <item> Do you always wear a seat belt? </item>
+        <item> Are you careful in toilets? </item>
+        <item> Old people, are the weak an extra burden? </item>
+        <item> Will you comply with laws and regulations? </item>
+        <item> Will you warm up when you feel danger? </item>
+        <item> Do you have a lot of things? </item>
+        <item> What are you always waiting for? </item>
+    </string-array>
+
+    <string-array name = "zombieAns1">
+        <item> natural </item>
+        <item> no </item>
+        <item> not at all </item>
+    </string-array>
+    <string-array name = "zombieAns2">
+        <item> most often </item>
+        <item> always </item>
+    </string-array>
+    <string-array name = "zombieAns3">
+        <item> yes </item>
+        <item> no </item>
+    </string-array>
+    <string-array name = "zombieAns4">
+        <item> do not bind </item>
+        <item> need help </item>
+    </string-array>
+    <string-array name = "zombieAns5">
+        <item> of course </item>
+        <item> no, this is the apocalypse! </item>
+    </string-array>
+    <string-array name = "zombieAns6">
+        <item> yes </item>
+        <item> no </item>
+        <item> why? </item>
+    </string-array>
+    <string-array name = "zombieAns7">
+        <item> enough </item>
+        <item> I am light </item>
+    </string-array>
+    <string-array name = "zombieAns8">
+        <item> miracle </item>
+        <item> trouble </item>
+    </string-array>
+
+
+
+</resources>

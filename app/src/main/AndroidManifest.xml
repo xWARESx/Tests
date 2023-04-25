@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.WARES.tests">
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/image_tests"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/image_tests"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-6767263794498743~9915154249"/>
+
+        <activity android:name="wrs.WARES.TestsWares.OpenExplanation"></activity>
+        <activity
+            android:name="wrs.WARES.TestsWares.ExplanationForTest"
+            android:label="@string/explanation"
+            android:parentActivityName="wrs.WARES.TestsWares.ExplanationActivity" />
+        <activity
+            android:name="wrs.WARES.TestsWares.ExplanationActivity"
+            android:label="@string/explanation"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity android:name="wrs.WARES.TestsWares.Donate" />
+        <activity android:name="wrs.WARES.TestsWares.ControlTest" />
+        <activity android:name="wrs.WARES.TestsWares.Control" />
+        <activity android:name="wrs.WARES.TestsWares.SelfTest" />
+        <activity android:name="wrs.WARES.TestsWares.Self" />
+        <activity android:name="wrs.WARES.TestsWares.VictimTest" />
+        <activity android:name="wrs.WARES.TestsWares.Victim" />
+        <activity android:name="wrs.WARES.TestsWares.TemperamentTest" />
+        <activity android:name="wrs.WARES.TestsWares.Temperament" />
+        <activity android:name="wrs.WARES.TestsWares.ConfidenceTest" />
+        <activity android:name="wrs.WARES.TestsWares.Confidence" />
+        <activity android:name="wrs.WARES.TestsWares.ZolTest" />
+        <activity android:name="wrs.WARES.TestsWares.Zol" />
+        <activity android:name="wrs.WARES.TestsWares.TastyTest" />
+        <activity android:name="wrs.WARES.TestsWares.Tasty" />
+        <activity android:name="wrs.WARES.TestsWares.Cats2Test" />
+        <activity android:name="wrs.WARES.TestsWares.Cats2" />
+        <activity android:name="wrs.WARES.TestsWares.NewHomeTest" />
+        <activity android:name="wrs.WARES.TestsWares.NewHome" />
+        <activity android:name="wrs.WARES.TestsWares.CourtTest" />
+        <activity android:name="wrs.WARES.TestsWares.Court" />
+        <activity android:name="wrs.WARES.TestsWares.EggTest" />
+        <activity android:name="wrs.WARES.TestsWares.Egg" />
+        <activity android:name="wrs.WARES.TestsWares.PictureTest" />
+        <activity android:name="wrs.WARES.TestsWares.Picture" />
+        <activity android:name="wrs.WARES.TestsWares.Bat" />
+        <activity android:name="wrs.WARES.TestsWares.BatTest" />
+        <activity android:name="wrs.WARES.TestsWares.BlueBirdTest" />
+        <activity android:name="wrs.WARES.TestsWares.BlueBird" />
+        <activity android:name="wrs.WARES.TestsWares.UnderSkyTest" />
+        <activity android:name="wrs.WARES.TestsWares.UnderSky" />
+        <activity android:name="wrs.WARES.TestsWares.PorTest" />
+        <activity android:name="wrs.WARES.TestsWares.Por" />
+        <activity android:name="wrs.WARES.TestsWares.BigSizeTest" />
+        <activity android:name="wrs.WARES.TestsWares.BigSize" />
+        <activity android:name="wrs.WARES.TestsWares.KidsTest" />
+        <activity android:name="wrs.WARES.TestsWares.Kids" />
+        <activity android:name="wrs.WARES.TestsWares.CatsTest" />
+        <activity android:name="wrs.WARES.TestsWares.Cats" />
+        <activity android:name="wrs.WARES.TestsWares.OpeningTest" />
+        <activity android:name="wrs.WARES.TestsWares.Opening" />
+        <activity android:name="wrs.WARES.TestsWares.TheLawsTest" />
+        <activity android:name="wrs.WARES.TestsWares.TheLaws" />
+        <activity android:name="wrs.WARES.TestsWares.EnglishTest" />
+        <activity android:name="wrs.WARES.TestsWares.English" />
+        <activity android:name="wrs.WARES.TestsWares.QuotesTest" />
+        <activity android:name="wrs.WARES.TestsWares.Quotes" />
+        <activity android:name="wrs.WARES.TestsWares.HarryPotterTest" />
+        <activity android:name="wrs.WARES.TestsWares.HarryPotter" />
+        <activity android:name="wrs.WARES.TestsWares.FamousTest" />
+        <activity android:name="wrs.WARES.TestsWares.Famous" />
+        <activity android:name="wrs.WARES.TestsWares.GodsTest" />
+        <activity android:name="wrs.WARES.TestsWares.Gods" />
+        <activity android:name="wrs.WARES.TestsWares.Mith2Test" />
+        <activity android:name="wrs.WARES.TestsWares.Mith2" />
+        <activity android:name="wrs.WARES.TestsWares.MithTest" />
+        <activity android:name="wrs.WARES.TestsWares.Mith" />
+        <activity android:name="wrs.WARES.TestsWares.CountryTest" />
+        <activity android:name="wrs.WARES.TestsWares.Country" />
+        <activity android:name="wrs.WARES.TestsWares.OrganismTest" />
+        <activity android:name="wrs.WARES.TestsWares.Organism" />
+        <activity android:name="wrs.WARES.TestsWares.EvolutionTest" />
+        <activity android:name="wrs.WARES.TestsWares.Evolution" />
+        <activity android:name="wrs.WARES.TestsWares.Animals2" />
+        <activity android:name="wrs.WARES.TestsWares.AnimalsTest2" />
+        <activity android:name="wrs.WARES.TestsWares.AnimalsTest" />
+        <activity android:name="wrs.WARES.TestsWares.Animals" />
+        <activity android:name="wrs.WARES.TestsWares.PhysicsTest" />
+        <activity android:name="wrs.WARES.TestsWares.Physics" />
+        <activity android:name="wrs.WARES.TestsWares.WordsTest" />
+        <activity android:name="wrs.WARES.TestsWares.Words" />
+        <activity android:name="wrs.WARES.TestsWares.ZombieTest" />
+        <activity android:name="wrs.WARES.TestsWares.Zombie" />
+        <activity android:name="wrs.WARES.TestsWares.EruditionTest" />
+        <activity android:name="wrs.WARES.TestsWares.Erudition" />
+        <activity android:name="wrs.WARES.TestsWares.MathTest" />
+        <activity android:name="wrs.WARES.TestsWares.Math" />
+        <activity android:name="wrs.WARES.TestsWares.StandupTest" />
+        <activity android:name="wrs.WARES.TestsWares.Standup" />
+        <activity android:name="wrs.WARES.TestsWares.ActorTest" />
+        <activity android:name="wrs.WARES.TestsWares.Actor" />
+        <activity android:name="wrs.WARES.TestsWares.WildNatureTest" />
+        <activity android:name="wrs.WARES.TestsWares.WildNature" />
+        <activity android:name="wrs.WARES.TestsWares.HobbyTest" />
+        <activity android:name="wrs.WARES.TestsWares.Hobby" />
+        <activity android:name="wrs.WARES.TestsWares.RussianTest" />
+        <activity android:name="wrs.WARES.TestsWares.Russian" />
+        <activity android:name="wrs.WARES.TestsWares.ClassicTest" />
+        <activity android:name="wrs.WARES.TestsWares.Classic" />
+        <activity android:name="wrs.WARES.TestsWares.SlangTest" />
+        <activity android:name="wrs.WARES.TestsWares.Slang" />
+        <activity android:name="wrs.WARES.TestsWares.KosmosTest" />
+        <activity android:name="wrs.WARES.TestsWares.Kosmos" />
+        <activity
+            android:name="wrs.WARES.TestsWares.Results"
+            android:label="@string/result"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity
+            android:name="wrs.WARES.TestsWares.Results1"
+            android:label="@string/result"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity
+            android:name="wrs.WARES.TestsWares.Results2"
+            android:label="@string/result"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity android:name="wrs.WARES.TestsWares.RoMTest" />
+        <activity android:name="wrs.WARES.TestsWares.RickOrMorty" />
+        <activity
+            android:name="wrs.WARES.TestsWares.Brain"
+            android:label="@string/brain"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity
+            android:name="wrs.WARES.TestsWares.Pciho"
+            android:label="@string/pciho"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity
+            android:name="wrs.WARES.TestsWares.Psycho"
+            android:label="@string/psycho"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity
+            android:name="wrs.WARES.TestsWares.AttainmentActivity"
+            android:label="@string/attainment"
+            android:parentActivityName="wrs.WARES.TestsWares.MainActivity" />
+        <activity android:name="wrs.WARES.TestsWares.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

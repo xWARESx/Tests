@@ -1,0 +1,2553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actorQ">
+        <item>你经常看电影吗？</item>
+        <item>你认为你明白吗？</item>
+        <item>作为一个孩子，你设法骗你的父母，让他们相信你吗？ </item>
+        <item>为了摆脱困境，你表演了一个场景吗？ </item>
+        <item>你曾经在学校等参加过短剧吗？</item>
+        <item>你喜欢改变你的形象，衣服，风格？</item>
+        <item>你经常做的面孔，并尝试在镜子前你的形象？</item>
+        <item>你关心人们的意见吗？</item>
+        <item>还有最后一个问题：你愿意做任何事情来习惯这个角色吗？</item>
+    </string-array>
+
+
+    <string-array name="aAns1">
+        <item>常</item>
+        <item>很少</item>
+    </string-array>
+    <string-array name="aAns2">
+        <item>不计</item>
+        <item>我理解</item>
+    </string-array>
+    <string-array name="aAns3">
+        <item>哦，是的，总是</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="aAns4">
+        <item>无</item>
+        <item>是</item>
+    </string-array>
+    <string-array name="aAns5">
+        <item>没有什么有趣的</item>
+        <item>曾经是</item>
+    </string-array>
+    <string-array name="aAns6">
+        <item>我已经找到了我的衣服</item>
+        <item>喜欢</item>
+    </string-array>
+    <string-array name="aAns7">
+        <item>常</item>
+        <item>很少</item>
+    </string-array>
+    <string-array name="aAns8">
+        <item>绝对不是</item>
+        <item>重要</item>
+    </string-array>
+    <string-array name="aAns9">
+        <item>非也。</item>
+        <item>在一切</item>
+    </string-array>
+
+    <string-array name="actorRight">
+        <item>要成为一名优秀的演员，你基本上需要看电影</item>
+        <item>要正确播放，您需要了解您正在播放什么样的电影</item>
+        <item>如果有可能，那么这是一个好演员的主人的肯定标志</item>
+        <item>这是另一个肯定的标志</item>
+        <item>参与体验可以帮到你</item>
+        <item>actor经常要这样做</item>
+        <item>面部表情是表演的重要组成部分</item>
+        <item>要玩得好，你需要不要害怕人们的意见</item>
+        <item>有些演员甚至会改变自己的外表</item>
+    </string-array>
+
+    <string-array name="animalsQ">
+        <item>水獭在面对危险时会做些什么来唤起攻击者的同情心？</item>
+        <item>谁每年种植数千棵树，因为他们不记得他们埋葬橡子的确切地点？</item>
+        <item>什么动物给对方的名字，并使用它们，当你需要打电话给亲戚？ </item>
+        <item>什么动物留在一个合作伙伴的生活？</item>
+        <item>牡蛎可以改变性别吗？</item>
+        <item>谁用卵石向他们的合作伙伴提出报价？</item>
+        <item>吸血蝙蝠可以运行。 以什么速度？</item>
+        <item>树懒不喜欢在不做任何事情的情况下倒在地上，但每两周一次，它仍然沿着树干滑行。 为什么？</item>
+        <item>北极熊如何互相问候？</item>
+        <item>什么昆虫不夜城？</item>
+    </string-array>
+
+    <string-array name="anAns1">
+        <item>显示幼崽</item>
+        <item>假装生病</item>
+        <item>掉落</item>
+    </string-array>
+    <string-array name="anAns2">
+        <item>土拨鼠</item>
+        <item>松鼠</item>
+        <item>豪猪</item>
+    </string-array>
+    <string-array name="anAns3">
+        <item>虎鲸</item>
+        <item>海豚</item>
+        <item>狮子</item>
+    </string-array>
+    <string-array name="anAns4">
+        <item>死锁</item>
+        <item>戴胜</item>
+        <item>笨</item>
+    </string-array>
+    <string-array name="anAns5">
+        <item>没有人可以</item>
+        <item>可以</item>
+    </string-array>
+    <string-array name="anAns6">
+        <item>企鹅</item>
+        <item>松鼠</item>
+        <item>火烈鸟</item>
+    </string-array>
+    <string-array name="anAns7">
+        <item>15公里/小时</item>
+        <item>7公里/小时</item>
+        <item>3公里/小时</item>
+    </string-array>
+    <string-array name="anAns8">
+        <item>便便</item>
+        <item>用于规定</item>
+        <item>配对</item>
+    </string-array>
+    <string-array name="anAns9">
+        <item>战斗爪子</item>
+        <item>触摸鼻子</item>
+        <item>nothing</item>
+    </string-array>
+    <string-array name="anAns10">
+        <item>蚂蚁</item>
+        <item>蚊子</item>
+    </string-array>
+
+    <string-array name="animalsRight">
+        <item>显示幼崽</item>
+        <item>松鼠</item>
+        <item>海豚</item>
+        <item>死胡同</item>
+        <item>可以</item>
+        <item>企鹅</item>
+        <item>7公里/小时</item>
+        <item>便便</item>
+        <item>他们的鼻子会碰到吗？</item>
+        <item>蚂蚁</item>
+    </string-array>
+
+    <string-array name="an2Ans1">
+        <item>矩形</item>
+        <item>方形</item>
+        <item>三角形</item>
+    </string-array>
+
+    <string-array name="animals2Q">
+        <item>什么是章鱼的瞳孔？</item>
+        <item>哪种动物拥有所有陆地动物中最大的心脏？</item>
+        <item>圣经中唯一没有提到的宠物</item>
+        <item>斑马是白色与黑色条纹或反之亦然？</item>
+        <item>老虎的前爪有五个手指，和后爪？</item>
+        <item>什么动物睡一只眼睛打开？</item>
+        <item>地球上大约70%的生物是</item>
+        <item>食蚁兽喜欢吃。..</item>
+        <item>什么动物对癌症免疫？</item>
+        <item>最后：猪的高潮持续多久？</item>
+    </string-array>
+
+    <string-array name="an2Ans2">
+        <item>大象</item>
+        <item>长颈鹿</item>
+        <item>老虎</item>
+    </string-array>
+    <string-array name="an2Ans3">
+        <item>猫</item>
+        <item>狗</item>
+    </string-array>
+    <string-array name="an2Ans4">
+        <item>黑色与白色</item>
+        <item>白配黑</item>
+    </string-array>
+    <string-array name="an2Ans5">
+        <item>四乘四</item>
+        <item>各五</item>
+        <item>一次三个</item>
+    </string-array>
+    <string-array name="an2Ans6">
+        <item>海豚</item>
+        <item>狮子</item>
+        <item>套件</item>
+    </string-array>
+    <string-array name="an2Ans7">
+        <item>哺乳动物</item>
+        <item>细菌</item>
+        <item>无脊椎动物</item>
+    </string-array>
+    <string-array name="an2Ans8">
+        <item>白蚁</item>
+        <item>by蚂蚁</item>
+        <item>鸽子</item>
+    </string-array>
+    <string-array name="an2Ans9">
+        <item>在鱼</item>
+        <item>在鲨鱼</item>
+        <item>在长颈鹿</item>
+    </string-array>
+    <string-array name="an2Ans10">
+        <item>30分钟</item>
+        <item>作为一个人</item>
+    </string-array>
+
+    <string-array name="animals2Right">
+        <item>矩形。 这个瞳孔也为他提供了全景视野。 这使得章鱼不仅可以避免危险，还可以清楚地看到潜在的受害者</item>
+        <item>长颈鹿。 它的重量为12kg</item>
+        <item>猫</item>
+        <item>白配黑</item>
+        <item>一次四个</item>
+        <item>海豚。 当海豚睡觉时，他们有一个半球工作。 这是必要的，以便来到表面的氧气，而不会在同一时间醒来</item>
+        <item>细菌。 是的，有很多</item>
+        <item>白蚁。 是的，他吃蚂蚁，因此得名，但事实证明，他更喜欢白蚁</item>
+        <item>在鲨鱼</item>
+        <item>30分钟</item>
+    </string-array>
+
+    <string-array name="batQ">
+    <item>想象一下：你迷失在一个深深的洞穴中，徘徊在一个巨大的蜿蜒通道网络中，并试图找到出路。 然后突然一只蝙蝠飞了起来，在你耳边低声说些什么。.. 它说了以下哪句话？</item>
+    </string-array>
+
+    <string-array name="batAns">
+        <item>我知道出口在哪里</item>
+        <item>让我帮你，告诉你离开这里的路</item>
+        <item>继续寻找！</item>
+        <item>你永远不会离开这里</item>
+    </string-array>
+
+    <string-array name="bigQ">
+        <item>哪架飞机被认为是世界上最大的？</item>
+        <item>哪个国家拥有世界上最大的游泳池，位于San Alfonso Del Mar度假村？</item>
+        <item>在哪个国家是最大的建筑-全球中心\"新世纪\"？</item>
+        <item>世界上最高的建筑在哪里？</item>
+        <item>你怎么看，大约是最高的人在历史上的高度？</item>
+        <item>位于最高的国家是什么？</item>
+        <item>最高的山？</item>
+    </string-array>
+
+    <string-array name="bigAns1">
+        <item>乌克兰语</item>
+        <item>法语</item>
+        <item>英文</item>
+    </string-array>
+    <string-array name="bigAns2">
+        <item>在巴西</item>
+        <item>在智利</item>
+        <item>在墨西哥</item>
+    </string-array>
+    <string-array name="bigAns3">
+        <item>在中国</item>
+        <item>在美国</item>
+        <item>在俄罗斯</item>
+    </string-array>
+    <string-array name="bigAns4">
+        <item>在迪拜</item>
+        <item>在都柏林</item>
+        <item>在孟买</item>
+    </string-array>
+    <string-array name="bigAns5">
+        <item>255cm</item>
+        <item>285cm</item>
+        <item>305cm</item>
+    </string-array>
+    <string-array name="bigAns6">
+        <item>加德满都</item>
+        <item>尼泊尔</item>
+        <item>坎普尔</item>
+    </string-array>
+    <string-array name="bigAns7">
+        <item>Jomolungma</item>
+        <item>Jomolunga</item>
+    </string-array>
+
+    <string-array name="bigRight">
+        <item>乌克兰。 AN-225"Mriya"</item>
+        <item>在智利。 游泳池长1,013米，占地8公顷，充满了2.5亿升海水。 游泳池的深度约为3米</item>
+        <item>在中国。 176万平方米（是五角大楼的三倍，是悉尼歌剧院的20倍）。 建筑长度-500米，宽度-400米，高度-100米</item>
+        <item>在迪拜。 828米</item>
+        <item>285cm</item>
+        <item>尼泊尔。 超过40％的尼泊尔境内位于超过3000米的高度</item>
+        <item>Jomolungma。 8848米</item>
+    </string-array>
+
+    <string-array name="birdQ">
+        <item>有一天，一只蓝鸟突然从你房间的窗户飞过，落入陷阱。 关于这个失落的鸟的东西吸引你，你决定保留它。 但是，令你惊讶的是，第二天鸟的颜色从蓝色变为黄色！ 这种非常不寻常的鸟每天晚上都会变色—在第三天的早晨，它是鲜红色的，在第四天它变得完全黑色。 当你在第五天醒来时，这只鸟是什么颜色的？</item>
+    </string-array>
+
+    <string-array name="birdAns">
+        <item>这只鸟不会改变颜色，它仍然是黑色</item>
+        <item>鸟返回到原来的蓝色</item>
+        <item>小鸟变白</item>
+        <item>小鸟变成金色</item>
+    </string-array>
+
+    <string-array name="namesBrain">
+        <item>你对空间了解多少</item>
+        <item>Шаришь за слэнг?</item>
+        <item>俄罗斯文学</item>
+        <item>Русский язык</item>
+        <item>在野外生存</item>
+        <item>数学</item>
+        <item>物理</item>
+        <item>人类进化</item>
+        <item>人体</item>
+        <item>神话。 第1部分</item>
+        <item>神话。 第2部分</item>
+        <item>希腊诸神</item>
+        <item>你的英语怎么样？</item>
+        <item>随机开口</item>
+        <item>你知道猫那么好吗？</item>
+        <item>儿童问题</item>
+    </string-array>
+
+    <string-array name="namesBrain2">
+        <item>16个问题</item>
+        <item>13个问题</item>
+        <item>17个问题</item>
+        <item>13个问题</item>
+        <item>11个问题</item>
+        <item>7个问题</item>
+        <item>8个问题</item>
+        <item>6个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>11个问题</item>
+        <item>10个问题</item>
+        <item>7个问题</item>
+        <item>8个问题</item>
+        <item>9个问题</item>
+    </string-array>
+
+    <string-array name="namesBrainforex">
+        <item>你对空间了解多少</item>
+        <item>俄罗斯文学</item>
+        <item>在野外生存</item>
+        <item>数学</item>
+        <item>物理</item>
+        <item>人类进化</item>
+        <item>人体</item>
+        <item>神话。 第1部分</item>
+        <item>神话。 第2部分</item>
+        <item>希腊诸神</item>
+        <item>你的英语怎么样？</item>
+        <item>随机开口</item>
+        <item>你知道猫那么好吗？</item>
+        <item>儿童问题</item>
+    </string-array>
+
+    <string-array name="namesBrain2forex">
+        <item>16个问题</item>
+        <item>17个问题</item>
+        <item>11个问题</item>
+        <item>7个问题</item>
+        <item>8个问题</item>
+        <item>6个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>11个问题</item>
+        <item>10个问题</item>
+        <item>7个问题</item>
+        <item>8个问题</item>
+        <item>9个问题</item>
+    </string-array>
+
+    <string-array name="cats2Q">
+        <item>猫可以被爱或讨厌，但这些动物已经生活在人类附近这么久了！ 不像狗，他们不携带报纸的主人，不给爪子，但是，尽管所有这些"罪"，他们傲慢的冷漠和完全坚不可摧的保证他们在人的世界一个安全的地方。 每个人都以自己的方式感知猫。 以下哪些短语更符合您对这些动物的想法？</item>
+    </string-array>
+
+    <string-array name="cats2Ans">
+        <item>他们喜欢晒太阳</item>
+        <item>这些是神秘而神秘的动物</item>
+        <item>它们非常适合熨烫</item>
+        <item>这些都是非人类</item>
+    </string-array>
+
+    <string-array name="catsQ">
+        <item>你经常想把一只猫的东西甜？ 猫甚至味道甜吗？</item>
+        <item>为什么猫会与人摩擦？</item>
+        <item>谁的社交智商较低？</item>
+        <item>那么，毕竟，猫可以喂生鱼？</item>
+        <item>猫有多少％的生命睡觉？</item>
+        <item>什么是猫的独特性，因为指纹是在人类？</item>
+        <item>猫通过什么出汗？</item>
+        <item>为什么猫舔自己？</item>
+    </string-array>
+
+    <string-array name="catsAns1">
+        <item>不觉得</item>
+        <item>感觉</item>
+    </string-array>
+    <string-array name="catsAns2">
+        <item>标记为其领地</item>
+        <item>显示信任</item>
+    </string-array>
+    <string-array name="catsAns3">
+        <item>在狗</item>
+        猫中的<item></item>
+    </string-array>
+    <string-array name="catsAns4">
+        <item>最好不要</item>
+        <item>这对猫有好处</item>
+        <item>我应该炒吗？!</item>
+    </string-array>
+    <string-array name="catsAns5">
+        <item>50%</item>
+        <item>70%</item>
+        <item>80%</item>
+    </string-array>
+    <string-array name="catsAns6">
+        <item>打印</item>
+        <item>鼻表面</item>
+        <item>耳朵</item>
+    </string-array>
+    <string-array name="catsAns7">
+        <item>通过爪子垫</item>
+        <item>贯穿整个身体</item>
+        <item>鼻表面</item>
+    </string-array>
+    <string-array name="catsAns8">
+        <item>顺发</item>
+        <item>停止闻人</item>
+    </string-array>
+
+
+    <string-array name="catsRight">
+        <item>他们感觉不到</item>
+        <item>他们将其标记为他们的领土</item>
+        <item>猫</item>
+        <item>最好不要</item>
+        <item>70%</item>
+        <item>鼻表面</item>
+        <item>通过爪子垫</item>
+        <item>停止闻人</item>
+    </string-array>
+
+    <string-array name="classicQ">
+        <item>\"父亲和孩子\"写道。..</item>
+        <item>A.S.普希金写的诗\"青铜骑士\"。 这座纪念碑献给哪个俄罗斯君主？</item>
+        <item>什么是猫在M.A.布尔加科夫\"主人和玛格丽塔\"的工作的名字？</item>
+        <item>谁是A.P.契诃夫的职业？</item>
+        <item>n.S.Leskov\"Lefty\"小说的主角是谁？</item>
+        <item>从哪个着名的戏剧是采取的表达：\"和谁是评委？\"</item>
+        <item>这是什么不是由A.P.契诃夫写的？</item>
+        <item>N.V.Gogol\"Dead souls\"这首诗的主角的名字是什么？</item>
+        <item>什么着名的作品被称为Rodion Raskolnikov的性格？</item>
+        <item>Raskolnikov犯了多少谋杀案？</item>
+        <item>什么是博尔孔斯基在小说由托尔斯泰\"战争与和平\"的名字？</item>
+        <item>在哪个城市是动作剧\"雷雨\"？</item>
+        <item>这个故事的主要信息是什么\"来自旧金山的绅士\"？</item>
+        <item>马雅可夫斯基属于这样的运动。..</item>
+        <item>马克西姆高尔基写了一个着名的戏剧，其名称。..</item>
+        <item>\"美将拯救世界\"。 这句话属于谁？</item>
+        <item>\"别从科曼奇出来。"这首诗属于谁？</item>
+    </string-array>
+
+    <string-array name="classicAns1">
+        <item>I.S.屠格涅夫</item>
+        <item>L.N.托尔斯泰</item>
+        <item>A.P.契诃夫</item>
+    </string-array>
+    <string-array name="classicAns2">
+        <item>亚历山大*涅夫斯基</item>
+        <item>彼得大帝</item>
+        <item>亚历山大第二</item>
+    </string-array>
+    <string-array name="classicAns3">
+        <item>猫</item>
+        <item>庞然大物</item>
+        <item>博蒙特</item>
+    </string-array>
+    <string-array name="classicAns4">
+        <item>医生</item>
+        <item>老师</item>
+        <item>律师</item>
+    </string-array>
+    <string-array name="classicAns5">
+        <item>跳蚤</item>
+        <item>飞</item>
+    </string-array>
+    <string-array name="classicAns6">
+        <item>雷雨</item>
+        <item>woe from wit</item>
+        <item>樱桃园</item>
+    </string-array>
+    <string-array name="classicAns7">
+        <item>戴眼镜的男人</item>
+        <item>6号病房</item>
+        <item>笑话</item>
+    </string-array>
+    <string-array name="classicAns8">
+        <item>聊天</item>
+        <item>奇奇科夫</item>
+        <item>Pechorin</item>
+    </string-array>
+    <string-array name="classicAns9">
+        <item>罪与罚</item>
+        <item>战争与和平</item>
+        <item>死魂</item>
+    </string-array>
+    <string-array name="classicAns10">
+        <item>只剩老有息的女人</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="classicAns11">
+        <item>安德烈</item>
+        <item>谢尔盖</item>
+        <item>格里戈里</item>
+    </string-array>
+    <string-array name="classicAns12">
+        <item>马林诺夫</item>
+        <item>Kalinov</item>
+        <item>莫斯科</item>
+    </string-array>
+    <string-array name="classicAns13">
+        <item>面对死亡一切都贬值</item>
+        <item>你需要住在这里和现在</item>
+    </string-array>
+    <string-array name="classicAns14">
+        <item>古典主义</item>
+        <item>未来主义</item>
+    </string-array>
+    <string-array name="classicAns15">
+        <item>在底部</item>
+        <item>在余额</item>
+        <item>上针</item>
+    </string-array>
+    <string-array name="classicAns16">
+        <item>F.M.陀思妥耶夫斯基</item>
+        <item>L.N.托尔斯泰</item>
+        <item>N.A.涅克拉索夫</item>
+    </string-array>
+    <string-array name="classicAns17">
+        <item>用。Yesenin</item>
+        <item>I.A.Brodsky</item>
+    </string-array>
+
+    <string-array name="classicRight">
+        <item>I.S.屠格涅夫</item>
+        <item>彼得大帝。 作者在《青铜骑士》一诗中揭示了皇帝的另一面。 在其中，圣彼得堡的人口面临着一场灾难：洪水。 这似乎是唯一的罪魁祸首是自然。 但彼得一世曾经决定驯服它。 她挣脱了，就像一个笼子里的动物。 结果，无辜的人遭受了痛苦。 彼得知道会发生这种事吗 也许是的 但皇帝认为他是普希金称他为"命运的主人"</item>
+        <item>庞然大物</item>
+        <item>医生</item>
+        <item>跳蚤</item>
+        <item>祸从机智。 这句话由Chat</item>发音
+        <item>一个戴着眼镜的男人。 他有一个不同的工作：\"男人的情况下\"</item>
+        <item>奇奇科夫</item>
+        <item>罪与罚。 撰稿F.M.陀思妥耶夫斯基</item>
+        <item>2。 Raskolnikov的受害者是alena Ivanovna，一位老妇人和她的妹妹Lizaveta</item>
+        <item>安德烈</item>
+        <item>卡利诺夫。 虚构城市</item>
+        <item>面对死亡一切都贬值</item>
+        <item>未来主义</item>
+        <item>在底部</item>
+        <item>F.M.陀思妥耶夫斯基</item>
+        <item>I.A.Brodsky</item>
+    </string-array>
+
+    <string-array name="confQ">
+        <item>你更喜欢哪个握手？</item>
+        <item>你的星座？</item>
+        <item>你有什么样的皮肤？</item>
+        <item>一个女人坐在公园的长椅上，迷失在思想中。 你这么认为吗.. </item>
+        <item>什么是典型的你？</item>
+        <item>你最喜欢哪个数字？</item>
+        <item>你最喜欢做什么样的运动？</item>
+    </string-array>
+
+    <string-array name="confAns1">
+        <item>短而强</item>
+        <item>长而强烈</item>
+        <item>轻触</item>
+    </string-array>
+    <string-array name="confAns2">
+        <item>狮子座，白羊座，摩羯座，金牛座</item>
+        <item>双子座，天蝎座，水瓶座，射手座</item>
+        <item>双鱼座，巨蟹座，处女座，天秤座</item>
+    </string-array>
+    <string-array name="confAns3">
+        <item>正常，无需特殊护理</item>
+        <item>不敏感</item>
+        <item>干燥敏感</item>
+    </string-array>
+    <string-array name="confAns4">
+        <item>她愿意独自一人</item>
+        <item>她想被可怜</item>
+        <item>她有一些问题</item>
+    </string-array>
+    <string-array name="confAns5">
+        <item>快速忘记烦恼和烦恼</item>
+        <item>不仅要考虑自己</item>
+        <item>如果我欺骗某人，我会感到良心的痛苦</item>
+    </string-array>
+    <string-array name="confAns6">
+        <item>三角形</item>
+        <item>菱形</item>
+        <item>圆圈</item>
+    </string-array>
+    <string-array name="confAns7">
+        <item>跳伞</item>
+        <item>潜水</item>
+        <item>登山</item>
+    </string-array>
+
+    <string-array name="controlQ">
+        <item>我觉得很难模仿其他人</item>
+        <item>我可能会偶尔出丑，以吸引注意力或逗别人</item>
+        <item>我可以做一个好演员</item>
+        <item>其他人有时会认为我正在经历比实际更深的事情</item>
+        <item>在公司里，我很少发现自己处于关注的中心</item>
+        <item>在不同的情况下，在与不同的人沟通中，我经常表现得完全不同</item>
+        <item>我只能站出来为我真正相信</item>
+        <item>为了在商业和与人的关系中取得成功，我试图成为他们期望我成为的人</item>
+        <item>我可以和我无法忍受的人友好</item>
+        <item>我总是我看起来</item>
+    </string-array>
+
+    <string-array name="controlAns">
+        <item>是</item>
+        <item>无</item>
+    </string-array>
+
+    <string-array name="countryQ">
+        <item>你更喜欢冬天还是夏天？</item>
+        <item>你的英语怎么样？</item>
+        <item>在您的家中，视图应该打开到。..</item>
+        <item>你喜欢什么样的食物？</item>
+        <item>你想和谁一起工作？</item>
+        <item>你更吸引哪些人？</item>
+        <item>你最喜欢什么？</item>
+    </string-array>
+
+    <string-array name="countryAns1">
+        <item>冬季</item>
+        <item>夏季</item>
+        <item>两者</item>
+    </string-array>
+    <string-array name="countryAns2">
+        <item>优秀</item>
+        <item>我知道几个短语</item>
+        <item>什么都没有</item>
+    </string-array>
+    <string-array name="countryAns3">
+        <item>海洋/海</item>
+        <item>森林</item>
+        <item>城市全景</item>
+    </string-array>
+    <string-array name="countryAns4">
+        <item>最主要的是它很美味</item>
+        <item>鱼</item>
+        <item>异国情调的肉类（鲨鱼等。)</item>
+    </string-array>
+    <string-array name="countryAns5">
+        <item>程序员</item>
+        <item>大公司的所有者</item>
+        <item>最主要的是与自然合而为一</item>
+    </string-array>
+    <string-array name="countryAns6">
+        <item>友好和彬彬有礼</item>
+        <item>守法</item>
+        <item>党人</item>
+    </string-array>
+    <string-array name="countryAns7">
+        <item>森林，自然</item>
+        <item>海滩，野生动物园</item>
+        <item>一切都吸引</item>
+    </string-array>
+
+    <string-array name="courtQ">
+        <item>如果你是一个演员，并获得了在法庭上扮演演员之一的提议，你会选择什么样的角色：律师，检察官，被告，证人？</item>
+    </string-array>
+
+    <string-array name="courtAns">
+        <item>律师</item>
+        <item>检察官</item>
+        <item>被告</item>
+        <item>见证</item>
+    </string-array>
+
+    <string-array name="eggQ">
+        <item>想象一下，你正在看一个鸡蛋。 不管它是什么颜色和大小，最主要的是确定它属于谁：乌龟，蛇，恐龙或鸡</item>
+    </string-array>
+
+    <string-array name="eggAns">
+        <item>蛇</item>
+        <item>龟</item>
+        <item>到恐龙</item>
+        <item>鸡</item>
+    </string-array>
+
+    <string-array name="englishQ">
+        <item>向这个人解释这是你第一次来这个城市</item>
+        <item>最有可能你会迷路。 如何报告？</item>
+        <item>乘坐巴士约10分钟。 如何翻译？</item>
+        <item>请注明：离这里很远吗？</item>
+        <item>你如何告诉一个人，你很高兴见到他们？</item>
+        <item>问最近的酒店在哪里？</item>
+        <item>你饿了！ 告诉我们吧</item>
+        <item>你找到了一个展览，但你不知道进入需要多少费用。 问吧</item>
+        <item>您获得的价格:131</item>
+        <item>最后：你叫什么名字？</item>
+    </string-array>
+
+    <string-array name="famousQ">
+        <item>史蒂夫*乔布斯是。..</item>
+        <item>特斯拉的创始人？</item>
+        <item>谁录制的专辑\"房子与正常现象\"</item>
+        <item>一个从未使用过understudies服务并亲自表演所有技巧的演员？</item>
+        <item>谁做邪教电影"七"，"搏击俱乐部"的导演？</item>
+        <item>基地组织恐怖网络的难以捉摸的头？</item>
+        <item>米哈伊尔*罗蒙诺索夫的父系是什么？</item>
+        <item>最着名的反乌托邦的作者\"1984年\"和故事\"动物农场\"？</item>
+        <item>在2020年，他的YouTube频道变成了10岁。 他从事视频在互联网上的一个有趣的审查，有时从他所看到的推导出的道德。 他还有另一个频道\"Moran days\"</item>
+        <item>谷歌的创始人？</item>
+    </string-array>
+
+    <string-array name="famousAns1">
+        <item>苹果创始人</item>
+        <item>ANDROID创始人</item>
+    </string-array>
+    <string-array name="famousAns2">
+        <item>马克*扎克伯格</item>
+        <item>伊隆*马斯克</item>
+        <item>尼古拉*特斯拉</item>
+    </string-array>
+    <string-array name="famousAns3">
+        <item>Скриптонит</item>
+        <item>фейс</item>
+        <item>баста</item>
+    </string-array>
+    <string-array name="famousAns4">
+        <item>布拉德皮特</item>
+        <item>成龙</item>
+        <item>莱昂纳多*迪卡普里奥</item>
+    </string-array>
+    <string-array name="famousAns5">
+        <item>克里斯托弗*诺兰</item>
+        <item>大卫*芬彻</item>
+        <item>弗兰克Darabont</item>
+    </string-array>
+    <string-array name="famousAns6">
+        <item>乌萨马*本*拉登</item>
+        <item>卡扎菲</item>
+        <item>Al Mair</item>
+    </string-array>
+    <string-array name="famousAns7">
+        <item>伊万诺维奇</item>
+        <item>瓦西里耶维奇</item>
+        <item>Andreevich</item>
+    </string-array>
+    <string-array name="famousAns8">
+        <item>Aldous Huxley</item>
+        <item>乔治*奥威尔</item>
+        <item>米哈伊尔*扎米亚廷</item>
+    </string-array>
+    <string-array name="famousAns9">
+        <item>Max+100500</item>
+        <item>Stav Davydov</item>
+        <item>安东Lapenko</item>
+    </string-array>
+    <string-array name="famousAns10">
+        <item>比尔*盖茨</item>
+        <item>双拼页</item>
+    </string-array>
+
+    <string-array name="famousRight">
+        <item>苹果创始人</item>
+        <item>伊隆*马斯克</item>
+        <item>脚本</item>
+        <item>成龙</item>
+        <item>大卫*芬彻</item>
+        <item>乌萨马*本*拉登</item>
+        <item>瓦西里耶维奇</item>
+        <item>乔治*奥威尔</item>
+        <item>Max+100500</item>
+        <item>双拼页</item>
+    </string-array>
+
+
+    <string-array name="GodsQ">
+        <item>让我们从一个简单的开始：宙斯是谁？</item>
+        <item>酒和娱乐之神的名字是什么？ 不是坏神</item>
+        <item>爱的女神？</item>
+        <item>战神是什么？</item>
+        <item>谁是宙斯之父？</item>
+        <item>和水之神？</item>
+        <item>得墨忒耳是生育女神</item>
+        <item>哪个神保护正义？</item>
+        <item>爱马仕-神的什么？</item>
+        <item>阿波罗是光明之神还是黑暗之神？</item>
+        <item>哈迪斯-曾经是奥林匹斯之神</item>
+    </string-array>
+
+    <string-array name="godsAns1">
+        <item>众神之神</item>
+        <item>信使</item>
+    </string-array>
+    <string-array name="godsAns2">
+        <item>汞</item>
+        <item>酒神</item>
+        <item>阿芙罗狄蒂</item>
+    </string-array>
+    <string-array name="godsAns3">
+        <item>阿芙罗狄蒂</item>
+        <item>金星</item>
+    </string-array>
+    <string-array name="godsAns4">
+        <item>></item>
+        <item>战争</item>
+        <item>世界</item>
+    </string-array>
+    <string-array name="godsAns5">
+        <item>克罗诺斯</item>
+        <item>海王星</item>
+        <item>布朗诺斯 </item>
+    </string-array>
+    <string-array name="godsAns6">
+        <item>水行侠</item>
+        <item>海神</item>
+        <item>海王星</item>
+    </string-array>
+    <string-array name="godsAns7">
+        <item>真的 </item>
+        <item>无效</item>
+    </string-array>
+    <string-array name="godsAns8">
+        <item>宙斯</item>
+        <item>雅典娜</item>
+        <item>战神</item>
+    </string-array>
+    <string-array name="godsAns9">
+        <item>贸易和好运</item>
+        <item>乐趣和幸福</item>
+        <item>烦恼和悲伤</item>
+    </string-array>
+    <string-array name="godsAns10">
+        <item>光</item>
+        <item>黑暗</item>
+    </string-array>
+    <string-array name="godsAns11">
+        <item>没错</item>
+        <item>无效</item>
+    </string-array>
+
+    <string-array name="GodsRight">
+        <item>众神之神</item>
+        <item>酒神</item>
+        <item>阿芙罗狄蒂</item>
+        <item>战争</item>
+        <item>克罗诺斯</item>
+        <item>海神</item>
+        <item>正确</item>
+        <item>雅典娜</item>
+        <item>贸易和好运</item>
+        <item>灯</item>
+        <item>这是正确的。 他被放逐</item>
+    </string-array>
+
+
+    <string-array name="erudQ">
+        <item>最大的行星在我们的太阳系？</item>
+        <item>黑豹是</item>
+        <item>氧气弥补。.. 地球大气层</item>
+        <item>古希腊的酒神和乐趣</item>
+        <item>0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144. 怎么了?</item>
+        <item>托马斯*爱迪生发明了灯泡</item>
+        <item>精神负荷需要比身体更多的能量</item>
+        <item>什么动物是不朽的？</item>
+        <item>谁统治俄罗斯时间最长？</item>
+        <item>第一台电脑出现在</item>
+    </string-array>
+
+    <string-array name="erudAns1">
+        <item>土星</item>
+        <item>木星</item>
+        <item>海王星</item>
+    </string-array>
+    <string-array name="erudAns2">
+        <item>黑豹</item>
+        <item>黑豹</item>
+        <item>黑虎</item>
+    </string-array>
+    <string-array name="erudAns3">
+        <item>约20%</item>
+        <item>约30%</item>
+        <item>约70%</item>
+    </string-array>
+    <string-array name="erudAns4">
+        <item>酒神</item>
+        <item>爱马仕</item>
+        <item>战神</item>
+    </string-array>
+    <string-array name="erudAns5">
+        <item>素数</item>
+        <item>斐波那契数</item>
+        <item>随机数</item>
+    </string-array>
+    <string-array name="erudAns6">
+        <item>错误的</item>
+        <item>真的 </item>
+    </string-array>
+    <string-array name="erudAns7">
+        <item>错误的</item>
+        <item>真的 </item>
+    </string-array>
+    <string-array name="erudAns8">
+        <item>美杜莎</item>
+        <item>缓坡 </item>
+    </string-array>
+    <string-array name="erudAns9">
+        <item>彼得大帝</item>
+        <item>伊凡雷帝</item>
+        <item>普京</item>
+    </string-array>
+    <string-array name="erudAns10">
+        <item>1946</item>
+        <item>1954年</item>
+    </string-array>
+
+    <string-array name="erudRight">
+        <item>木星</item>
+        <item>黑豹</item>
+        <item>约20%</item>
+        <item>酒神</item>
+        <item>斐波那契数（黄金比例）</item>
+        <item>错误的。 他什么都没发明 他正在申请专利，并不总是以诚实的方式</item>
+        <item>真相</item>
+        <item>美杜莎</item>
+        <item>伊凡雷帝。 他统治了50年</item>
+        <item>1946年</item>
+    </string-array>
+
+    <string-array name="evQ">
+        <item>第一阶段：人猿与人类的过渡联系</item>
+        <item>第2阶段：人类的第一个正式代表</item>
+        <item>第3阶段：有一个发达的大脑，这使他能够制作复杂的武器和进行集体狩猎，巧妙地使用火，快速应对不断变化的环境条件</item>
+        <item>第4阶段：大脑的开发以及在现代人</item>
+        <item>第5阶段：他的外表几乎与现代人的外表相同</item>
+        <item>导致智人出现的生物进化的一部分</item>
+    </string-array>
+    <string-array name="evAns1">
+        <item>南方古猿</item>
+        <item>上皮 </item>
+        <item>尼安德特人</item>
+    </string-array>
+    <string-array name="evAns2">
+        <item>直立人</item>
+        <item>熟练的人</item>
+    </string-array>
+    <string-array name="evAns3">
+        <item>克罗·马农 </item>
+        <item>直立人</item>
+        <item>熟练的人</item>
+    </string-array>
+    <string-array name="evAns4">
+        <item>尼安德特人</item>
+        <item>古人 </item>
+    </string-array>
+    <string-array name="evAns5">
+        <item>本领域技术人员</item>
+        <item>克罗·马农</item>
+    </string-array>
+    <string-array name="evAns6">
+        <item>人类发生</item>
+        <item>生物发生</item>
+    </string-array>
+
+    <string-array name="evRight">
+        <item>南方古猿</item>
+        <item>熟练的人</item>
+        <item>直立人</item>
+        <item>尼安德特人</item>
+        <item>克罗·马农</item>
+        <item>人类发生。 非生物发生是将无生命的自然变成有生命的自然的过程</item>
+    </string-array>
+
+
+    <string-array name="potterQ">
+        <item>谁写了哈利波特？</item>
+        <item>谁从来没有拥有接骨木魔杖？</item>
+        <item>吟游诗人比德尔的故事中有多少死亡圣器？</item>
+        <item>Gilderoy Lockhart成功了什么咒语？</item>
+        <item>什么是西弗勒斯*斯内普的母亲的姓氏？</item>
+        <item>阿不思*邓布利多的全名不包括</item>
+        <item>爱哭鬼桃金娘死于什么？</item>
+        <item>除了哈利波特之外，预言指向的是谁？</item>
+        <item>哈利在男厕所用了什么法术杀死了德拉科？</item>
+        <item>哈利实际上吻了赫敏多少次？</item>
+    </string-array>
+
+    <string-array name="potterAns1">
+        <item>DCRowling</item>
+        <item>N.K.罗琳</item>
+        <item>M.K.罗琳</item>
+    </string-array>
+    <string-array name="potterAns2">
+        <item>到邓布利多</item>
+        <item>伏地魔</item>
+        <item>德拉科</item>
+    </string-array>
+    <string-array name="potterAns3">
+        <item>3</item>
+        <item>4</item>
+        <item>事实上1</item>
+    </string-array>
+    <string-array name="potterAns4">
+        <item>Alohomora</item>
+        <item>遗忘</item>
+        <item>Expelliarmus</item>
+    </string-array>
+    <string-array name="potterAns5">
+        <item>王子</item>
+        <item>主</item>
+        <item>混血</item>
+    </string-array>
+    <string-array name="potterAns6">
+        <item>布莱恩</item>
+        <item>盖勒特</item>
+        <item>Percival</item>
+    </string-array>
+    <string-array name="potterAns7">
+        <item>从Basilisk视图</item>
+        <item>从Aragog的咬</item>
+        <item>淹死</item>
+    </string-array>
+    <string-array name="potterAns8">
+        <item>罗恩·韦斯莱 </item>
+        <item>内维尔·朗博顿 </item>
+        <item>天狼星黑</item>
+    </string-array>
+    <string-array name="potterAns9">
+        <item>Expelliarmus</item>
+        <item>Sectumsempra</item>
+        <item>Crucio</item>
+    </string-array>
+    <string-array name="potterAns10">
+        <item>从不</item>
+        <item>一个是</item>
+    </string-array>
+
+    <string-array name="hobbyQ">
+        <item>你觉得自己有型有感吗？</item>
+        <item>你更喜欢什么？</item>
+        <item>你能对自己说你坚持不懈吗？</item>
+        <item>什么吸引你更多的人？</item>
+        <item>你的生活中是否有足够的和谐？</item>
+        <item>你喜欢各种各样的身体锻炼吗？</item>
+    </string-array>
+
+    <string-array name="hobbyAns1">
+        <item>是</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="hobbyAns2">
+        <item>从结果</item>
+        <item>从进程</item>
+    </string-array>
+    <string-array name="hobbyAns3">
+        <item>是</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="hobbyAns4">
+        <item>心灵</item>
+        <item>社交性</item>
+    </string-array>
+    <string-array name="hobbyAns5">
+        <item>缺失</item>
+        <item>足够</item>
+    </string-array>
+    <string-array name="hobbyAns6">
+        <item>爱</item>
+        <item>无</item>
+    </string-array>
+
+    <string-array name="kidsQ">
+        <item>微生物看到对方吗？</item>
+        <item>为什么飞机挂在空中？</item>
+        <item>为什么地球是圆形的？</item>
+        <item>为什么没有老鼠味的猫粮？</item>
+        <item>为什么猫的眼睛在黑暗中发光？</item>
+        <item>为什么血红色，静脉蓝色？</item>
+        <item>为什么蝴蝶飞入光？</item>
+        <item>为什么不是所有的火烈鸟都是粉红色的？</item>
+        <item>和主要问题:
+            哪个排在第一位：鸡肉还是鸡蛋？</item>
+    </string-array>
+
+    <string-array name="kidsAns1">
+        <item>参见</item>
+        <item>未见</item>
+    </string-array>
+    <string-array name="kidsAns2">
+        <item>提升力</item>
+        <item>到引擎</item>
+        <item>重力</item>
+    </string-array>
+    <string-array name="kidsAns3">
+        <item>因为太阳</item>
+        <item>由于重力</item>
+        <item>上帝做了这个</item>
+    </string-array>
+    <string-array name="kidsAns4">
+        <item>人们不想吃老鼠</item>
+        <item>猫不想吃老鼠</item>
+        <item>老鼠是无味的</item>
+    </string-array>
+    <string-array name="kidsAns5">
+        <item>它们不会发光</item>
+        <item>因为特殊的光</item>
+        <item>由于眼睛中的特殊物质</item>
+    </string-array>
+    <string-array name="kidsAns6">
+        <item>因环境不同</item>
+        <item>由于光反射</item>
+        <item>因为静脉是蓝色的</item>
+    </string-array>
+    <string-array name="kidsAns7">
+        <item>他们认为这是月亮</item>
+        <item>它们不会飞入光中</item>
+    </string-array>
+    <string-array name="kidsAns8">
+        <item>它们的颜色取决于饮食</item>
+        <item>因基因不同</item>
+    </string-array>
+    <string-array name="kidsAns9">
+        <item>鸡</item>
+        <item>蛋</item>
+    </string-array>
+
+
+    <string-array name="kidsRight">
+        <item>不可见。 因为微生物知道对方的存在，虽然他们肯定不会去想它—他们没有任何关系。 实际上，他们没有看到对方出于同样的原因</item>
+        <item>提升力。 这就是翅膀对</item>的作用
+        <item>由于重力。 太阳，恒星，地球，月球，所有的行星及其大型卫星都是"圆形"（球形），因为它们具有非常大的质量。 他们自己的引力（重力）倾向于给他们一个球的形状</item>
+        <item>人们不想吃老鼠。 要用老鼠的叮咬做一些事情，你需要知道它们的味道</item>
+        <item>他们不发光。 他们只反射光线，但非常好，所以猫可以在黑暗中看到比我们更好</item>
+        <item>由于光反射</item>
+        <item>他们认为这是月亮</item>
+        <item>他们的颜色取决于饮食。 它们的粉红色来自小红色甲壳类动物，其中含有类胡萝卜素</item>
+        <item>蛋。 很明显 它不是一个进化的生物，而是它的后代。 因此，有一些物种产卵，第一只母鸡从中孵化</item>
+    </string-array>
+
+    <string-array name="kosmosQ">
+        <item>让我们从一个简单的问题开始:
+我们在哪个星系？</item>
+        <item>黑洞：第1部分。
+            真的是黑色的吗？</item>
+        <item>黑洞：第2部分。
+            如果我们用相同质量的黑洞替换我们的太阳，那么。.. </item>
+        <item>好吧，它真的在太空中绝对沉默吗？</item>
+        <item>太空中是否存在真空？</item>
+        <item>太阳消失了。
+            我们需要多长时间才能找到答案？（约）</item>
+        <item>这对人类来说是一小步，但对全人类来说是一个巨大的飞跃。
+尼尔*阿姆斯特朗的踪迹还能在月球上看到吗？</item>
+        <item>地球是唯一有水的星球吗？</item>
+        <item>系外行星是。..</item>
+        <item>空间中的时间总是变慢</item>
+        <item>好吧，但是什么阻止了时间的流逝？ </item>
+        <item>太阳是否在其轴上旋转？ </item>
+        <item>和月亮？ </item>
+        <item>时间旅行是真实的吗？ </item>
+        <item>黑洞附近，时间流逝。.. </item>
+        <item>最后,
+宇宙的形状是什么？（根据最新理论）</item>
+    </string-array>
+
+    <string-array name="kosmosAns1">
+        <item>牛奶路径</item>
+        <item>银河</item>
+        <item>银河</item>
+    </string-array>
+    <string-array name="kosmosAns2">
+        <item>无</item>
+        <item>是的，这个名字甚至有意义</item>
+    </string-array>
+    <string-array name="kosmosAns3">
+        <item>地球将保持在其轨道上</item>
+        <item>附近的一切都会被黑洞吸入</item>
+        <item>绝对不会改变</item>
+    </string-array>
+    <string-array name="kosmosAns4">
+        <item>是的，有一个真空</item>
+        <item>是的，但只适用于我们的耳朵</item>
+        <item>有一个声音在星球大战，所以。.</item>
+    </string-array>
+    <string-array name="kosmosAns5">
+        <item>当然</item>
+        <item>不是真的</item>
+    </string-array>
+    <string-array name="kosmosAns6">
+        <item>8分钟</item>
+        <item>10分钟</item>
+        <item>15分钟</item>
+    </string-array>
+    <string-array name="kosmosAns7">
+        <item>不，已经太多年了</item>
+        <item>是的，它仍然存在！</item>
+    </string-array>
+    <string-array name="kosmosAns8">
+        <item>正确</item>
+        <item>还有其他</item>
+    </string-array>
+    <string-array name="kosmosAns9">
+        <item>生命是可能的行星</item>
+        <item>太阳系外的行星</item>
+        <item>温度大于100摄氏度的行星</item>
+    </string-array>
+    <string-array name="kosmosAns10">
+        <item>无效</item>
+        <item>正确</item>
+    </string-array>
+    <string-array name="kosmosAns11">
+        <item>重力</item>
+        <item>暗物质</item>
+        <item>超新星</item>
+    </string-array>
+    <string-array name="kosmosAns12">
+        <item>无</item>
+        <item>自然</item>
+    </string-array>
+    <string-array name="kosmosAns13">
+        <item>旋转</item>
+        <item>不旋转</item>
+    </string-array>
+    <string-array name="kosmosAns14">
+        <item>这仅在电影中</item>
+        <item>理论上，这是可能的</item>
+    </string-array>
+    <string-array name="kosmosAns15">
+        <item>更快</item>
+        <item>慢</item>
+    </string-array>
+    <string-array name="kosmosAns16">
+        <item>以甜甜圈的形式</item>
+        <item>以圆柱体的形式</item>
+    </string-array>
+
+    <string-array name="rightKosmos">
+        <item>银河</item>
+        <item>没有。 黑洞甚至会吸收光子（光粒子），所以它并没有真正的颜色，在物理上是不可能看到它的</item>
+        <item>地球将保持在其轨道上。 黑洞吸一切，这要归功于它的无限质量。 条件是它的质量等于太阳的质量。 所以，一切都将保持在它的位置</item>
+        <item>是的，但只为我们的耳朵。 空间中有声音，但在人耳无法捕捉的频率下</item>
+        <item>不是真的。 外太空具有非常低的密度和压力，是物理真空的最佳近似值。 宇宙真空并不是真正完美的，即使在星际空间中，每立方厘米也有几个氢原子</item>
+        <item>8分钟</item>
+        <item>是的，它仍然存在！ 毕竟月球上没有大气</item>
+        <item>还有其他</item>
+        <item>太阳系外的行星</item>
+        <item>无效</item>
+        <item>重力。 越接近一个庞大的身体，时间越慢</item>
+        <item>自然</item>
+        <item>旋转</item>
+        <item>理论上，这是可能的</item>
+        <item>较慢。 由于黑洞具有无限质量</item>
+        <item>以甜甜圈的形式</item>
+    </string-array>
+
+    <string-array name="mathQ">
+<item>一劳永逸:
+0是</item>
+        <item>从1到100的数字总和</item>
+        <item>零是唯一具有多个名称的现有数字</item>
+        <item>在所有周长相同的形状中，哪个形状的面积最大？</item>
+        <item>10是一个数字？</item>
+        <item>数学中有多少数字不能用罗马数字写？</item>
+        <item>爱因斯坦记住了一位女士的号码对吗:
+            2打19平方 是什么号码？</item>
+    </string-array>
+
+    <string-array name="mathAns1">
+        <item>甚至</item>
+        <item>中性</item>
+        <item>奇</item>
+    </string-array>
+    <string-array name="mathAns2">
+        <item>5050</item>
+        <item>3030</item>
+        <item>5500</item>
+    </string-array>
+    <string-array name="mathAns3">
+        <item>真</item>
+        <item>假</item>
+    </string-array>
+    <string-array name="mathAns4">
+        <item>广场</item>
+        <item>圆圈</item>
+        <item>三角形</item>
+    </string-array>
+    <string-array name="mathAns5">
+        <item>编号</item>
+        <item>数字</item>
+    </string-array>
+    <string-array name="mathAns6">
+        <item>没有</item>
+        <item>一</item>
+        <item>五</item>
+    </string-array>
+    <string-array name="mathAns7">
+        <item>24-361</item>
+        <item>12-361</item>
+    </string-array>
+
+
+    <string-array name="mathRight">
+        <item>甚至</item>
+        <item>5050</item>
+        <item>真相。 零零 零和Null</item>
+        <item>圆圈</item>
+        <item>编号。 共10位数（0…9）组成数字</item>
+        <item>一个。 这是零</item>
+        <item>24–361。 一打是12。 二打-24</item>
+    </string-array>
+
+    <string-array name="mith2Q">
+        <item>柑橘类水果是维生素C的最佳来源</item>
+        <item>可口可乐没有发明圣诞老人</item>
+        <item>有两种类型的葵花籽油：好和\"坏\"与胆固醇</item>
+        <item>啤酒和甜苏打水不解渴</item>
+        <item>一只受惊的鸵鸟把头埋在沙子里</item>
+        <item>我可以看焊接吗？</item>
+        <item>如果你触摸蟾蜍，会出现疣</item>
+        <item>你不能坐在靠近电视</item>
+        <item>氯仿蒸气可以迅速让人入睡</item>
+        <item>您需要至少在24小时后报告失踪人员</item>
+    </string-array>
+
+    <string-array name="mith2Ans1">
+        <item>这是一个神话</item>
+        <item>这是真的</item>
+    </string-array>
+    <string-array name="mith2Ans2">
+        <item>真相</item>
+        <item>想出了</item>
+    </string-array>
+    <string-array name="mith2Ans3">
+        <item>真相</item>
+        <item>不会发生胆固醇</item>
+    </string-array>
+    <string-array name="mith2Ans4">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mith2Ans5">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mith2Ans6">
+        <item>不允许</item>
+        <item>你可以，但不能作为电视</item>
+    </string-array>
+    <string-array name="mith2Ans7">
+        <item>神话</item>
+        <item>取决于青蛙</item>
+    </string-array>
+    <string-array name="mith2Ans8">
+        <item>神话</item>
+        <item>你可以！</item>
+    </string-array>
+    <string-array name="mith2Ans9">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mith2Ans10">
+        <item>没错</item>
+        <item>神话</item>
+    </string-array>
+
+    <string-array name="mith2Right">
+        <item>这是一个神话。 维生素C含量最高的水果中发现，如：凤头鹦鹉李子，巴巴多斯樱桃，玫瑰果浆果，番石榴，甜红辣椒，黑醋栗，沙棘，香菜，西兰花</item>
+        <item>真相。 就好像Roscosmos发明了太空</item>
+        <item>不会发生胆固醇</item>
+        <item>真相</item>
+        <item>神话。 受惊的鸵鸟逃跑了</item>
+        <item>你可以，但不能作为电视</item>
+        <item>神话</item>
+        <item>你可以！</item>
+        <item>神话。 这将需要相当长的时间</item>
+        <item>神话。 如果您确定有人失踪，那么您需要立即报告</item>
+    </string-array>
+
+
+    <string-array name="mithQ">
+<item>大家都知道:
+胡萝卜改善视力</item>
+        <item>合理数量的咖啡对我们的身体无害</item>
+        <item>新鲜不比冷冻</item>
+        <item>我们尽可能地使用大脑</item>
+        <item>死后头发和指甲继续生长</item>
+        <item>如果我们感冒了，那么我们就会生病</item>
+        <item>吃完后，你可以游泳！</item>
+        <item>在昏暗的光线下阅读会损害视力</item>
+        <item>盐是非常有害的</item>
+        <item>注射效果比药丸更好</item>
+    </string-array>
+
+    <string-array name="mithAns1">
+        <item>这是一个神话</item>
+        <item>这是真的</item>
+    </string-array>
+    <string-array name="mithAns2">
+        <item>有害</item>
+        <item>无害</item>
+    </string-array>
+    <string-array name="mithAns3">
+        <item>真相</item>
+        <item>不是真的</item>
+    </string-array>
+    <string-array name="mithAns4">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mithAns5">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mithAns6">
+        <item>非真</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mithAns7">
+        <item>你可以</item>
+        <item>不允许</item>
+    </string-array>
+    <string-array name="mithAns8">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mithAns9">
+        <item>神话</item>
+        <item>真相</item>
+    </string-array>
+    <string-array name="mithAns10">
+        <item>始终</item>
+        <item>并不总是</item>
+    </string-array>
+
+    <string-array name="mithRight">
+        <item>这是一个神话。 然而，这种蔬菜的维生素，微量元素和其他成分有利于视力健康，并有助于降低患某些眼部疾病的风险，前提是胡萝卜是均衡饮食的一部分</item>
+        <item>无害</item>
+        <item>真相</item>
+        <item>真相</item>
+        <item>神话。 没有任何东西来给他们，所以他们的成长是不可能的</item>
+        <item>不正确。 我们生病不是来自寒冷，而是来自细菌和病毒</item>
+        <item>你可以</item>
+        <item>神话。 眼睛只是累得更快</item>
+        <item>神话</item>
+        <item>并不总是</item>
+    </string-array>
+
+
+
+    <string-array name="homeQ">
+        <item>在检查过程中，没有人推你，你问了所有你感兴趣的问题。 然而，在做出最终决定之前，您想再看看您未来家的其中一个房间。 房子的哪个部分需要额外的检查？</item>
+    </string-array>
+
+    <string-array name="homeAns">
+        <item>浴室</item>
+        <item>卧室</item>
+        <item>厨房</item>
+        <item>阳台/花园</item>
+    </string-array>
+
+    <string-array name="openQ">
+        <item>也许最着名的发现是青霉素。 它是由生物学家亚历山大*弗莱明爵士发现的。 他在这段时间里研究了什么细菌？</item>
+        <item>一个磁控管，一个巧克力棒，一个口袋-这一切与什么发现有关？</item>
+        <item>碳酸酒被认为是劣质葡萄酒酿造的肯定标志。 Dom Pierre Perignon通过制作自己的葡萄酒来挣扎，但最终将其传播到世界各地。.. 什么？</item>
+        <item>斯宾塞银与强胶配方工作，但能够创建只有一个非常弱的胶水，几乎可以毫不费力地删除。 随后，感谢亚瑟弗莱，这导致了什么发现？</item>
+        <item>其中哪一个像青霉素一样，是偶然发现的，仍然可以挽救生命？</item>
+        <item>这个意外发现被用来治疗越南受伤的士兵：它被喷洒在开放性伤口上，止血，这使得运送士兵更容易</item>
+        <item>最后:
+意外出现的药物</item>
+    </string-array>
+
+    <string-array name="openAns1">
+        <item>芽孢杆菌菌</item>
+        <item>葡萄球菌细菌</item>
+        <item>球菌细菌</item>
+    </string-array>
+    <string-array name="openAns2">
+        <item>微波炉</item>
+        <item>电磁炉</item>
+        <item>烤箱</item>
+    </string-array>
+    <string-array name="openAns3">
+        <item>香槟</item>
+        <item>啤酒</item>
+        <item>苹果酒</item>
+    </string-array>
+    <string-array name="openAns4">
+        <item>书签</item>
+        <item>便利贴</item>
+        <item>邮票</item>
+    </string-array>
+    <string-array name="openAns5">
+        <item>起搏器</item>
+        <item>除颤器</item>
+        <item>阿司匹林</item>
+    </string-array>
+    <string-array name="openAns6">
+        <item>过氧化氢</item>
+        <item>强力胶</item>
+        <item>氯</item>
+    </string-array>
+    <string-array name="openAns7">
+        <item>LSD</item>
+        <item>海洛因</item>
+        <item>可卡因</item>
+    </string-array>
+
+    <string-array name="openRight">
+        <item>葡萄球菌细菌</item>
+        <item>微波炉。 美国工程师Percy Spencer首先注意到超高频辐射加热产品的能力，并为微波炉申请了专利。 当他尝试另一个磁控管时，Spencer注意到口袋里的一块巧克力已经融化</item>
+        <item>香槟。 这里是这样一个悖论</item>
+        <item>便利贴</item>
+        <item>起搏器</item>
+        <item>强力胶</item>
+        <item>LSD。 阿尔伯特*霍夫曼用受伤的手指尖摸了摸物质。 这一天以"自行车日"的名义载入史册。 服用LSD几分钟后，Albert再也无法形成连贯的句子，在他的助手的注视下，骑着自行车回家。 在旅途中，他更清楚地感受到LSD的影响</item>
+    </string-array>
+
+
+    <string-array name="orgQ">
+<item>有时候我们会在睡梦中抽搐，你知道吗？
+为什么？</item>
+        <item>一个流行的问题是:
+人体中有多少骨头？</item>
+        <item>我们的大脑能掌握多少信息？</item>
+        <item>当你打喷嚏时会发生什么？</item>
+        <item>女人的心比男人的心跳得更快。
+一个神话？</item>
+        <item>我们完全忘记了多少梦想？</item>
+        <item>生活在人类中的细菌的总重量是多少？</item>
+        <item>婴儿出生时没有膝盖。
+            神话与否？</item>
+        <item>什么是最强的肌肉在人体内？</item>
+        <item>最后：你有没有试过睁开眼睛打喷嚏？
+            有用吗？</item>
+    </string-array>
+
+    <string-array name="orgAns1">
+        <item>做噩梦</item>
+        <item>mogz发出电击</item>
+        <item>大脑在黎明前醒来</item>
+    </string-array>
+    <string-array name="orgAns2">
+        <item>205-207</item>
+        <item>195-197</item>
+        <item>210-212</item>
+    </string-array>
+    <string-array name="orgAns3">
+        <item>超过4tb</item>
+        <item>超过4gb</item>
+        <item>超过4pb</item>
+    </string-array>
+    <string-array name="orgAns4">
+        <item>所有身体功能停止</item>
+        <item>一切，但心脏是自然的</item>
+        <item>一个神经爆发</item>
+    </string-array>
+    <string-array name="orgAns5">
+        <item>神话</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="orgAns6">
+        <item>65%</item>
+        <item>98%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="orgAns7">
+        <item>2公斤</item>
+        <item>200克</item>
+        <item>20公斤</item>
+    </string-array>
+    <string-array name="orgAns8">
+        <item>神话</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="orgAns9">
+        <item>小腿</item>
+        <item>臀部</item>
+        <item>眼睛</item>
+    </string-array>
+    <string-array name="orgAns10">
+        <item>当然</item>
+        <item>这是不可能的:)</item>
+    </string-array>
+
+    <string-array name="orgRight">
+        <item>mogz发送电击。 有时大脑在梦中采取的行动是真实的，所以它会发送一个电荷（也就是说，它命令）身体执行动作</item>
+        <item>205-207</item>
+        <item>超过4tb。 </item>
+        <item>所有身体功能停止</item>
+        <item>真的。 女人的心脏比男人的心脏略小，因此跳动得更快。 在男性中，平均每分钟60–70次，在女性中–80–90</item>
+        <item>98%</item>
+        <item>200克</item>
+        <item>真的。 它们稍后形成</item>
+        <item>小腿</item>
+        <item>这是不可能的:)眼睛关闭由于不自主的肌肉收缩。 当你打喷嚏时，你脸上的肌肉会收缩。 因此，奇怪的面部表情是这个生物过程的一个组成部分。 这些肌肉中的一些围绕着你的眼睛，所以当它们收缩时，你的眼睛闭上</item>
+    </string-array>
+
+
+    <string-array name="pcihonames">
+        <item>你是Rick还是Morty</item>
+        <item>你是什么样的喜剧演员？</item>
+        <item>你是什么样的演员？</item>
+        <item>选择爱好</item>
+        <item>博学测试</item>
+        <item>Zombieland</item>
+        <item>真实和虚构的单词</item>
+        <item>关于动物的事实</item>
+        <item>关于动物的事实第2部分</item>
+        <item>您的国家</item>
+        <item>着名人物</item>
+        <item>哈利波特</item>
+        <item>报价</item>
+        <item>不寻常的法律</item>
+        <item>大尺寸</item>
+    </string-array>
+
+    <string-array name="pcihonames2">
+        <item>11个问题</item>
+        <item>7个问题</item>
+        <item>9个问题</item>
+        <item>6个问题</item>
+        <item>10个问题</item>
+        <item>8个问题</item>
+        <item>8个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>7个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>9个问题</item>
+        <item>7个问题</item>
+    </string-array>
+
+    <string-array name="pcihonamesforex">
+        <item>你是Rick还是Morty</item>
+        <item>你是什么样的喜剧演员？</item>
+        <item>你是什么样的演员？</item>
+        <item>博学测试</item>
+        <item>真实和虚构的单词</item>
+        <item>关于动物的事实</item>
+        <item>关于动物的事实第2部分</item>
+        <item>着名人物</item>
+        <item>报价</item>
+        <item>不寻常的法律</item>
+        <item>大尺寸</item>
+    </string-array>
+
+    <string-array name="pcihonames2forex">
+        <item>11个问题</item>
+        <item>7个问题</item>
+        <item>9个问题</item>
+        <item>10个问题</item>
+        <item>8个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>10个问题</item>
+        <item>9个问题</item>
+        <item>7个问题</item>
+    </string-array>
+
+    <string-array name="physicsQ">
+        <item>谁制定了万有引力定律？</item>
+        <item>弹性变形与引起它们的外部影响成正比的定律</item>
+        <item>牛顿经典力学有多少定律？</item>
+        <item>博伊尔-万豪法律描述了什么过程？</item>
+        <item>外力在液体或气体表面产生的压力在各个方向上平均传递</item>
+        <item>根据什么规律是不可能创造一个永动机？</item>
+        <item>确定电磁感应过程中发生的感应电流方向的规则</item>
+        <item>最后：入射角为。.. </item>
+    </string-array>
+
+    <string-array name="physicsAns1">
+        <item>阿基米德</item>
+        <item>By Newton</item>
+        <item>爱因斯坦</item>
+    </string-array>
+    <string-array name="physicsAns2">
+        <item>胡克定律</item>
+        <item>开普勒定律</item>
+        <item>牛顿定律</item>
+    </string-array>
+    <string-array name="physicsAns3">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="physicsAns4">
+        <item>放热</item>
+        <item>等温</item>
+    </string-array>
+    <string-array name="physicsAns5">
+        <item>阿基米德定律</item>
+        <item>帕斯卡定律</item>
+        <item>Gay-Lussac law</item>
+    </string-array>
+    <string-array name="physicsAns6">
+        <item>能量守恒定律</item>
+        <item>1静力学定律</item>
+        <item>动量守恒定律</item>
+    </string-array>
+    <string-array name="physicsAns7">
+        <item>欧姆的规则</item>
+        <item>伦茨规则</item>
+        <item>德国统治</item>
+    </string-array>
+    <string-array name="physicsAns8">
+        <item>反射角</item>
+        <item>90度</item>
+    </string-array>
+
+    <string-array name="physicsRight">
+        <item>By Newton</item>
+        <item>胡克定律</item>
+        <item>3。 第一定律被称为惯性定律。 牛顿第二定律是微分运动定律（加速度）。 第三定律-对一个动作总是有一个相等和相反的反应</item>
+        <item>等温</item>
+        <item>帕斯卡定律</item>
+        <item>能量守恒定律。 能量不能无中生有，也不能无中生有</item>
+        <item>伦茨规则</item>
+        <item>反射角</item>
+    </string-array>
+
+
+    <string-array name="pictureQ">
+        <item>你站在博物馆里的一幅画前，双手背在身后，试图进入艺术家的想法，突然一个完全陌生的人走到你身边，对你说些什么。 陌生人告诉你的以下内容是什么？</item>
+    </string-array>
+
+    <string-array name="pictureAns">
+        <item>这张照片是不是很美？</item>
+        <item>你怎么看这张照片？</item>
+        <item>对不起，你有时间吗？</item>
+        <item>你知道，我自己也是个艺术家</item>
+    </string-array>
+
+    <string-array name="porQ">
+        <item>你是否被旅行的机会所吸引？</item>
+        <item>你喜欢学习新的东西吗？</item>
+        <item>你有睡眠困难吗？</item>
+        <item>你是一个好客的人吗？</item>
+        <item>你有预见未来问题的倾向吗？</item>
+        <item>你的朋友在生活中取得比你更多的成就吗？</item>
+        <item>你喜欢玩运动吗？</item>
+        <item>命运经常给你惊喜吗？</item>
+        <item>您是否担心环境的当前状态？</item>
+        <item>科学进步是否给地球带来太多问题？</item>
+        <item>你的职业选得好吗？</item>
+        <item>你经常使用保险吗？</item>
+        <item>你是一个移动的人吗？ 是否很容易让你移动到另一个地方，如果你提供了一个你喜欢的工作？</item>
+        <item>你认为自己很可爱吗？</item>
+        <item>你担心你的身体状态？</item>
+        <item>你不会因为加入一个陌生的团队而感到困惑吗？</item>
+        <item>你喜欢在事件的中心？</item>
+        <item>是否有没有互惠互利的友谊？</item>
+        <item>你有自己的个人标志吗？</item>
+        <item>每个人都建立自己的命运吗？</item>
+    </string-array>
+
+    <string-array name="porAns">
+        <item>是</item>
+        <item>无</item>
+    </string-array>
+
+    <string-array name="psychonames">
+        <item>悲观主义者，乐观主义者，现实主义者</item>
+        <item>蓝天下</item>
+        <item>蓝鸟</item>
+        <item>洞穴中的蝙蝠</item>
+        <item>图片</item>
+        <item>蛋</item>
+        <item>法律诉讼</item>
+        <item>新家</item>
+        <item>猫</item>
+        <item>花絮</item>
+        <item>灰姑娘的故事</item>
+        <item>你确定自己吗</item>
+        <item>气质型</item>
+        <item>受害者情结</item>
+        <item>自我发展能力</item>
+        <item>控件</item>
+    </string-array>
+
+    <string-array name="psychonames2">
+        <item>20个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>1个问题</item>
+        <item>7个问题</item>
+        <item>14个问题</item>
+        <item>10个问题</item>
+        <item>18个问题</item>
+        <item>10个问题</item>
+    </string-array>
+
+    <string-array name="quotesQ">
+        <item>不是从未跌倒的伟大者，而是跌倒起身的伟大者！</item>
+        <item>我们一生只爱一次，然后我们只寻找类似的</item>
+        <item>它并不总是谁是有罪的人谁请求原谅。 重视人际关系的人要求宽恕</item>
+        <item>打败自己，赢得成千上万的战斗</item>
+        <item>跳舞好像没有人在看你
+唱得好像没人能听见你
+爱，如果你从来没有背叛，生活，如果地球是一个天堂</item>
+        <item>同情是当你喜欢外表时，爱是当你喜欢外表和性格时，而爱是当你喜欢连瑕疵</item>
+        <item>一个真正的朋友是一个会告诉你他在你眼中对你的所有想法的人，并告诉所有人你是一个很棒的人</item>
+        <item>女性激励我们做伟大的事情，但他们总是阻止我们做这些事情</item>
+        <item>看到和感受是为了，反思，是为了生活</item>
+        <item>毕竟兵不生，兵死</item>
+    </string-array>
+
+    <string-array name="quotesAns1">
+        <item>孔子</item>
+        <item>穆罕默德*阿里</item>
+        <item>成龙</item>
+    </string-array>
+    <string-array name="quotesAns2">
+        <item>E.M.Remarque</item>
+        <item>用。Yesenin</item>
+        <item>A.S.普希金</item>
+    </string-array>
+    <string-array name="quotesAns3">
+        <item>E.M.Remarque</item>
+        <item>用。Yesenin</item>
+        <item>A.S.普希金</item>
+    </string-array>
+    <string-array name="quotesAns4">
+        <item>孙子</item>
+        <item>佛</item>
+        <item>孔子</item>
+    </string-array>
+    <string-array name="quotesAns5">
+        <item>马克吐温</item>
+        <item>维索茨基</item>
+        <item>D.K.罗琳</item>
+    </string-array>
+    <string-array name="quotesAns6">
+        <item>圣埃克苏佩里</item>
+        <item>A.大仲马</item>
+        <item>奥斯卡*王尔德</item>
+    </string-array>
+    <string-array name="quotesAns7">
+        <item>迈克*泰森</item>
+        <item>Omar Khayam</item>
+        <item>Johnn Lenon</item>
+    </string-array>
+    <string-array name="quotesAns8">
+        <item>奥斯卡*王尔德</item>
+        <item>Omar Khayyam</item>
+        <item>圣埃克苏佩里</item>
+    </string-array>
+    <string-array name="quotesAns9">
+        <item>伽利略</item>
+        <item>威廉*莎士比亚</item>
+        <item>孔子</item>
+    </string-array>
+    <string-array name="quotesAns10">
+        <item>叶戈尔Letov</item>
+        <item>孙子</item>
+        <item>佛</item>
+    </string-array>
+
+    <string-array name="quotesRight">
+        <item>孔子</item>
+        <item>用。Yesenin</item>
+        <item>E.M.Remarque</item>
+        <item>佛</item>
+        <item>马克吐温</item>
+        <item>圣埃克苏佩里</item>
+        <item>Omar Khayyam</item>
+        <item>奥斯卡*王尔德</item>
+        <item>威廉*莎士比亚</item>
+        <item>叶戈尔Letov</item>
+    </string-array>
+
+
+    <string-array name="romQ">
+<item>首先:
+kilota游泳池是个好主意吗？</item>
+        <item>你如何喜欢保护者（复仇者的模仿）？</item>
+        <item>有多少个平行世界？
+具体来说</item>
+        <item>在其中一集中，莫蒂自己想出了一个冒险。 这就是明胶王出现的地方
+            冒险是。..</item>
+        <item>你怎么能证明一个人的玩世不恭？</item>
+        <item>是否有必要摆脱一切邪恶的世界？</item>
+        <item>每个生物都值得自由</item>
+        <item>里克创造了一个整个迷你宇宙，为他的船的引擎提供动力</item>
+        <item>你印象深刻的转变成黄瓜？</item>
+        <item>在你遇到一个女孩谁是危险的世界之一。
+            你会帮助她吗？"</item>
+        <item>最后:
+四川酱还是你一生的挚爱？</item>
+    </string-array>
+
+    <string-array name="romAns1">
+        <item>是的</item>
+        <item>不</item>
+        <item>为什么？</item>
+    </string-array>
+    <string-array name="romAns2">
+        <item>他们很酷</item>
+        <item>没有Rick，他们什么都不是</item>
+        <item>这些都死了吗？</item>
+    </string-array>
+    <string-array name="romAns3">
+        <item>类似20bn的东西</item>
+        <item>倒八</item>
+        <item>这只是一个理论</item>
+    </string-array>
+    <string-array name="romAns4">
+        <item>></item>
+        <item>可怕</item>
+        <item>你怎么上厕所？</item>
+    </string-array>
+    <string-array name="romAns5">
+        <item>很大的损失</item>
+        <item>无限数量的世界</item>
+    </string-array>
+    <string-array name="romAns6">
+        <item>有必要的邪恶</item>
+        <item>邪恶是邪恶的，它是无用的</item>
+    </string-array>
+    <string-array name="romAns7">
+        <item>你必须为此而战</item>
+        <item>自由是虚幻的</item>
+    </string-array>
+    <string-array name="romAns8">
+        <item>这是实用的</item>
+        <item>这不符合道德</item>
+        <item>这突出了作为</item>的徒劳的主题
+    </string-array>
+    <string-array name="romAns9">
+        <item>这是愚蠢的</item>
+        <item>是啊，泡菜-里克！</item>
+    </string-array>
+    <string-array name="romAns10">
+        <item>绝对</item>
+        <item>没有人可以信任</item>
+    </string-array>
+    <string-array name="romAns11">
+        <item>只要给我这个酱</item>
+        <item>爱</item>
+    </string-array>
+
+    <string-array name="romRight">
+        <item>自然-这就是里克会
+            说不-这就是莫蒂会说的</item>
+        <item>没有Rick，他们什么都不是-这就是rick会说的
+他们很酷-这就是莫蒂会说的</item>
+        <item>倒八（无穷大）-所以里克会回答
+            像20bn这样的东西-所以莫蒂会回答</item>
+        <item>伟大的-这就是里克会说
+            可怕的（明胶试图强奸他）-这就是莫蒂会说的</item>
+        <item>无限数量的世界-这就是rick会说的
+大损失-这就是莫蒂会说</item>
+        <item>有一个必要的邪恶-这是rick会如何回答
+邪恶-有邪恶，这是没有必要的-这是莫蒂会如何回答</item>
+        <item>自由是虚幻的-这就是里克会说的
+你必须为它而战-这就是莫蒂会说的</item>
+        <item>它很实用-这就是rick会说的
+这不是道德的-这就是莫蒂会说的</item>
+        <item>是啊，泡菜-里克！ -这就是Rick会回答的
+            这很愚蠢-这就是Morty会如何回答</item>
+        <item>你不能相信任何人-这就是里克会
+            肯定会说-这就是莫蒂会说的</item>
+        <item>只要给我这个酱-这就是如何里克
+            爱会回答-这就是莫蒂会如何回答</item>
+    </string-array>
+
+    <string-array name="selfQ">
+        <item>你的朋友看重你什么？</item>
+        <item>根据比较自我评估，选择最适合您的特征</item>
+        <item>你如何看待保持个人日记的想法，计划你的工作一年，一个月，下周或一天？</item>
+        <item>什么阻止你最重要的是提高自己的专业，学习更好？</item>
+        <item>你的错误和失误的典型原因是什么？</item>
+        <item>根据比较自我评估，选择哪种特征最适合你？</item>
+        <item>根据比较自我评估，选择哪种特征最适合你？</item>
+        <item>根据比较自我评估，选择哪种特征最适合你？</item>
+        <item>根据比较自我评估，选择哪些素质，你有更多的发展？</item>
+        <item>当你有空闲时间时，你最常做什么？</item>
+        <item>以下哪些领域最近对您感兴趣？</item>
+        <item>你能最大限度地利用自己吗？</item>
+        <item>老师最常怎么想或考虑你？</item>
+        <item>这三个原则中哪一个最接近你，你最常坚持哪一个？</item>
+        <item>谁最接近你的理想？</item>
+        <item>你将能够实现你的梦想在你的生活吗？</item>
+        <item>你最喜欢什么电影？</item>
+        <item>想象一下，你已经赚了一百万。 你宁愿花在哪里？</item>
+    </string-array>
+
+    <string-array name="selfAns1">
+        <item>为了成为一个忠诚和忠诚的朋友</item>
+        <item>坚强，准备在困难时刻为你的朋友站起来</item>
+        <item>博学，有趣的健谈</item>
+    </string-array>
+    <string-array name="selfAns2">
+        <item>有目的</item>
+        <item>勤奋</item>
+        <item>响应式</item>
+    </string-array>
+    <string-array name="selfAns3">
+        <item>我认为大多数情况下，这是浪费时间</item>
+        <item>我试图这样做，但不经常</item>
+        <item>积极的，因为我已经做了很长一段时间</item>
+    </string-array>
+    <string-array name="selfAns4">
+        <item>时间不够</item>
+        <item>没有合适的文献和条件</item>
+        <item>并不总是足够的意志力和毅力</item>
+    </string-array>
+    <string-array name="selfAns5">
+        <item>不留神</item>
+        <item>高估我的能力</item>
+        <item>我不确切知道</item>
+    </string-array>
+    <string-array name="selfAns6">
+        <item>持久</item>
+        <item>勤奋</item>
+        <item>友好</item>
+    </string-array>
+    <string-array name="selfAns7">
+        <item>坚决</item>
+        <item>好奇</item>
+        <item>展会</item>
+    </string-array>
+    <string-array name="selfAns8">
+        <item>想法生成器</item>
+        <item>评论家</item>
+        <item>组织者</item>
+    </string-array>
+    <string-array name="selfAns9">
+        <item>意志力</item>
+        <item>内存</item>
+        <item>必填</item>
+    </string-array>
+    <string-array name="selfAns10">
+        <item>我做我最喜欢的事情，我有一个爱好</item>
+        <item>我读小说</item>
+        <item>我与朋友或家人共度时光</item>
+    </string-array>
+    <string-array name="selfAns11">
+        <item>科幻小说</item>
+        <item>宗教</item>
+        <item>心理学</item>
+    </string-array>
+    <string-array name="selfAns12">
+        <item>按运动员</item>
+        <item>致科学家</item>
+        <item>由艺术家</item>
+    </string-array>
+    <string-array name="selfAns13">
+        <item>勤奋</item>
+        <item>精明</item>
+        <item>纪律</item>
+    </string-array>
+    <string-array name="selfAns14">
+        <item>生活和享受生活</item>
+        <item>直播了解更多，并能够</item>
+        <item>生活-不是go字段</item>
+    </string-array>
+    <string-array name="selfAns15">
+        <item>健康、坚强的人</item>
+        <item>一个知道很多并且能够</item>的人
+        <item>一个独立自信的人</item>
+    </string-array>
+    <string-array name="selfAns16">
+        <item>我这么认为</item>
+        <item>很可能是</item>
+        <item>多么幸运</item>
+    </string-array>
+    <string-array name="selfAns17">
+        <item>冒险与浪漫</item>
+        <item>喜剧和娱乐</item>
+        <item>哲学</item>
+    </string-array>
+    <string-array name="selfAns18">
+        <item>会旅行，看世界</item>
+        <item>将钱投资于最喜欢的业务</item>
+        <item>我会为自己的快乐而活</item>
+    </string-array>
+
+    <string-array name="standupQ">
+        <item>你经常在公司开玩笑吗？</item>
+        <item>这些笑话成功吗？</item>
+        <item>你想出有趣的想法吗？</item>
+        <item>你看到的东西不同吗？</item>
+        <item>不寻常/有趣的情况经常发生在你身上吗？</item>
+        <item>你注意到你周围发生的愚蠢吗？</item>
+        <item>你可以随身携带一个消息的人吗？</item>
+    </string-array>
+
+    <string-array name="standupAns1">
+        <item>始终</item>
+        <item>通常不是</item>
+    </string-array>
+    <string-array name="standupAns2">
+        <item>是的，而不仅仅是我</item>
+        <item>并不总是</item>
+    </string-array>
+    <string-array name="standupAns3">
+        <item>很少</item>
+        <item>我满脑子都是他们</item>
+    </string-array>
+    <string-array name="standupAns4">
+        <item>无</item>
+        <item>是</item>
+    </string-array>
+    <string-array name="standupAns5">
+        <item>太频繁了！</item>
+        <item>几乎从不</item>
+    </string-array>
+    <string-array name="standupAns6">
+        <item>一切似乎都很好</item>
+        <item>周围满是废话</item>
+    </string-array>
+    <string-array name="standupAns7">
+        <item>能随身携带包</item>
+        <item>我可以也会</item>
+    </string-array>
+
+    <string-array name="standupRight">
+        <item>这对于所有喜剧演员来说并不常见，但对于大多数人来说（至少在亲密的人的圈子里）</item>
+        <item>如果成功，这是一个好兆头</item>
+        <item>新鲜，有趣，甚至疯狂的想法是一个伟大的喜剧演员的标志</item>
+        <item>你需要从不同的角度看待事物，那么你可以取笑任何东西</item>
+        <item>敲定一个有趣的情况，一个现成的独白就会出来</item>
+        <item>愚蠢的事情让人笑</item>
+        <item>这也是可选的，但更有趣</item>
+    </string-array>
+
+    <string-array name="tastyQ">
+        <item>想象一下，你迷失在一个黑暗的森林，已经开始体验饥饿的第一个痛苦，当你突然遇到一个由糖果组成的房子。 你将如何处理这种美味？</item>
+    </string-array>
+
+    <string-array name="tastyAns">
+        <item>我会吃一切</item>
+        <item>我会尝试品尝尽可能多的不同品种的糖果</item>
+        <item>我会找到最美味的项目，只吃它</item>
+        <item>其实我不太喜欢甜食</item>
+    </string-array>
+
+    <string-array name="tempQ">
+        <item>你的性格是什么？</item>
+        <item>你最常经历的情绪是什么？</item>
+        <item>你喜欢什么游戏？</item>
+        <item>你对惩罚有什么反应？</item>
+        <item>你在意想不到的情况下表现如何？</item>
+        <item>你有多善于交际？</item>
+        <item>选择语句</item>
+        <item>内存功能</item>
+        <item>新学到了什么？</item>
+        <item>疲劳：</item>
+        <item>语音功能：</item>
+        <item>动作：</item>
+        <item>习惯上学：</item>
+        <item>睡眠功能：</item>
+    </string-array>
+
+    <string-array name="tempAns1">
+        <item>平静，保留，和平</item>
+        <item>胆小，害羞，易受影响</item>
+        <item>精力充沛，不安</item>
+        <item>开朗、乐观、妥协</item>
+    </string-array>
+    <string-array name="tempAns2">
+        <item>阳性，无暴力反应</item>
+        <item>恐惧</item>
+        <item>愤怒，暴力情绪</item>
+        <item>积极的情绪，我笑了很多</item>
+    </string-array>
+    <string-array name="tempAns3">
+        <item>僻静，宁静，宁静</item>
+        <item>移动和嘈杂-只与亲人</item>
+        <item>赌博，嘈杂，移动，甚至侵略性</item>
+        <item>各种各样，但为了让它变得有趣</item>
+    </string-array>
+    <string-array name="tempAns4">
+        <item>几乎没有情感</item>
+        <item>消极的，带有怨恨</item>
+        <item>在口头上-冷静</item>
+        <item>冷静下来</item>
+    </string-array>
+    <string-array name="tempAns5">
+        <item>不是很情绪化</item>
+        <item>试图避免这种情况</item>
+        <item>试图抵抗</item>
+        <item>好奇</item>
+    </string-array>
+    <string-array name="tempAns6">
+        <item>更喜欢隐私</item>
+        <item>我更喜欢隐私，我只与我所爱的人交往</item>
+        <item>我需要观众和同事</item>
+        <item>我爱社会，我很快就熟悉</item>
+    </string-array>
+    <string-array name="tempAns7">
+        <item>我没有权威或领导素质</item>
+        <item>我在狭窄的朋友圈中拥有权威</item>
+        <item>我把自己作为一个领导者</item>
+        <item>天生的领导者，公司的灵魂</item>
+    </string-array>
+    <string-array name="tempAns8">
+        <item>我慢慢地记得，但我永远记得</item>
+        <item>我以不同的方式记忆，我更多地钻研细节</item>
+        <item>我很快就记住了细节，但我很快就忘记了</item>
+        <item>快速轻松地掌握整体，长时间记住</item>
+    </string-array>
+    <string-array name="tempAns9">
+        <item>缓慢但彻底</item>
+        <item>视情况而定</item>
+        <item>我在飞行中捕捉，但我很快就忘记了</item>
+        <item>快速简便</item>
+    </string-array>
+    <string-array name="tempAns10">
+        <item>极低，几乎乐此不疲</item>
+        <item>高</item>
+        <item>有时中等，有时高</item>
+        <item>平均，我累了成比例的活动</item>
+    </string-array>
+    <string-array name="tempAns11">
+        <item>慢，没有手势，面无表情</item>
+        <item>安静而不确定，但富有表现力</item>
+        <item>言语是情感的，断断续续的，快速的</item>
+        <item>用手势和面部表情，富有表现力</item>
+    </string-array>
+    <string-array name="tempAns12">
+        <item>坚实，不疾不徐，缓慢</item>
+        <item>挑剔，不准确，不安全</item>
+        <item>尖锐，波涛汹涌</item>
+        <item>节奏、精准、自信</item>
+    </string-array>
+    <string-array name="tempAns13">
+        <item>害怕新的，不愿意改变</item>
+        <item>长期习惯，难以适应</item>
+        <item>不情愿遵守成人要求</item>
+        <item>适应方便快捷</item>
+    </string-array>
+    <string-array name="tempAns14">
+        <item>入睡快，睡得酣</item>
+        <item>我长时间睡觉，但我很快就睡着了</item>
+        <item>我睡着了漫长而艰难，不安的睡眠</item>
+        <item>我很快入睡，睡眠很强</item>
+    </string-array>
+
+    <string-array name="thelawsQ">
+        <item>澳大利亚公共场所周日下午禁止什么？</item>
+        <item>在英国的火车站不能做什么？</item>
+        <item>在威尼斯附近的Eraclea市，在海滩上禁止什么？</item>
+        <item>自1992年以来，新加坡禁止做什么？</item>
+        <item>2008年，日本决定引入年度监测。.. 其公民年龄为40-74岁
+填写通</item>
+        <item>在加拿大，根据法律规定，从6:00至18:00从周一至周五，35％的无线电电波必须占据。..</item>
+        <item>在泰国，如果你踩在一张带有君主形象的钞票上，你将被罚款
+            真的吗</item>
+        <item>在寒冷的季节，比利时不能做什么？</item>
+        <item>在意大利圣马可广场禁止做什么？</item>
+    </string-array>
+
+    <string-array name="thelawsAns1">
+        <item>出现在粉红色的裤子</item>
+        <item>使用</item>列
+        <item>遛狗</item>
+    </string-array>
+    <string-array name="thelawsAns2">
+        <item>吻</item>
+        <item>阅读这本书</item>
+        <item>be</item>
+    </string-array>
+    <string-array name="thelawsAns3">
+        <item>裸体</item>
+        <item>建筑沙堡</item>
+        <item>喂海鸥</item>
+    </string-array>
+    <string-array name="thelawsAns4">
+        <item>咀嚼口香糖</item>
+        <item>使用塑料</item>
+        <item>有鸽子</item>
+    </string-array>
+    <string-array name="thelawsAns5">
+        <item>机器数量</item>
+        <item>腰围尺寸</item>
+        <item>他们的情节的大小</item>
+    </string-array>
+    <string-array name="thelawsAns6">
+        <item>仅限国家内容</item>
+        <item>国歌</item>
+        <item>森林保护负责人</item>
+    </string-array>
+    <string-array name="thelawsAns7">
+        <item>认真</item>
+        <item>非真</item>
+        <item>只有在一个非常大的</item>
+    </string-array>
+    <string-array name="thelawsAns8">
+        <item>穿着轻便</item>
+        <item>扔雪球</item>
+        <item>滑冰</item>
+    </string-array>
+    <string-array name="thelawsAns9">
+        <item>喂鸽子</item>
+        <item>受洗</item>
+        <item>祈祷</item>
+    </string-array>
+
+    <string-array name="thelawsRight">
+        <item>出现在粉红色的裤子</item>
+        <item>吻。 这是由既定的迹象表明。 当局担心，由于长时间的告别，所有的平台将超载</item>
+        <item>建设沙堡。 他们可以"阻碍沿岸行走的人的通过"</item>
+        <item>嚼口香糖。 在这个国家，他们认为口香糖会破坏健康并污染环境</item>
+        <item>腰围尺寸。 这就是日本如何对抗肥胖和相关疾病。 在2015中，那些"不符合指标"的公司被罚款</item>
+        <item>仅限国家内容</item>
+        <item>认真</item>
+        <item>扔雪球。 五年前，比利时在立法层面上决定雪球和岩石是一回事。 如果你重视你的€100，找到更有趣的事情</item>
+        <item>喂鸽子。 这是由于这样的事实，鸽子破坏历史建筑和古迹。 而且这些看似无害的鸟类也是危险疾病的携带者</item>
+    </string-array>
+
+
+
+    <string-array name="skyQ">
+        <item>想象一个晴朗的蓝天没有一个单一的云。 只是想着它应该改善你的心情一点点。 现在投你的头脑的眼睛周围的景观。 下面列出的哪些图片看起来最舒缓和放松你？</item>
+    </string-array>
+
+    <string-array name="skyAns">
+        <item>白雪复盖的平原</item>
+        <item>碧海无垠</item>
+        <item>青山</item>
+        <item>长满黄色花朵的田野</item>
+    </string-array>
+
+    <string-array name="victimQ">
+        <item>你认为你脾气不好，不能容忍吗？</item>
+        <item>你认为你有义务执行社会角色强加的一些任务（例如，清洁或烹饪），否则你不会满足它？</item>
+        <item>你比较你的成就与别人对你不利吗？</item>
+        <item>你认为你是不断倒霉，和其他人，相反，是幸运的？</item>
+        <item>你为周围的人做的比为自己做的更多吗？</item>
+        <item>你很难拒绝另一个人的东西，你不想做，他坚持？</item>
+        <item>你确定没有其他人的帮助，你根本不会在生活中取得任何成就吗？</item>
+        <item>你倾向于低估你的技能和能力吗？ 你觉得很难评估自己的工作结果（你可能会觉得你总是被低估）？</item>
+        <item>你觉得你没有足够的机会来实现你的目标（人才，人脉，资金等）？</item>
+        <item>你确定一个人不能被爱就这样，但只为他的成就？
+        </item>
+    </string-array>
+
+    <string-array name="victimAns">
+        <item>是</item>
+        <item>无</item>
+        <item>有时</item>
+    </string-array>
+
+    <string-array name="wildQ">
+        <item>主要的是水
+            最简单的滤水器</item>
+        <item>你被蛇咬伤了。 你真的需要吸出毒药吗？</item>
+        <item>如果蜘蛛咬你，你应该怎么做？</item>
+        <item>你被一个野生部落攻击。 你腿上有箭，怎么办？</item>
+        <item>我可以吃生鱼吗？</item>
+        <item>来自泉水的水是干净的，你可以喝它</item>
+        <item>如果没有水源，你需要自己喝尿</item>
+        <item>您可以将podorzhnik应用于伤口</item>
+        <item>是否有可能在没有帮助的情况下走出流沙？</item>
+        <item>苔藓生长在树的北侧</item>
+        <item>最后:
+为了保持温暖，你需要喝酒</item>
+    </string-array>
+
+    <string-array name="wildAns1">
+        <item>瓶子，沙子</item>
+        <item>银行，煤炭</item>
+        <item>石头，瓶子/罐子</item>
+    </string-array>
+    <string-array name="wildAns2">
+        <item>神话</item>
+        <item>true</item>
+    </string-array>
+    <string-array name="wildAns3">
+        <item>写遗嘱，叫救护车</item>
+        <item>吸吧！</item>
+    </string-array>
+    <string-array name="wildAns4">
+        <item>请勿触摸</item>
+        <item>小心地打破并拉出</item>
+        <item>推得更深</item>
+    </string-array>
+    <string-array name="wildAns5">
+        <item>可能，但罕见</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="wildAns6">
+        <item>非真</item>
+        <item>true</item>
+        <item>比海更好</item>
+    </string-array>
+    <string-array name="wildAns7">
+        <item>只有当你喜欢它</item>
+        <item>不应该是</item>
+        <item>这有助于</item>
+    </string-array>
+    <string-array name="wildAns8">
+        <item>无</item>
+        <item>是的，我从小就知道</item>
+    </string-array>
+    <string-array name="wildAns9">
+        <item>以任何方式没有帮助</item>
+        <item>你可以，这不难</item>
+    </string-array>
+    <string-array name="wildAns10">
+        <item>无</item>
+        <item>正确</item>
+        <item>在南部</item>
+    </string-array>
+    <string-array name="wildAns11">
+        <item>这将执行相反的操作</item>
+        <item>酒精温暖你！</item>
+    </string-array>
+
+    <string-array name="wildRight">
+        <item>瓶子，沙子</item>
+        <item>True</item>
+        <item>写一份遗嘱，叫救护车。 与蛇相比，蜘蛛的叮咬在皮肤上留下了一个小洞，所以吸出来是没用的。 此外，蜘蛛毒液穿透更深更快</item>
+        <item>不要触摸。 想象一个装满水的气球。 用铅笔刺穿它。 如果你拔出铅笔会发生什么？ 这与一个人</item>相同
+        <item>无</item>
+        <item>不正确。 几乎没有干净的弹簧。 平庸的例子：任何动物都可能在这个春天</item>
+        <item>不应使用。 它不会解渴。 只有当为了味道的缘故，但它可以击中肾脏和肠道</item>
+        <item>没有。 毕竟，车前草不是无菌的。 你可以感染任何</item>
+        <item>你可以，这不难</item>
+        <item>没有。 苔藓生长无处不在，它不依赖于光线的方向</item>
+        <item>它会伤害相反的</item>
+    </string-array>
+
+
+
+    <string-array name="wordsQ">
+        <item>熵</item>
+        <item>Viafilia</item>
+        <item>Nasogrot</item>
+        <item>Collerette</item>
+        <item>Kamyektor</item>
+        <item>Verminophobia</item>
+        <item>Kervatization</item>
+        <item>Bibabo</item>
+    </string-array>
+
+    <string-array name="wordsAns1">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns2">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns3">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns4">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns5">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns6">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns7">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+    <string-array name="wordsAns8">
+        <item>真实</item>
+        <item>虚构</item>
+    </string-array>
+
+    <string-array name="wordsRight">
+        <item>实。 广泛用于自然科学和精确科学，一个术语表示不可逆的能量耗散或能量无用的度量</item>
+        <item>实。 收集纪念品</item>
+        <item>虚构</item>
+        <item>实。 贴在瓶子颈部附近的标签</item>
+        <item>虚构</item>
+        <item>实。 这是与微生物，细菌，微生物和病毒，蠕虫，昆虫相关的任何疾病感染的恐惧</item>
+        <item>虚构</item>
+        <item>实。 最简单的娃娃由一个头部和一件手套形式的衣服组成</item>
+    </string-array>
+
+
+    <string-array name="zolQ">
+        <item>在众多的童话故事中，灰姑娘的故事是最受欢迎的。 在这个古老的童话故事中，哪些场景最吸引你？</item>
+    </string-array>
+
+    <string-array name="zolAns">
+        <item>继母和姐妹对灰姑娘的虐待</item>
+        <item>灰姑娘变成公主</item>
+        <item>灰姑娘从宫殿逃脱时失去了她的拖鞋</item>
+        <item>王子穿上灰姑娘的拖鞋</item>
+    </string-array>
+
+    <string-array name="zombieQ">
+<item>没有它没办法:
+你身材好吗？</item>
+        <item>你总是系安全带吗？</item>
+        <item>你在厕所里小心吗？</item>
+        <item>老，弱-这是一个额外的负担吗？</item>
+        <item>您是否会遵守法律法规？</item>
+        <item>当你感到危险时，你会热身吗？</item>
+        <item>你有很多东西吗？</item>
+        <item>你一直在等什么？</item>
+    </string-array>
+
+    <string-array name="zombieAns1">
+        <item>自然</item>
+        <item>无</item>
+        <item>完全没有</item>
+    </string-array>
+    <string-array name="zombieAns2">
+        <item>最常</item>
+        <item>始终</item>
+    </string-array>
+    <string-array name="zombieAns3">
+        <item>是</item>
+        <item>无</item>
+    </string-array>
+    <string-array name="zombieAns4">
+        <item>不绑定</item>
+        <item>需要帮助</item>
+    </string-array>
+    <string-array name="zombieAns5">
+        <item>当然</item>
+        <item>不，这是天启！</item>
+    </string-array>
+    <string-array name="zombieAns6">
+        <item>是</item>
+        <item>无</item>
+        <item>为什么？</item>
+    </string-array>
+    <string-array name="zombieAns7">
+        <item>足够</item>
+        <item>我站在容易的一边</item>
+    </string-array>
+    <string-array name="zombieAns8">
+        <item>奇迹</item>
+        <item>麻烦</item>
+    </string-array>
+
+
+
+</resources>

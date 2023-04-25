@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="122dp"
+        android:height="10dp"
+        android:left="-145dp"
+        android:top="49dp">
+        <rotate
+            android:fromDegrees="180"
+            android:pivotX="80%">
+            <shape android:shape="rectangle">
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#00000000"
+                    android:centerX="0.4"
+                    android:endColor="#737373"
+                    android:startColor="#00000000" />
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:width="148dp"
+        android:height="6dp"
+        android:left="-70dp"
+        android:top="51dp">
+        <rotate
+            android:fromDegrees="152"
+            android:pivotX="80%">
+            <shape android:shape="rectangle">
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#00000000"
+                    android:centerX="0.3"
+                    android:endColor="#737373"
+                    android:startColor="#00000000" />
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:width="45dp"
+        android:height="49dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#E8EAF6"/>
+        </shape>
+    </item>
+    <item
+        android:width="145dp"
+        android:height="7dp"
+        android:left="-85dp"
+        android:top="46dp">
+        <rotate
+            android:fromDegrees="0"
+            android:pivotX="0%">
+            <shape android:shape="ring">
+                <solid android:color="#E8EAF6"/>
+            </shape>
+        </rotate>
+    </item>
+
+    <item
+        android:left="50dp"
+        android:width="25dp"
+        android:height="35dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#E8EAF6"/>
+        </shape>
+    </item>
+    <item
+        android:width="37dp"
+        android:height="6dp"
+        android:left="48dp"
+        android:top="27dp">
+        <rotate
+            android:fromDegrees="90"
+            android:pivotX="80%">
+            <shape android:shape="rectangle">
+                <gradient
+                    android:angle="270"
+                    android:centerColor="#00000000"
+                    android:centerX="0.4"
+                    android:endColor="#737373"
+                    android:startColor="#00000000" />
+            </shape>
+        </rotate>
+    </item>
+    <item
+        android:left="40dp"
+        android:width="25dp"
+        android:height="42dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#E8EAF6"/>
+        </shape>
+    </item>
+    <item
+        android:top="35dp"
+        android:left="40dp"
+        android:width="15dp"
+        android:height="10dp">
+        <shape android:shape="rectangle">
+            <solid android:color="#E8EAF6"/>
+        </shape>
+    </item>
+</layer-list>

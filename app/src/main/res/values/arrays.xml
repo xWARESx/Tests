@@ -1,0 +1,2555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="actorQ">
+        <item>Часто ли Вы смотрите кино?</item>
+        <item>Считаете ли Вы, что разбираетесь в нем?</item>
+        <item>В детстве Вам удавалось врать родителям так, чтобы они верили? </item>
+        <item>Чтобы выйти из сложной ситуации Вы разыгрываете сценку? </item>
+        <item> Вы когда-нибудь участвовали в сценках в школе и т.д?</item>
+        <item> Вам нравится менять свои образ, одежду, стиль?</item>
+        <item> Часто ли Вы строите гримасы и примеряете свой образ перед зеркалом?</item>
+        <item> Вам важно мнение людей?</item>
+        <item> И последний вопрос: Вы готовы на все ради того, чтобы вжиться в роль?</item>
+    </string-array>
+
+
+    <string-array name="aAns1">
+        <item>часто</item>
+        <item>редко</item>
+    </string-array>
+    <string-array name="aAns2">
+        <item>не считаю</item>
+        <item>разбираюсь</item>
+    </string-array>
+    <string-array name="aAns3">
+        <item>о да, постоянно</item>
+        <item>нет</item>
+    </string-array>
+    <string-array name="aAns4">
+        <item>нет</item>
+        <item>да</item>
+    </string-array>
+    <string-array name="aAns5">
+        <item>ничего интересного</item>
+        <item>бывало</item>
+    </string-array>
+    <string-array name="aAns6">
+        <item>я уже нашел свою одежду</item>
+        <item>нравится</item>
+    </string-array>
+    <string-array name="aAns7">
+        <item>часто</item>
+        <item>редко</item>
+    </string-array>
+    <string-array name="aAns8">
+        <item>абсолютно нет</item>
+        <item>важно</item>
+    </string-array>
+    <string-array name="aAns9">
+        <item>нет</item>
+        <item>на все</item>
+    </string-array>
+
+    <string-array name="actorRight">
+        <item>чтобы бы быть хорошим актером, в основном, нужно смотреть фильмы</item>
+        <item>чтобы правильно сыграть нужно понимать в каком кино вы играете</item>
+        <item>если удавалось, то это верный признак хорошего актерского мастертсва </item>
+        <item>это еще один верный признак </item>
+        <item> опыт участия может вам помочь</item>
+        <item> актерам часто приходится это делать</item>
+        <item> мимика - важная часть актерской игры</item>
+        <item> чтобы играть хорошо нужно не боятся мнений людей</item>
+        <item> некоторые актеры меняют даже свой физический облик</item>
+    </string-array>
+
+    <string-array name="animalsQ">
+        <item>Что делают выдры, когда сталкиваются с опасностью, чтобы вызвать у нападающего сострадание?</item>
+        <item>Кто сажает тысячи деревьев каждый год, потому что не помнит точное место, где закопал желуди?</item>
+        <item>Какие животные дают друг другу имена и используют их, когда нужно позвать сородича? </item>
+        <item>Какое животное остается с одним партнером на всю жизнь?</item>
+        <item>Устрицы могут менять свой пол?</item>
+        <item>Кто делает предложение своему партнеру с помощью камушка?</item>
+        <item>Летучие мыши-вампиры умеют бегать. А с какой скоростью?</item>
+        <item>Ленивец предпочитает без дела на землю не спускаться, но раз в две недели он все-таки вальяжно сползает по стволу. Зачем?</item>
+        <item>Как приветствуют друг друга белые медведи?</item>
+        <item>Какое насекомое никогда не спит?</item>
+    </string-array>
+
+    <string-array name="anAns1">
+        <item>показывают детеныша</item>
+        <item>притворяются больными</item>
+        <item>падают</item>
+    </string-array>
+    <string-array name="anAns2">
+        <item>сурок</item>
+        <item>белка</item>
+        <item>дикобраз</item>
+    </string-array>
+    <string-array name="anAns3">
+        <item>косатки</item>
+        <item>дельфины</item>
+        <item>львы</item>
+    </string-array>
+    <string-array name="anAns4">
+        <item>тупик</item>
+        <item>удод</item>
+        <item>глупик</item>
+    </string-array>
+    <string-array name="anAns5">
+    <item>никто не может</item>
+    <item>могут</item>
+    </string-array>
+    <string-array name="anAns6">
+        <item>пингвин</item>
+        <item>белка</item>
+        <item>фламинго</item>
+    </string-array>
+    <string-array name="anAns7">
+        <item>15 км/ч</item>
+        <item>7 км/ч</item>
+        <item>3 км/ч</item>
+    </string-array>
+    <string-array name="anAns8">
+        <item>покакать</item>
+        <item>за провизией</item>
+        <item>спариваться</item>
+    </string-array>
+    <string-array name="anAns9">
+        <item>бьются лапами</item>
+        <item>соприкасаются носами</item>
+        <item>никак</item>
+    </string-array>
+    <string-array name="anAns10">
+    <item>муравей</item>
+    <item>комар</item>
+    </string-array>
+
+    <string-array name="animalsRight">
+        <item>показывают детеныша</item>
+        <item>белка</item>
+        <item>дельфины </item>
+        <item>тупик</item>
+        <item>могут</item>
+        <item>пингвин</item>
+        <item>7 км/ч</item>
+        <item>покакать</item>
+        <item>соприкасаются носами?</item>
+        <item>муравей</item>
+    </string-array>
+
+    <string-array name="an2Ans1">
+        <item>прямоугольный</item>
+        <item>квадратный</item>
+        <item>треугольный</item>
+    </string-array>
+
+    <string-array name="animals2Q">
+        <item>Какой у осьминога зрачок?</item>
+        <item>У какого животного самое большое сердце из всех наземных животных?</item>
+        <item>Единственное домашнее животное, не упоминаемое в Библии </item>
+        <item>Зебра — белая с черными полосами или наоборот?</item>
+        <item>На передних лапах тигра по пять пальцев, а на задних?</item>
+        <item>Какое животное спит с одним открытым глазом?</item>
+        <item>Около 70 процентов живых существ Земли - это</item>
+        <item>Муравьеды предпочитают питаться…</item>
+        <item>У какого животного иммунитет к раку?</item>
+        <item>Напоследок: сколько длится оргазм у свиньи?</item>
+    </string-array>
+
+    <string-array name="an2Ans2">
+        <item>слон</item>
+        <item>жираф</item>
+        <item>тигр</item>
+    </string-array>
+    <string-array name="an2Ans3">
+        <item>кошка</item>
+        <item>собака</item>
+    </string-array>
+    <string-array name="an2Ans4">
+        <item>черная с белыми</item>
+        <item>белая с черными</item>
+    </string-array>
+    <string-array name="an2Ans5">
+        <item>по четыре</item>
+        <item>по пять</item>
+        <item>по три</item>
+    </string-array>
+    <string-array name="an2Ans6">
+        <item>дельфин</item>
+        <item>лев</item>
+        <item>кит</item>
+    </string-array>
+    <string-array name="an2Ans7">
+        <item>млекопитающие</item>
+        <item>бактерии</item>
+        <item>беспозвоночные</item>
+    </string-array>
+    <string-array name="an2Ans8">
+        <item>термитами</item>
+        <item>муравьями</item>
+        <item>голубями</item>
+    </string-array>
+    <string-array name="an2Ans9">
+        <item>у рыбы</item>
+        <item>у акулы</item>
+        <item>у жирафа</item>
+    </string-array>
+    <string-array name="an2Ans10">
+        <item>30 минут</item>
+        <item>как у человека</item>
+    </string-array>
+
+    <string-array name="animals2Right">
+        <item>прямоугольный. Такой зрачок обеспечивает ему также панорамное зрение. Это дает возможность осьминогу не только избежать опасности, но и четко увидеть потенциальную жертву</item>
+        <item>жираф. Оно весит 12кг</item>
+        <item>кошка</item>
+        <item>белая с черными</item>
+        <item>по четыре</item>
+        <item>дельфин. Когда дельфины спят, у них работает одно из полушарий. Это нужно для того, чтобы выныривать на поверхность за кислородом, не просыпаясь при этом</item>
+        <item>бактерии. Да, их так много</item>
+        <item>термитами. Да он есть муравьев, отсюда и название, но, как выяснилось, предпочитает термитов</item>
+        <item>у акулы</item>
+        <item>30 минут</item>
+    </string-array>
+
+
+    <string-array name="batQ">
+    <item>Представьте: вы заблудились в глубокой пещере, блуждаете по огромной сети извилистых проходов и пытаетесь найти выход. И тут неожиданно одна летучая мышь взлетает вверх и шепчет вам что-то на ухо… Какую из следующих фраз она произносит?</item>
+    </string-array>
+
+    <string-array name="batAns">
+        <item>я знаю, где выход</item>
+        <item>давай я помогу тебе и покажу дорогу отсюда</item>
+        <item>продолжай искать!</item>
+        <item>ты никогда не выберешься отсюда</item>
+    </string-array>
+
+    <string-array name="bigQ">
+        <item>Какой самолет считается самым большим в мире?</item>
+        <item>В какой стране находится самый большой бассейн в мире, расположенный в курортном комплексе San Alfonso Del Mar Resort?</item>
+        <item>В какой стране находится самое большое здание - глобальный центр \"Новый век\"?</item>
+        <item>А где находится самое высокое в мире здание?</item>
+        <item>Как вы думате, какой, примерно, рост был у самого высокого человека за всю историю?</item>
+        <item>Какая самая высоко расположенная страна?</item>
+        <item>Самая высока гора?</item>
+    </string-array>
+
+    <string-array name="bigAns1">
+        <item>украинский</item>
+        <item>французский</item>
+        <item>английский</item>
+    </string-array>
+    <string-array name="bigAns2">
+        <item>В Бразилии</item>
+        <item>В Чили</item>
+        <item>В Мексике</item>
+    </string-array>
+    <string-array name="bigAns3">
+        <item>В Китае</item>
+        <item>В Америке</item>
+        <item>В России</item>
+    </string-array>
+    <string-array name="bigAns4">
+        <item>В Дубае</item>
+        <item>В Дублине</item>
+        <item>В Мумбаи</item>
+    </string-array>
+    <string-array name="bigAns5">
+        <item>255см</item>
+        <item>285см</item>
+        <item>305см</item>
+    </string-array>
+    <string-array name="bigAns6">
+        <item>Катманду</item>
+        <item>Непал</item>
+        <item>Канпур</item>
+    </string-array>
+    <string-array name="bigAns7">
+        <item>Джомолунгма</item>
+        <item>Джомолунга</item>
+    </string-array>
+
+    <string-array name="bigRight">
+        <item>украинский. Ан-225 «Мрия»</item>
+        <item>В Чили. Бассейн имеет в длину 1013 м, занимает площадь в 8 га, и заполнен 250 миллионами л морской воды. Бассейн имеет глубину около 3 м</item>
+        <item>В Китае. 1,76 миллиона квадратных метров (втрое больше Пентагона и в 20 раз больше Сиднейского оперного театра). Длина здания — 500 метров, ширина — 400 метров, высота — 100 метров</item>
+        <item>В Дубае. 828 м</item>
+        <item>285см</item>
+        <item>Непал. Более 40 % территории Непала расположено на высоте более 3000 м</item>
+        <item>Джомолунгма. 8848 м</item>
+    </string-array>
+
+    <string-array name="birdQ">
+        <item>Однажды синяя птица неожиданно влетает в окно вашей комнаты и попадает в ловушку. Что-то в этой заблудившейся птице привлекает вас, и вы решаете оставить ее у себя. Но, к вашему удивлению, на следующий день птица меняет цвет с синего на желтый! Эта очень необычная птица меняет цвет каждую ночь — на утро третьего дня она ярко-красная, на четвертый день она становится совершенно черной. Какого цвета птица, когда Вы просыпаетесь на пятый день?</item>
+    </string-array>
+
+    <string-array name="birdAns">
+        <item>птица не меняет цвет, она остается черной</item>
+        <item>птица возвращается к своему изначальному синему цвету</item>
+        <item>птица становится белой</item>
+        <item>птица становится золотой</item>
+    </string-array>
+
+    <string-array name="namesBrain">
+        <item>Что Вы знаете о космосе</item>
+        <item>Шаришь за сленг?</item>
+        <item>Русская литература</item>
+        <item>Русский язык</item>
+        <item>Выжить в дикой природе</item>
+        <item>Математика</item>
+        <item>Физика</item>
+        <item>Эволюция человека</item>
+        <item>Организм человека</item>
+        <item>Мифы. Часть 1</item>
+        <item>Мифы. Часть 2</item>
+        <item>Греческие боги</item>
+        <item>Как у Вас с английским?</item>
+        <item>Случайные открытия</item>
+        <item>Так ли хорошо Вы знаете кошек?</item>
+        <item>Детские вопросы</item>
+    </string-array>
+
+    <string-array name="namesBrain2">
+        <item>16 вопросов</item>
+        <item>13 вопросов</item>
+        <item>17 вопросов</item>
+        <item>13 вопросов</item>
+        <item>11 вопросов</item>
+        <item>7 вопросов</item>
+        <item>8 вопросов</item>
+        <item>6 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>11 вопросов</item>
+        <item>10 вопросов</item>
+        <item>7 вопросов</item>
+        <item>8 вопросов</item>
+        <item>9 вопросов</item>
+    </string-array>
+
+    <string-array name="namesBrainforex">
+        <item>Что Вы знаете о космосе</item>
+        <item>Русская литература</item>
+        <item>Выжить в дикой природе</item>
+        <item>Математика</item>
+        <item>Физика</item>
+        <item>Эволюция человека</item>
+        <item>Организм человека</item>
+        <item>Мифы. Часть 1</item>
+        <item>Мифы. Часть 2</item>
+        <item>Греческие боги</item>
+        <item>Как у Вас с английским?</item>
+        <item>Случайные открытия</item>
+        <item>Так ли хорошо Вы знаете кошек?</item>
+        <item>Детские вопросы</item>
+    </string-array>
+
+    <string-array name="namesBrain2forex">
+        <item>16 вопросов</item>
+        <item>17 вопросов</item>
+        <item>11 вопросов</item>
+        <item>7 вопросов</item>
+        <item>8 вопросов</item>
+        <item>6 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>11 вопросов</item>
+        <item>10 вопросов</item>
+        <item>7 вопросов</item>
+        <item>8 вопросов</item>
+        <item>9 вопросов</item>
+    </string-array>
+
+    <string-array name="cats2Q">
+        <item>Кошек можно любить или ненавидеть, но эти животные так давно обитают рядом с человеком! В отличие от собак, они не носят хозяину газет, не подают лапу, но, несмотря на все эти «грехи», их надменное равнодушие и полная непроницаемость гарантируют им надежное место в мире людей. Каждый человек воспринимает кошек по-своему. Какая из приведенных ниже фраз больше соответствует вашим представлениям об этих животных?</item>
+    </string-array>
+
+    <string-array name="cats2Ans">
+        <item>они обожают погреться на солнышке</item>
+        <item>это загадочные и таинственные животные</item>
+        <item>их так приятно гладить</item>
+        <item>это некомпанейские существа</item>
+    </string-array>
+
+    <string-array name="catsQ">
+        <item>Часто Вы хотите угостить кошечку чем-нибудь сладеньким? А кошки вообще чувствуют сладкий вкус?</item>
+        <item>Зачем кошки трутся об людей?</item>
+        <item>У кого более низкий социальный IQ?</item>
+        <item>Так все-таки, котов можно кормить сырой рыбой?</item>
+        <item>Сколько процентов от своей жизни спят кошки?</item>
+        <item>Что у кошек так же уникально, как отпечатки пальцев у людей?</item>
+        <item>Через что потеют кошки?</item>
+        <item>Зачем кошки вылизывают себя?</item>
+    </string-array>
+
+    <string-array name="catsAns1">
+        <item>не чувствуют</item>
+        <item>чувствуют</item>
+    </string-array>
+    <string-array name="catsAns2">
+        <item>помечают как свою территорию</item>
+        <item>показывают доверие</item>
+    </string-array>
+    <string-array name="catsAns3">
+        <item>у собаки</item>
+        <item>у кошки</item>
+    </string-array>
+    <string-array name="catsAns4">
+        <item>лучше не надо</item>
+        <item>для кошек это хорошо</item>
+        <item>я что, жарить должен?!</item>
+    </string-array>
+    <string-array name="catsAns5">
+        <item>50%</item>
+        <item>70%</item>
+        <item>80%</item>
+    </string-array>
+    <string-array name="catsAns6">
+        <item>отпечатки</item>
+        <item>поверхность носа</item>
+        <item>уши</item>
+    </string-array>
+    <string-array name="catsAns7">
+        <item>через подушечки лап</item>
+        <item>через все тело</item>
+        <item>поверхность носа</item>
+    </string-array>
+    <string-array name="catsAns8">
+        <item>чтобы пригладить волосы</item>
+        <item>чтобы перестать пахнуть человеком</item>
+    </string-array>
+
+
+    <string-array name="catsRight">
+        <item>не чувствуют</item>
+        <item>помечают как свою территорию</item>
+        <item>у кошки</item>
+        <item>лучше не надо</item>
+        <item>70%</item>
+        <item>поверхность носа</item>
+        <item>через подушечки лап</item>
+        <item>чтобы перестать пахнуть человеком</item>
+    </string-array>
+
+    <string-array name="classicQ">
+        <item>\"Отцы и дети\" написал…</item>
+        <item>А.С.Пушкин написал поэму \"Медный всадник\". Какому русскому монарху посвящен этот памятник?</item>
+        <item>Как звали кота в произведении М.А.Булгакова \"Мастер и Маргарита\"?</item>
+        <item>Кем по профессии был А.П.Чехов?</item>
+        <item>Кого подковал главный герой повести Н.С.Лескова \"Левша\"?</item>
+        <item>Из какой известной пьесы взято выражение: \"А судьи кто?\"</item>
+        <item>Что из этого не писал А.П.Чехов?</item>
+        <item>Как звали главного героя поэмы Н.В.Гоголя \"Мертвые души\"?</item>
+        <item>Персонажа какого известного произведения звали Родионом Раскольниковым?</item>
+        <item>А сколько убийств совершил Раскольников?</item>
+        <item>Как звали Болконского в романе Л. Н. Толстого \"Война и мир\"?</item>
+        <item>В каком городе происходит действие пьесы \"Гроза\"?</item>
+        <item>В чем основной посыл рассказа \"Господин из Сан-Франциско\"?</item>
+        <item>Маяковский принадлежал к такому течению как…</item>
+        <item>Максим Горький написал известную пьесу, название которой…</item>
+        <item>\"Красота спасет мир\". Кому принадлежит эта фраза?</item>
+        <item>\"Не выходи из команты\". Кому принадлежит это стихотворение?</item>
+    </string-array>
+
+    <string-array name="classicAns1">
+        <item>И.С.Тургенев</item>
+        <item>Л.Н.Толстой</item>
+        <item>А.П.Чехов</item>
+    </string-array>
+    <string-array name="classicAns2">
+        <item>Александр Невский</item>
+        <item>Петр Первый</item>
+        <item>Александр Второй</item>
+    </string-array>
+    <string-array name="classicAns3">
+        <item>Котик</item>
+        <item>Бегемот</item>
+        <item>Бомонт</item>
+    </string-array>
+    <string-array name="classicAns4">
+        <item>врач</item>
+        <item>учитель</item>
+        <item>юрист</item>
+    </string-array>
+    <string-array name="classicAns5">
+        <item>блоху</item>
+        <item>муху</item>
+    </string-array>
+    <string-array name="classicAns6">
+        <item>Гроза</item>
+        <item>Горе от ума</item>
+        <item>Вишневый сад</item>
+    </string-array>
+    <string-array name="classicAns7">
+        <item>Человек в очках</item>
+        <item>Палата №6</item>
+        <item>Шуточка</item>
+    </string-array>
+    <string-array name="classicAns8">
+        <item>Чатский</item>
+        <item>Чичиков</item>
+        <item>Печорин</item>
+    </string-array>
+    <string-array name="classicAns9">
+        <item>Преступление и наказание</item>
+        <item>Война и Мир</item>
+        <item>Мертвые души</item>
+    </string-array>
+    <string-array name="classicAns10">
+        <item>только старуху процентщицу</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="classicAns11">
+        <item>Андрей</item>
+        <item>Сергей</item>
+        <item>Григорий</item>
+    </string-array>
+    <string-array name="classicAns12">
+        <item>Малинов</item>
+        <item>Калинов</item>
+        <item>Москва</item>
+    </string-array>
+    <string-array name="classicAns13">
+        <item>все обесценивается перед лицом смерти</item>
+        <item>жить нужно здесь и сейчас</item>
+    </string-array>
+    <string-array name="classicAns14">
+        <item>классицизм</item>
+        <item>футуризм</item>
+    </string-array>
+    <string-array name="classicAns15">
+        <item>На дне</item>
+        <item>На волоске</item>
+        <item>На игле</item>
+    </string-array>
+    <string-array name="classicAns16">
+        <item>Ф.М.Достоевский</item>
+        <item>Л.Н.Толстой</item>
+        <item>Н.А.Некрасов</item>
+    </string-array>
+    <string-array name="classicAns17">
+        <item>С.Есенину</item>
+        <item>И.А.Бродскому</item>
+    </string-array>
+
+    <string-array name="classicRight">
+        <item>И.С.Тургенев</item>
+        <item>Петр Первый. Писатель открывает другую сторону императора в поэме “Медный всадник”. В ней население Петербурга сталкивается с бедой: наводнением. Казалось бы, единственный виновник – это природа. Но Петр I когда-то решил ее укротить. И она вырвалась, подобно зверю, сидевшему в клетке. В результате пострадали ни в чем не виновные люди. Знал ли Петр, что так случится? Вероятно, да. Но император считал, что он, как называет его Пушкин, “властелин судьбы”</item>
+        <item>Бегемот</item>
+        <item>врач</item>
+        <item>блоху</item>
+        <item>Горе от ума. Эту фразу произносит Чатский</item>
+        <item>Человек в очках. У него другое произведение: \"Человек в футляре\"</item>
+        <item>Чичиков</item>
+        <item>Преступление и наказание. Написал Ф.М.Достоевский</item>
+        <item>2. Жертвами Раскольникова становятся старуха-процентщица Алена Ивановна и ее сестра Лизавета</item>
+        <item>Андрей</item>
+        <item>Калинов. Вымышленный город</item>
+        <item>все обесценивается перед лицом смерти</item>
+        <item>футуризм</item>
+        <item>На дне</item>
+        <item>Ф.М.Достоевский</item>
+        <item>И.А.Бродскому</item>
+    </string-array>
+
+    <string-array name="confQ">
+        <item>Какое вы предпочитаете рукопожатие?</item>
+        <item>Ваш знак зодиака?</item>
+        <item>Какая у вас кожа?</item>
+        <item>В парке на лавочке сидит женщина, погруженная в свои мысли. Вам кажется, что…</item>
+        <item>Что для вас характерно?</item>
+        <item>Какая фигура вам больше нравится?</item>
+        <item>Каким видом спорта вы занимались бы охотнее всего?</item>
+    </string-array>
+
+    <string-array name="confAns1">
+        <item>короткое, но крепкое</item>
+        <item>продолжительное и интенсивное</item>
+        <item>легкое прикосновение</item>
+    </string-array>
+    <string-array name="confAns2">
+        <item>Лев, Овен, Козерог, Телец</item>
+        <item>Близнецы, Скорпион, Водолей, Стрелец</item>
+        <item>Рыбы, Рак, Дева, Весы</item>
+    </string-array>
+    <string-array name="confAns3">
+        <item>нормальная, не требующая специального ухода</item>
+        <item>нечувствительная</item>
+        <item>сухая и чувствительная</item>
+    </string-array>
+    <string-array name="confAns4">
+        <item>она охотно пребывает в одиночестве</item>
+        <item>она хочет, чтобы ее пожалели</item>
+        <item>у нее какие-то проблемы</item>
+    </string-array>
+    <string-array name="confAns5">
+        <item>быстро забывать неприятности и огорчения</item>
+        <item>думать не только о себе</item>
+        <item>если кого-то обманываю, испытываю муки совести</item>
+    </string-array>
+    <string-array name="confAns6">
+        <item>треугольник</item>
+        <item>ромб</item>
+        <item>круг</item>
+    </string-array>
+    <string-array name="confAns7">
+        <item>парашютный спорт</item>
+        <item>прыжки в воду</item>
+        <item>альпинизм</item>
+    </string-array>
+
+    <string-array name="controlQ">
+        <item>Мне кажется трудным подражать другим людям</item>
+        <item>Я бы, пожалуй, мог при случае свалять дурака, чтобы привлечь внимание или позабавить окружающих</item>
+        <item>Из меня мог бы выйти неплохой актер</item>
+        <item>Другим людям иногда кажется, что я  переживаю, что-то более глубокое, чем есть на самом деле</item>
+        <item>В компании я редко оказываюсь в центре внимания</item>
+        <item>В различных ситуациях и в общении с разными людьми я часто веду себя совершенно по-разному</item>
+        <item>Я могу отстаивать только то, в чем я искренне убежден</item>
+        <item>Чтобы преуспеть в делах и в отношениях с людьми, я стараюсь быть таким, каким меня ожидают увидеть</item>
+        <item>Я могу быть дружелюбным с людьми, которых я не выношу</item>
+        <item>Я всегда такой, каким кажусь</item>
+    </string-array>
+
+    <string-array name="controlAns">
+        <item>да</item>
+        <item>нет</item>
+    </string-array>
+
+    <string-array name="countryQ">
+        <item>Вас больше привлекает зима или лето?</item>
+        <item>Как у вас с английским?</item>
+        <item>В Вашем доме вид должен открываться на…</item>
+        <item>А какую еду предпочитаете?</item>
+        <item>А работать кем хотите?</item>
+        <item>Какие люди Вас больше привлекают?</item>
+        <item>Что Вам больше нравится?</item>
+    </string-array>
+
+    <string-array name="countryAns1">
+        <item>зима</item>
+        <item>лето</item>
+        <item>и то и то</item>
+    </string-array>
+    <string-array name="countryAns2">
+        <item>отлично</item>
+        <item>знаю парочку фраз</item>
+        <item>вообще никак</item>
+    </string-array>
+    <string-array name="countryAns3">
+        <item>океан/море</item>
+        <item>лес</item>
+        <item>панорама города</item>
+    </string-array>
+    <string-array name="countryAns4">
+        <item>Главное, чтобы было вкусно</item>
+        <item>рыба</item>
+        <item>экзотическое мясо(акулы и проч)</item>
+    </string-array>
+    <string-array name="countryAns5">
+        <item>программист</item>
+        <item>владелец крупной компании</item>
+        <item>главное, на едине с природой</item>
+    </string-array>
+    <string-array name="countryAns6">
+        <item>приветливые и воспитанные</item>
+        <item>законопослушные</item>
+        <item>тусовщики</item>
+    </string-array>
+    <string-array name="countryAns7">
+        <item>лес, природа</item>
+        <item>пляж, сафари</item>
+        <item>все привлекает</item>
+    </string-array>
+
+    <string-array name="courtQ">
+        <item>Если бы вы были актером и получили предложение сыграть одного из действующих в зале суда лиц, то какую роль вы бы выбрали: адвоката, прокурора, обвиняемого, свидетеля?</item>
+    </string-array>
+
+    <string-array name="courtAns">
+        <item>адвокат</item>
+        <item>прокурор</item>
+        <item>обвиняемый</item>
+        <item>свидетель</item>
+    </string-array>
+
+    <string-array name="eggQ">
+        <item>Представьте, что перед Вами яйцо. Какого оно цвета и размера, не имеет значения, главное — определить, кому оно принадлежит: черепахе, змее, динозавру или курице</item>
+    </string-array>
+
+    <string-array name="eggAns">
+        <item>змее</item>
+        <item>черепахе</item>
+        <item>динозавру</item>
+        <item>курице</item>
+    </string-array>
+
+    <string-array name="englishQ">
+        <item>Объясните человеку, что Вы впервые в этом городе</item>
+        <item>Скорее всего Вы потерятесь. Как об этом сообщить?</item>
+        <item>Около 10 минут на автобусе. Как перевести?</item>
+        <item>Уточните: это далеко отсюда?</item>
+        <item>Как сказать человеку, что Вы рады с ним познакомиться?</item>
+        <item>Спросите где ближайший отель?</item>
+        <item>Вы проголодались! Скажите об этом</item>
+        <item>Вы нашли выставку, но не знаете сколько стоит вход. Спросите это</item>
+        <item>Вам назвали цену: 131</item>
+        <item>И напоследок: как вас зовут?</item>
+    </string-array>
+
+    <string-array name="famousQ">
+        <item>Стив Джобс - это…</item>
+        <item>Основатель Tesla?</item>
+        <item>Кто записал альбом \"Дом с нормальными явлениями\"</item>
+        <item>Актер, который ни разу не пользовался услугами дублеров и выполнял все трюки сам?</item>
+        <item>Режиссер, снявший культовые фильмы \"Семь\", \"Бойцовский клуб\"?</item>
+        <item>Неуловимый глава террористической сети \"Аль-Каида\"?</item>
+        <item>Какое отчество у Михаила Ломоносова?</item>
+        <item>Автор самой известной антиутопии \"1984\" и повести \"Скотный двор\"?</item>
+        <item>В 2020 году его каналу на ютубе исполнилось 10 лет. Он занимается смешным обзором видео в интернете и иногда выводит мораль из увиденного. Также у него есть другой канал \"Moran days\"</item>
+        <item>Основатель Google?</item>
+    </string-array>
+
+    <string-array name="famousAns1">
+        <item>основатель APPLE</item>
+        <item>основатель ANDROID</item>
+    </string-array>
+    <string-array name="famousAns2">
+        <item>Марк Цукерберк</item>
+        <item>Илон Маск</item>
+        <item>Никола Тесла</item>
+    </string-array>
+    <string-array name="famousAns3">
+        <item>скриптонит</item>
+        <item>фейс</item>
+        <item>баста</item>
+    </string-array>
+    <string-array name="famousAns4">
+        <item>Брэд Питт</item>
+        <item>Джеки Чан</item>
+        <item>Леонардо Ди Каприо</item>
+    </string-array>
+    <string-array name="famousAns5">
+        <item>Кристофер Нолан</item>
+        <item>Дэвид Финчер</item>
+        <item>Фрэнк Дарабонт</item>
+    </string-array>
+    <string-array name="famousAns6">
+        <item>Усама бен Ладен</item>
+        <item>Каддафи</item>
+        <item>Аль Маир</item>
+    </string-array>
+    <string-array name="famousAns7">
+        <item>Иванович</item>
+        <item>Васильевич</item>
+        <item>Андреевич</item>
+    </string-array>
+    <string-array name="famousAns8">
+        <item>Олдос Хаксли</item>
+        <item>Джордж Оруэлл</item>
+        <item>Михаил Замятин</item>
+    </string-array>
+    <string-array name="famousAns9">
+        <item>Макс +100500</item>
+        <item>Став Давыдов</item>
+        <item>Антон Лапенко</item>
+    </string-array>
+    <string-array name="famousAns10">
+        <item>Билл Гейтс</item>
+        <item>Ларри Пейдж</item>
+    </string-array>
+
+    <string-array name="famousRight">
+        <item>основатель APPLE</item>
+        <item>Илон Маск</item>
+        <item>Скриптонит</item>
+        <item>Джеки Чан</item>
+        <item>Дэвид Финчер</item>
+        <item>Усама бен Ладен</item>
+        <item>Васильевич</item>
+        <item>Джордж Оруэлл</item>
+        <item>Макс +100500</item>
+        <item>Ларри Пейдж</item>
+    </string-array>
+
+
+    <string-array name="GodsQ">
+        <item>Начнем с простого: Зевс - это кто?</item>
+        <item>Как зовут бога вина и развлечений? Неплохой такой бог</item>
+        <item>Богиня любви?</item>
+        <item>Арес - это бог чего?</item>
+        <item>Кто отец Зевса?</item>
+        <item>А бог воды?</item>
+        <item>Деметра - это богиня плодородия</item>
+        <item>Кто из богов защищает справедливость?</item>
+        <item>Гермес - бог чего?</item>
+        <item>Апполон - это бог света или тьмы?</item>
+        <item>Аид - раньше был богом олимпа</item>
+    </string-array>
+
+    <string-array name="godsAns1">
+        <item>бог богов</item>
+        <item>посыльный</item>
+    </string-array>
+    <string-array name="godsAns2">
+        <item>Меркурий</item>
+        <item>Дионис</item>
+        <item>Афродита</item>
+    </string-array>
+    <string-array name="godsAns3">
+        <item>Афродита</item>
+        <item>Венера</item>
+    </string-array>
+    <string-array name="godsAns4">
+        <item>боя</item>
+        <item>войны</item>
+        <item>мира</item>
+    </string-array>
+    <string-array name="godsAns5">
+        <item>Кронос</item>
+        <item>Нептун</item>
+        <item>Бронос</item>
+    </string-array>
+    <string-array name="godsAns6">
+        <item>Аквамен</item>
+        <item>Посейдон</item>
+        <item>Нептун</item>
+    </string-array>
+    <string-array name="godsAns7">
+        <item>верно</item>
+        <item>неверно</item>
+    </string-array>
+    <string-array name="godsAns8">
+        <item>Зевс</item>
+        <item>Афина</item>
+        <item>Арес</item>
+    </string-array>
+    <string-array name="godsAns9">
+        <item>торговли и удачи</item>
+        <item>веселья и счастья</item>
+        <item>бед и горя</item>
+    </string-array>
+    <string-array name="godsAns10">
+        <item>света</item>
+        <item>тьмы</item>
+    </string-array>
+    <string-array name="godsAns11">
+        <item>все верно</item>
+        <item>неверно</item>
+    </string-array>
+
+    <string-array name="GodsRight">
+        <item>бог богов</item>
+        <item>Дионис</item>
+        <item>Афродита</item>
+        <item>войны</item>
+        <item>Кронос</item>
+        <item>Посейдон</item>
+        <item>верно</item>
+        <item>Афина</item>
+        <item>торговли и удачи</item>
+        <item>света</item>
+        <item>все верно. Его изгнали</item>
+    </string-array>
+
+
+    <string-array name="erudQ">
+        <item>Самая большая планета в нашей солнечной системе?</item>
+        <item>Черные пантеры - это</item>
+        <item>Кислород составляет … атмосферы Земли</item>
+        <item>Древнегреческий бог вина и веселья</item>
+        <item>0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144. Что это?</item>
+        <item>Томас Эдиссон изобрел лампочку</item>
+        <item>Умственная нагрузка требует больших затрат энергии, чем физическая</item>
+        <item>Какое животное бессмертно?</item>
+        <item>Кто дольше всех правил Россией?</item>
+        <item>Самый первый компьютер появился в </item>
+    </string-array>
+
+    <string-array name="erudAns1">
+        <item>Сатурн</item>
+        <item>Юпитер</item>
+        <item>Нептун</item>
+    </string-array>
+    <string-array name="erudAns2">
+        <item>пантеры</item>
+        <item>черные леопарды</item>
+        <item>черные тигры</item>
+    </string-array>
+    <string-array name="erudAns3">
+        <item>примерно 20%</item>
+        <item>примерно 30%</item>
+        <item>примерно 70%</item>
+    </string-array>
+    <string-array name="erudAns4">
+        <item>Дионис</item>
+        <item>Гермес</item>
+        <item>Арес</item>
+    </string-array>
+    <string-array name="erudAns5">
+        <item>простые числа</item>
+        <item>числа Фибоначчи</item>
+        <item>беспорядочные числа</item>
+    </string-array>
+    <string-array name="erudAns6">
+        <item>ложь</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="erudAns7">
+        <item>ложь</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="erudAns8">
+        <item>медуза</item>
+        <item>тихоходка</item>
+    </string-array>
+    <string-array name="erudAns9">
+        <item>Петр Первый</item>
+        <item>Иван Грозный</item>
+        <item>Путин</item>
+    </string-array>
+    <string-array name="erudAns10">
+        <item>1946 году</item>
+        <item>1954 году</item>
+    </string-array>
+
+    <string-array name="erudRight">
+        <item>Юпитер</item>
+        <item>черные леопарды</item>
+        <item>примерно 20%</item>
+        <item>Дионис</item>
+        <item>числа Фибоначчи (золотое сечение)</item>
+        <item>ложь. Он ничего не изобретал. Он патентовал и не всегда честным путем</item>
+        <item>правда</item>
+        <item>медуза</item>
+        <item>Иван Грозный. Он правил 50 лет</item>
+        <item>1946 году</item>
+    </string-array>
+
+    <string-array name="evQ">
+        <item>1 этап: переходное звено между обезьяной и человеком</item>
+        <item>2 этап: первый полноценный представитель человеческой расы</item>
+        <item>3 этап: отличался хорошо развитым мозгом, что позволяло ему изготавливать сложные орудия и вести коллективную охоту, умело использовать огонь, быстро реагировать на меняющиеся условия среды</item>
+        <item>4 этап: мозг был развит так же хорошо, как и у современного человека</item>
+        <item>5 этап: его внешность практически не отличалась от внешнего облика современного человека</item>
+        <item>Часть биологической эволюции, которая привела к появлению человека разумного</item>
+    </string-array>
+    <string-array name="evAns1">
+        <item>австралопитек</item>
+        <item>дриопитеки</item>
+        <item>неандерталец</item>
+    </string-array>
+    <string-array name="evAns2">
+        <item>человек прямоходящий</item>
+        <item>человек умелый</item>
+    </string-array>
+    <string-array name="evAns3">
+        <item>кроманьонец</item>
+        <item>человек прямоходящий</item>
+        <item>человек умелый</item>
+    </string-array>
+    <string-array name="evAns4">
+        <item>неандерталец</item>
+        <item>архантропы</item>
+    </string-array>
+    <string-array name="evAns5">
+        <item>человек умелый</item>
+        <item>кроманьонец</item>
+    </string-array>
+    <string-array name="evAns6">
+        <item>антропогенез</item>
+        <item>абиогенез</item>
+    </string-array>
+
+    <string-array name="evRight">
+        <item>австралопитек</item>
+        <item>человек умелый</item>
+        <item>человек прямоходящий</item>
+        <item>неандерталец</item>
+        <item>кроманьонец</item>
+        <item>антропогенез. Абиогенез - это процесс превращения неживой природы в живую</item>
+    </string-array>
+
+
+    <string-array name="potterQ">
+        <item>Кто написал Гарри Поттера?</item>
+        <item>Кому никогда не принадлежала Бузинная палочка?</item>
+        <item>Сколько Даров смерти было в сказке Барда Биддля?</item>
+        <item>В каком заклинании преуспел Гилдерой Локхарт?</item>
+        <item>Какая фамилия была у матери Северуса Снейпа?</item>
+        <item>Полное имя Альбуса Дамблдора не включает в себя</item>
+        <item>От чего умерла Плакса Миртл?</item>
+        <item>На кого, помимо Гарри Поттера, указывало пророчество?</item>
+        <item>Каким заклятием Гарри сразил Драко в мужском туалете?</item>
+        <item>Сколько раз Гарри по-настоящему целовался с Гермионой?</item>
+    </string-array>
+
+    <string-array name="potterAns1">
+        <item>Д.К.Роулинг</item>
+        <item>Н.К.Роулинг</item>
+        <item>М.К.Роулинг</item>
+    </string-array>
+    <string-array name="potterAns2">
+        <item>Дамблдору</item>
+        <item>Волан-де-Морту</item>
+        <item>Драко</item>
+    </string-array>
+    <string-array name="potterAns3">
+        <item>3</item>
+        <item>4</item>
+        <item>по факту 1</item>
+    </string-array>
+    <string-array name="potterAns4">
+        <item>Алохомора</item>
+        <item>Обливейт</item>
+        <item>Экспеллиармус</item>
+    </string-array>
+    <string-array name="potterAns5">
+        <item>Принц</item>
+        <item>Лорд</item>
+        <item>Полукровка</item>
+    </string-array>
+    <string-array name="potterAns6">
+        <item>Брайан</item>
+        <item>Геллерт</item>
+        <item>Персиваль</item>
+    </string-array>
+    <string-array name="potterAns7">
+        <item>от взгляда Василиска</item>
+        <item>от укуса Арагога</item>
+        <item>утопилась</item>
+    </string-array>
+    <string-array name="potterAns8">
+        <item>Рон Уизли</item>
+        <item>Невилл Долгопупс</item>
+        <item>Сириус Блэк</item>
+    </string-array>
+    <string-array name="potterAns9">
+        <item>Экспеллиармус</item>
+        <item>Сектумсемпра</item>
+        <item>Круцио</item>
+    </string-array>
+    <string-array name="potterAns10">
+        <item>ни разу</item>
+        <item>один был</item>
+    </string-array>
+
+    <string-array name="hobbyQ">
+        <item>Считаете ли Вы, что у Вас есть чувство стиля?</item>
+        <item>От чего Вы больше получаете удовольствие?</item>
+        <item>Можете ли Вы сказать про себя, что Вы усидчивы?</item>
+        <item>Что Вас больше привлекает в человеке?</item>
+        <item>Хватает ли Вам в жизни гармонии?</item>
+        <item>Вы любите всякие упражнения для тела?</item>
+    </string-array>
+
+    <string-array name="hobbyAns1">
+        <item>есть</item>
+        <item>нет</item>
+    </string-array>
+    <string-array name="hobbyAns2">
+        <item>от результата</item>
+        <item>от процесса</item>
+    </string-array>
+    <string-array name="hobbyAns3">
+        <item>да</item>
+        <item>нет</item>
+    </string-array>
+    <string-array name="hobbyAns4">
+        <item>ум</item>
+        <item>общительность</item>
+    </string-array>
+    <string-array name="hobbyAns5">
+        <item>не хватает</item>
+        <item>хватает</item>
+    </string-array>
+    <string-array name="hobbyAns6">
+        <item>люблю</item>
+        <item>нет</item>
+    </string-array>
+
+    <string-array name="kidsQ">
+        <item>Микробы видят друг друга?</item>
+        <item>Благодаря чему самолет висит в воздухе?</item>
+        <item>Почему Земля круглая?</item>
+        <item>Почему нет корма для кошек со вкусом мышей?</item>
+        <item>Почему у кошки светятся глаза в темноте?</item>
+        <item>Почему кровь красная, а вены синие?</item>
+        <item>Почему бабочки летят на свет?</item>
+        <item>Почему не все фламинго розовые?</item>
+        <item>И главный вопрос:
+Что появилось первым: курица или яйцо?</item>
+    </string-array>
+
+    <string-array name="kidsAns1">
+        <item>видят</item>
+        <item>не видят</item>
+    </string-array>
+    <string-array name="kidsAns2">
+        <item>подъемной силе</item>
+        <item>двигателю</item>
+        <item>силе тяжести</item>
+    </string-array>
+    <string-array name="kidsAns3">
+        <item>из-за Солнца</item>
+        <item>из-за гравитации</item>
+        <item>бог так сделал</item>
+    </string-array>
+    <string-array name="kidsAns4">
+        <item>люди не хотят есть мышей</item>
+        <item>кошки не хотят есть мышей</item>
+        <item>мыши безвкусные</item>
+    </string-array>
+    <string-array name="kidsAns5">
+        <item>они не светятся</item>
+        <item>из-за особого света</item>
+        <item>из-за особого вещества в глазах</item>
+    </string-array>
+    <string-array name="kidsAns6">
+        <item>из-за разных сред</item>
+        <item>из-за отражения света</item>
+        <item>потому что вены синие</item>
+    </string-array>
+    <string-array name="kidsAns7">
+        <item>они думают, что это луна</item>
+        <item>они летят не на свет</item>
+    </string-array>
+    <string-array name="kidsAns8">
+        <item>их цвет зависит от рациона</item>
+        <item>из-за разных генов</item>
+    </string-array>
+    <string-array name="kidsAns9">
+        <item>курица</item>
+        <item>яйцо</item>
+    </string-array>
+
+
+    <string-array name="kidsRight">
+        <item>не видят. Потому что о существовании друг друга микробы знают, хотя думать об этом они, конечно, не думают — им нечем. Собственно, не видят они друг друга по той же причине</item>
+        <item>подъемной силе. Для этого и нужны крылья</item>
+        <item>из-за гравитации. Солнце, звезды, Земля, Луна, все планеты и их большие спутники «круглые» (шарообразные), потому что они обладают очень большой массой. Их собственная сила тяготения (гравитация) стремится придать им форму шара</item>
+        <item>люди не хотят есть мышей. Чтобы сделать что-то со скусом мышей, нужно знать какие они на вкус</item>
+        <item>они не светятся. Они лишь отражают свет, но очень хорошо, благодаря чему кошки видят в темноте гораздо лучше нас</item>
+        <item>из-за отражения света</item>
+        <item>они думают, что это луна</item>
+        <item>их цвет зависит от рациона. Их розовая окраска происходит от маленьких красных рачков, в которых содержится каротиноид</item>
+        <item>яйцо. Это очевидно. Эволюционирует не живое существо, а его потомки. Следовательно, был какой-то вид, который отложил яйцо, и из него вылупилась первая курица</item>
+    </string-array>
+
+    <string-array name="kosmosQ">
+        <item>Начнем с простого:
+в какой галактике мы находимся?</item>
+        <item>Черная дыра: часть 1.
+Она действительно черная?</item>
+        <item>Черная дыра: часть 2.
+Если заменить наше Солнце черной дырой такой же массы, то…</item>
+        <item>Окей, а в космосе и правда абсолютная тишина?</item>
+        <item>В космосе вакуум?</item>
+        <item>Солнце исчезло.
+Через сколько мы об этом узнаем?(Примерно)</item>
+        <item>Это один маленький шаг для человека, но гигантский скачок для всего человечества.
+След Нила Армстронга до сих пор можно увидеть на Луне?</item>
+        <item>Земля - единственная планета, на которой есть вода?</item>
+        <item>Экзопланеты - это…</item>
+        <item>Время в космосе всегда идет медленнее </item>
+        <item>Хорошо, а что мешает ходу времени? </item>
+        <item>Солнце вращается вокруг своей оси? </item>
+        <item>А луна? </item>
+        <item>Путешествие во времени реально? </item>
+        <item>Вблизи черной дыры время идет… </item>
+        <item>И последнее:
+Какой формы Вселенная?(Согласно последней теории) </item>
+    </string-array>
+
+    <string-array name="kosmosAns1">
+        <item>молочный путь</item>
+        <item>млечный путь</item>
+        <item>млечная дорога</item>
+    </string-array>
+    <string-array name="kosmosAns2">
+        <item>нет</item>
+        <item>да, из названия даже понятно</item>
+    </string-array>
+    <string-array name="kosmosAns3">
+        <item>Земля останется на своей орбите</item>
+        <item>Все близлежащее засосет черная дыра</item>
+        <item>абсолютно ничего не поменяется</item>
+    </string-array>
+    <string-array name="kosmosAns4">
+        <item>да, там же вакуум</item>
+        <item>да, но только для наших ушей</item>
+        <item>в зведных войнах есть звук, так что..</item>
+    </string-array>
+    <string-array name="kosmosAns5">
+        <item>конечно</item>
+        <item>не совсем</item>
+    </string-array>
+    <string-array name="kosmosAns6">
+        <item>8 минут</item>
+        <item>10 минут</item>
+        <item>15 минут</item>
+    </string-array>
+    <string-array name="kosmosAns7">
+        <item>нет, прошло слишком много лет</item>
+        <item>да, он до сих пор там!</item>
+    </string-array>
+    <string-array name="kosmosAns8">
+        <item>верно</item>
+        <item>есть и другие</item>
+    </string-array>
+    <string-array name="kosmosAns9">
+        <item>планеты, на которых возможна жизнь</item>
+        <item>планеты вне солнечной системы</item>
+        <item>планеты, на которых температура больше 100 градусов по Цельсию</item>
+    </string-array>
+    <string-array name="kosmosAns10">
+        <item>неверно</item>
+        <item>верно</item>
+    </string-array>
+    <string-array name="kosmosAns11">
+        <item>гравитация</item>
+        <item>темная материя</item>
+        <item>сверхновые</item>
+    </string-array>
+    <string-array name="kosmosAns12">
+        <item>нет</item>
+        <item>естественно</item>
+    </string-array>
+    <string-array name="kosmosAns13">
+        <item>вращается</item>
+        <item>не вращается</item>
+    </string-array>
+    <string-array name="kosmosAns14">
+        <item>такое только в кино</item>
+        <item>теоретически, это возможно</item>
+    </string-array>
+    <string-array name="kosmosAns15">
+        <item>быстрее</item>
+        <item>медленнее</item>
+    </string-array>
+    <string-array name="kosmosAns16">
+        <item>в форме пончика</item>
+        <item>в форме цилиндра</item>
+    </string-array>
+
+    <string-array name="rightKosmos">
+        <item>млечный путь</item>
+        <item>нет. Черная дыра поглощает даже фотоны(частицы света), поэтому на самом деле она не имеет цвета, ее физически невозможно увидеть</item>
+        <item>Земля останется на своей орбите. Черная дыра засасывает все, благодаря своей бесконечной массе. А в условии сказано, что ее масса равна массе Солнца. Значит, все останется на своих местах </item>
+        <item>да, но только для наших ушей. Звуки в космосе есть, но на частотах, которые человеческий слух не способен уловить </item>
+        <item>не совсем. Космическое пространство имеет очень низкую плотность и давление и является наилучшим приближением физического вакуума. Космический вакуум не является действительно совершенным, даже в межзвёздном пространстве есть несколько атомов водорода на кубический сантиметр</item>
+        <item>8 минут</item>
+        <item>да, он до сих пор там! Ведь на луне нет атмосферы</item>
+        <item>есть и другие</item>
+        <item>планеты вне солнечной системы</item>
+        <item>неверно</item>
+        <item>гравитация. Чем ближе к массивному телу - тем медленнее идет время</item>
+        <item>естественно</item>
+        <item>вращается</item>
+        <item>теоретически, это возможно</item>
+        <item>медленнее. Так как у черной дыры бесконечная масса</item>
+        <item>в форме пончика</item>
+    </string-array>
+
+    <string-array name="mathQ">
+        <item>Раз и навсегда:
+0 - это</item>
+        <item>Сумма чисел от 1 до 100</item>
+        <item>Ноль – единственное из существующих чисел, имеющее несколько названий</item>
+        <item>Среди всех фигур с одинаковым периметром самая большая площадь у какой фигуры?</item>
+        <item>10 - это число?</item>
+        <item>Сколько в математике чисел, которых нельзя записать римскими цифрами?</item>
+        <item>Эйнштейн запомнил номер одной дамы так:
+две дюжины и 19 в квадрате. Какой же это номер?</item>
+    </string-array>
+
+    <string-array name="mathAns1">
+        <item>четное</item>
+        <item>нейтральное</item>
+        <item>нечетное</item>
+    </string-array>
+    <string-array name="mathAns2">
+        <item>5050</item>
+        <item>3030</item>
+        <item>5500</item>
+    </string-array>
+    <string-array name="mathAns3">
+        <item>правда</item>
+        <item>ложь</item>
+    </string-array>
+    <string-array name="mathAns4">
+        <item>квадрата</item>
+        <item>круга</item>
+        <item>треугольника</item>
+    </string-array>
+    <string-array name="mathAns5">
+        <item>число</item>
+        <item>цифра</item>
+    </string-array>
+    <string-array name="mathAns6">
+        <item>таких нет</item>
+        <item>одно</item>
+        <item>пять</item>
+    </string-array>
+    <string-array name="mathAns7">
+        <item>24–361</item>
+        <item>12–361</item>
+    </string-array>
+
+
+    <string-array name="mathRight">
+        <item>четное</item>
+        <item>5050</item>
+        <item>правда. Ноль и нуль. Zero и Null</item>
+        <item>круга</item>
+        <item>число. Всего 10 цифр(0…9), которые образуют числа</item>
+        <item>одно. Это ноль</item>
+        <item>24–361. Дюжина - это 12. Две дюжины - 24</item>
+    </string-array>
+
+    <string-array name="mith2Q">
+        <item>Цитрусовые - лучший источник витамина C</item>
+        <item>Кока-кола не придумывала Санту-Клауса</item>
+        <item>Есть два типа подсолнечного масла: хорошее и \"плохое\" с холестерином</item>
+        <item>Пиво и сладкая газировка не утоляют жажду</item>
+        <item>Испуганный страус прячет голову в песок</item>
+        <item>Можно ли смотреть на сварку?</item>
+        <item>Если потрогать жабу, то появится бородавка</item>
+        <item>Нельзя сидеть близко к телевизору</item>
+        <item>Парами хлороформа можно быстро усыпить человека</item>
+        <item>Заявлять о пропаже человека нужно минимум через 24 часа</item>
+    </string-array>
+
+    <string-array name="mith2Ans1">
+        <item>это миф</item>
+        <item>это правда</item>
+    </string-array>
+    <string-array name="mith2Ans2">
+        <item>правда</item>
+        <item>придумывала</item>
+    </string-array>
+    <string-array name="mith2Ans3">
+        <item>правда</item>
+        <item>не бывает с холестерином</item>
+    </string-array>
+    <string-array name="mith2Ans4">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mith2Ans5">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mith2Ans6">
+        <item>нельзя</item>
+        <item>можно, но не как телевизор</item>
+    </string-array>
+    <string-array name="mith2Ans7">
+        <item>миф</item>
+        <item>зависит от лягушки</item>
+    </string-array>
+    <string-array name="mith2Ans8">
+        <item>миф</item>
+        <item>можно!</item>
+    </string-array>
+    <string-array name="mith2Ans9">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mith2Ans10">
+        <item>все верно</item>
+        <item>миф</item>
+    </string-array>
+
+    <string-array name="mith2Right">
+        <item>это миф. Самое большое содержание витамина С находится в таких плодах, как: слива какаду, барбадосская вишня, ягоды шиповника, гуава, сладкий красный перец, черная смородина, облепиха, петрушка, брокколи</item>
+        <item>правда. Это как если бы Роскосмос придумал космос</item>
+        <item>не бывает с холестерином</item>
+        <item>правда</item>
+        <item>миф. Испуганный страус убегает</item>
+        <item>можно, но не как телевизор</item>
+        <item>миф</item>
+        <item>можно!</item>
+        <item>миф. Для этого потребуется достаточно времени</item>
+        <item>миф. Если вы уверены, что человек пропал, то заявлять нужно немедленно</item>
+    </string-array>
+
+
+
+    <string-array name="mithQ">
+        <item>Всем известно:
+морковь улучшает зрение</item>
+        <item>Кофе в разумных объемах не вреден для нашего организма</item>
+        <item>Свежее не лучше замороженного</item>
+        <item>Мы используем мозг на столько, на сколько это возможно</item>
+        <item>Волосы и ногти продолжают расти и после смерти</item>
+        <item>Если нам холодно, значит, мы заболеем</item>
+        <item>После еды можно плавать!</item>
+        <item>Чтение при тусклом свете ухудшает зрение</item>
+        <item>Соль очень вредная</item>
+        <item>Укол действует лучше, чем таблетка</item>
+    </string-array>
+
+    <string-array name="mithAns1">
+        <item>это миф</item>
+        <item>это правда</item>
+    </string-array>
+    <string-array name="mithAns2">
+        <item>вреден</item>
+        <item>не вреден</item>
+    </string-array>
+    <string-array name="mithAns3">
+        <item>правда</item>
+        <item>ложь</item>
+    </string-array>
+    <string-array name="mithAns4">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mithAns5">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mithAns6">
+        <item>не правда</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mithAns7">
+        <item>можно</item>
+        <item>нельзя</item>
+    </string-array>
+    <string-array name="mithAns8">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mithAns9">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="mithAns10">
+        <item>всегда</item>
+        <item>не всегда</item>
+    </string-array>
+
+    <string-array name="mithRight">
+        <item>это миф. Однако витамины, микроэлементы и другие компоненты этого овоща полезны для здоровья зрения и помогают уменьшить риск развития определенных заболеваний глаз при условии, что морковь является частью сбалансированного питания</item>
+        <item>не вреден</item>
+        <item>правда</item>
+        <item>правда</item>
+        <item>миф. К ним ничего не поступает, поэтому их рост невозможен</item>
+        <item>не правда. Мы заболеваем не от холода, а от бактерий и вирусов</item>
+        <item>можно</item>
+        <item>миф. Глаза просто быстрее устают</item>
+        <item>миф</item>
+        <item>не всегда</item>
+    </string-array>
+
+
+
+    <string-array name="homeQ">
+        <item>Во время осмотра вас никто не подгонял, и вы задали все интересующие вас вопросы. Тем не менее, прежде чем принять окончательное решение, вы хотели бы еще разок осмотреть одно из помещений вашего будущего дома. Какая часть дома требует дополнительного осмотра?</item>
+    </string-array>
+
+    <string-array name="homeAns">
+        <item>ванная</item>
+        <item>спальня</item>
+        <item>кухня</item>
+        <item>веранда/сад</item>
+    </string-array>
+
+    <string-array name="openQ">
+        <item>Пожалуй, самое известное открытие - это пенициллин. Его открыл биолог Сэр Александр Флеминг. Исследованием каких бактерий он занимался в этот период?</item>
+        <item>Магнетрон, шоколадка, карман - с каким открытием все это связано?</item>
+        <item>Шипучее вино считалось верным признаком некачественного виноделия. Дом Пьер Периньон боролся с этим, делая свое вино, но в итоге распространил по всему свету … что?</item>
+        <item>Спенсер Сильвер работал формулой сильного клея, но смог создать лишь очень слабый клей, который можно было снять практически без усилий. Впоследствии, благодаря Артуру Фраю, это привело к открытию чего?</item>
+        <item>Что из этого, как и пенициллин, было открыто случайно и до сих пор спасает человеческие жизни?</item>
+        <item>Это случайное открытие использовалось для лечения раненных солдат во Вьетнаме: его разбрызгивали на открытые раны, останавливая кровотечение, что облегчало транспортировку солдат</item>
+        <item>Напоследок:
+наркотик, который появился случайно</item>
+    </string-array>
+
+    <string-array name="openAns1">
+        <item>бактерий бациллы</item>
+        <item>бактерий стафилококка</item>
+        <item>бактерий коккобациллы</item>
+    </string-array>
+    <string-array name="openAns2">
+        <item>микроволновая печь</item>
+        <item>электромагнитная печь</item>
+        <item>духовая печь</item>
+    </string-array>
+    <string-array name="openAns3">
+        <item>шампанское</item>
+        <item>пиво</item>
+        <item>сидр</item>
+    </string-array>
+    <string-array name="openAns4">
+        <item>закладок для книг</item>
+        <item>наклеек Post-It</item>
+        <item>почтовых марок</item>
+    </string-array>
+    <string-array name="openAns5">
+        <item>Электрокардиостимулятор</item>
+        <item>дефибриллятор</item>
+        <item>аспирин</item>
+    </string-array>
+    <string-array name="openAns6">
+        <item>перекись водорода</item>
+        <item>суперклей</item>
+        <item>хлор</item>
+    </string-array>
+    <string-array name="openAns7">
+        <item>ЛСД</item>
+        <item>героин</item>
+        <item>кокаин</item>
+    </string-array>
+
+    <string-array name="openRight">
+        <item>бактерий стафилококка</item>
+        <item>микроволновая печь. Американский инженер Перси Спенсер впервые заметил способность сверхвысокочастотного излучения к нагреванию продуктов и запатентовал микроволновую печь. Когда он проводил эксперименты с очередным магнетроном, Спенсер заметил, что кусок шоколада в его кармане расплавился</item>
+        <item>шампанское. Вот такой вот парадокс</item>
+        <item>наклеек Post-It</item>
+        <item>Электрокардиостимулятор</item>
+        <item>суперклей</item>
+        <item>ЛСД. Альберт Хофманн коснулся вещества кончиком пораненного пальца. Этот день вошел в историю под названием «День велосипеда». Через несколько минут после принятия ЛСД Альберт не мог более составлять связные предложения и, наблюдаемый своим ассистентом, отправился на велосипеде домой. Во время поездки он еще отчетливее ощутил эффекты ЛСД</item>
+    </string-array>
+
+
+    <string-array name="orgQ">
+        <item>Иногда мы дергаемся во сне, знакомо?
+А почему?</item>
+        <item>Популярный вопрос:
+сколько костей в человеческом теле?</item>
+        <item>Сколько информации может вместить наш мозг?</item>
+        <item>Что происходит при чихании?</item>
+        <item>Женские сердца бьются быстрее, чем у мужчин.
+Миф?</item>
+        <item>Сколько снов мы полностью забываем?</item>
+        <item>Чему равен общий вес бактерий, живущих в человеке?</item>
+        <item>Дети рождаются без коленных чашечек.
+Миф или все-таки нет?</item>
+        <item>Какие самые сильные мышцы в человеческом теле?</item>
+        <item>Напоследок: пробовали чихнуть с открытыми глазами?
+Получилось?</item>
+    </string-array>
+
+    <string-array name="orgAns1">
+        <item>видим кошмары</item>
+        <item>могз посылает электрический разряд</item>
+        <item>мозг просыпается перед рассветом</item>
+    </string-array>
+    <string-array name="orgAns2">
+        <item>205–207</item>
+        <item>195–197</item>
+        <item>210–212</item>
+    </string-array>
+    <string-array name="orgAns3">
+        <item>больше 4 терабайт</item>
+        <item>больше 4 гигабайт</item>
+        <item>больше 4 петабайт</item>
+    </string-array>
+    <string-array name="orgAns4">
+        <item>все функции организма останавливаются</item>
+        <item>все, кроме сердца, естественно</item>
+        <item>лопается один нерв</item>
+    </string-array>
+    <string-array name="orgAns5">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="orgAns6">
+        <item>65%</item>
+        <item>98%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="orgAns7">
+        <item>2 килограмма</item>
+        <item>200 грамм</item>
+        <item>20 килограмм</item>
+    </string-array>
+    <string-array name="orgAns8">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="orgAns9">
+        <item>икроножные</item>
+        <item>ягодичные</item>
+        <item>глаз</item>
+    </string-array>
+    <string-array name="orgAns10">
+        <item>конечно</item>
+        <item>это невозможно:)</item>
+    </string-array>
+
+    <string-array name="orgRight">
+        <item>могз посылает электрический разряд. Иногда мозг принимает действия во сне за реальные, поэтому посылает электрический заряд (то есть приказывает) телу выполнить действие</item>
+        <item>205–207</item>
+        <item>больше 4 терабайт. </item>
+        <item>все функции организма останавливаются</item>
+        <item>правда. Женское сердце немного меньше мужского и потому бьется быстрее. У мужчин оно совершает в среднем 60–70 ударов в минуту, у женщин – 80–90</item>
+        <item>98%</item>
+        <item>200 грамм</item>
+        <item>правда. Они формируются позже</item>
+        <item>икроножные</item>
+        <item>это невозможно:) Глаза закрываются из-за непроизвольных мышечных сокращений. Мышцы на лице сжимаются, когда вы чихаете. Отсюда и странное выражение лица, которое является неотъемлемой частью этого биологического процесса. Некоторые из этих мышц окружают ваши глаза, поэтому когда они сокращаются, ваши глаза закрываются</item>
+    </string-array>
+
+
+    <string-array name="pcihonames">
+        <item>Вы Рик или Морти</item>
+        <item>Какой Вы комик?</item>
+        <item>Какой Вы актер?</item>
+        <item>Подбираем хобби</item>
+        <item>Тест на эрудицию</item>
+        <item>Зомбиленд</item>
+        <item>Реальные и выдуманные слова</item>
+        <item>Факты о животных</item>
+        <item>Факты о животных часть 2</item>
+        <item>Ваша страна</item>
+        <item>Известные личности</item>
+        <item>Гарри Поттер</item>
+        <item>Цитаты</item>
+        <item>Необычные законы</item>
+        <item>Big Size</item>
+    </string-array>
+
+    <string-array name="pcihonames2">
+        <item>11 вопросов</item>
+        <item>7 вопросов</item>
+        <item>9 вопросов</item>
+        <item>6 вопросов</item>
+        <item>10 вопросов</item>
+        <item>8 вопросов</item>
+        <item>8 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>7 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>9 вопросов</item>
+        <item>7 вопросов</item>
+    </string-array>
+
+    <string-array name="pcihonamesforex">
+        <item>Вы Рик или Морти</item>
+        <item>Какой Вы комик?</item>
+        <item>Какой Вы актер?</item>
+        <item>Тест на эрудицию</item>
+        <item>Реальные и выдуманные слова</item>
+        <item>Факты о животных</item>
+        <item>Факты о животных часть 2</item>
+        <item>Известные личности</item>
+        <item>Цитаты</item>
+        <item>Необычные законы</item>
+        <item>Big Size</item>
+    </string-array>
+
+    <string-array name="pcihonames2forex">
+        <item>11 вопросов</item>
+        <item>7 вопросов</item>
+        <item>9 вопросов</item>
+        <item>10 вопросов</item>
+        <item>8 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>10 вопросов</item>
+        <item>9 вопросов</item>
+        <item>7 вопросов</item>
+    </string-array>
+
+    <string-array name="physicsQ">
+        <item>Кем был сформулирован закон всемирного тяготения?</item>
+        <item>Закон, согласно которому упругие деформации прямо пропорциональны вызывающим их внешним воздействиям</item>
+        <item>Сколько существует законов, лежащих в основе ньютоновской классической механики?</item>
+        <item>Закон Бойля-Мариотта описывает какой процесс?</item>
+        <item>Давление, производимое внешними силами на поверхность жидкости или газа, передается одинаково по всем направлениям</item>
+        <item>Согласно какому закону нельзя создать вечный двигатель?</item>
+        <item>Правило, определяющее направление индукционных токов, возникающих при электромагнитной индукции</item>
+        <item>И напоследок: угол падения равен…</item>
+    </string-array>
+
+    <string-array name="physicsAns1">
+        <item>Архимедом</item>
+        <item>Ньютоном</item>
+        <item>Эйнштейном</item>
+    </string-array>
+    <string-array name="physicsAns2">
+        <item>закон Гука</item>
+        <item>закон Кеплера</item>
+        <item>Закон Ньютона</item>
+    </string-array>
+    <string-array name="physicsAns3">
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="physicsAns4">
+        <item>экзотермический</item>
+        <item>изотермический</item>
+    </string-array>
+    <string-array name="physicsAns5">
+        <item>закон Архимеда</item>
+        <item>закон Паскаля</item>
+        <item>закон Гей-Люссака</item>
+    </string-array>
+    <string-array name="physicsAns6">
+        <item>закон сохранения энергии</item>
+        <item>1 закон гидростатики</item>
+        <item>закон сохранения импульсов</item>
+    </string-array>
+    <string-array name="physicsAns7">
+        <item>правило Ома</item>
+        <item>правило Ленца</item>
+        <item>правило Немца</item>
+    </string-array>
+    <string-array name="physicsAns8">
+        <item>углу отражения</item>
+        <item>90 градусов</item>
+    </string-array>
+
+    <string-array name="physicsRight">
+        <item>Ньютоном</item>
+        <item>закон Гука</item>
+        <item>3. Первый закон известен как закон инерции. Второй закон Ньютона — дифференциальный закон движения(ускорение). Третий закон - действию всегда есть равное и противоположное противодействие</item>
+        <item>изотермический</item>
+        <item>закон Паскаля</item>
+        <item>закон сохранения энергии. Энергия не может возникнуть из ничего и не может в никуда исчезнуть</item>
+        <item>правило Ленца</item>
+        <item>углу отражения</item>
+    </string-array>
+
+
+    <string-array name="pictureQ">
+        <item>Вы стоите перед картиной в музее, заложили руки за спину и изо всех сил стараетесь проникнуть в замысел художника, как вдруг совершенно незнакомый вам человек подходит и что-то вам говорит. Что из нижеследующего говорит вам незнакомец?</item>
+    </string-array>
+
+    <string-array name="pictureAns">
+        <item>не правда ли, эта картина прекрасна?</item>
+        <item>что вы думаете об этой картине?</item>
+        <item>извините, у вас есть время?</item>
+        <item>вы знаете, я и сам художник</item>
+    </string-array>
+
+    <string-array name="porQ">
+        <item>Вас привлекает возможность путешествовать?</item>
+        <item>Вы любите изучать что-то новое?</item>
+        <item>Есть ли у вас проблемы со сном?</item>
+        <item>Вы гостеприимный человек?</item>
+        <item>Имеете склонность предугадывать проблемы в будущем?</item>
+        <item>Ваши друзья добились в жизни больше, чем вы?</item>
+        <item>Любите заниматься спортом?</item>
+        <item>Судьба часто преподносит вам неожиданности?</item>
+        <item>Вы беспокоитесь за текущее состояние экологии?</item>
+        <item>Научный прогресс доставил планете слишком много проблем?</item>
+        <item>Ваша профессия выбрана удачно?</item>
+        <item>Часто ли вы пользуетесь страхованием?</item>
+        <item>Вы мобильный человек? Легко ли вам переехать на другое место, если предложат дело по душе?</item>
+        <item>Вы считаете себя симпатичным?</item>
+        <item>Вас беспокоит состояние вашего организма?</item>
+        <item>Вас не смущает нахождение в незнакомом коллективе?</item>
+        <item>Любите быть в центре событий?</item>
+        <item>Существует ли дружба без взаимной выгоды?</item>
+        <item>У вас есть свои личные приметы?</item>
+        <item>Каждый строит свою судьбу сам?</item>
+    </string-array>
+
+    <string-array name="porAns">
+        <item>да</item>
+        <item>нет</item>
+    </string-array>
+
+    <string-array name="psychonames">
+        <item>Пессимист, оптимист, реалист</item>
+        <item>Под небом голубым</item>
+        <item>Синяя птица</item>
+        <item>Летучая мышь в пещере</item>
+        <item>Картина</item>
+        <item>Яйцо</item>
+        <item>Судебное разбирательство</item>
+        <item>Новое жилище</item>
+        <item>Кошки</item>
+        <item>Лакомый кусочек</item>
+        <item>Сказка о Золушке</item>
+        <item>Уверены ли Вы в себе</item>
+        <item>Тип темперамента</item>
+        <item>Комплекс жертвы</item>
+        <item>Способность к саморазвитию</item>
+        <item>Контроль</item>
+    </string-array>
+
+    <string-array name="psychonames2">
+        <item>20 вопросов</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>1 вопрос</item>
+        <item>7 вопросов</item>
+        <item>14 вопросов</item>
+        <item>10 вопросов</item>
+        <item>18 вопросов</item>
+        <item>10 вопросов</item>
+    </string-array>
+
+    <string-array name="quotesQ">
+        <item>Не тот велик, кто никогда не падал, а тот велик — кто падал и вставал!</item>
+        <item>Мы в жизни любим только раз, а после ищем лишь похожих</item>
+        <item>Не всегда просит прощения тот, кто виноват. Просит прощения тот, кто дорожит отношениями</item>
+        <item>Победи себя и выиграешь тысячи битв</item>
+        <item>Танцуй так, как будто на тебя никто не смотрит
+Пой, как будто тебя никто не слышит
+Люби так, как будто тебя никогда не предавали, и живи так, как будто земля — это рай</item>
+        <item>Симпатия — это когда нравится внешность, влюблённость — когда нравится внешность и характер, а любовь — это когда нравятся даже недостатки</item>
+        <item>Настоящий друг — это человек, который выскажет тебе в глаза все, что о тебе думает, а всем скажет, что ты — замечательный человек</item>
+        <item>Женщины вдохновляют нас на великие дела, но вечно мешают нам их творить</item>
+        <item>Видеть и чувствовать — это быть, размышлять, это жить</item>
+        <item>Ведь солдатами не рождаются, солдатами умирают</item>
+    </string-array>
+
+    <string-array name="quotesAns1">
+        <item>Конфуций</item>
+        <item>Мухаммед Али</item>
+        <item>Джеки Чан</item>
+    </string-array>
+    <string-array name="quotesAns2">
+        <item>Э.М.Ремарк</item>
+        <item>С.Есенин</item>
+        <item>А.С.Пушкин</item>
+    </string-array>
+    <string-array name="quotesAns3">
+        <item>Э.М.Ремарк</item>
+        <item>С.Есенин</item>
+        <item>А.С.Пушкин</item>
+    </string-array>
+    <string-array name="quotesAns4">
+        <item>Сунь-цзы</item>
+        <item>Будда</item>
+        <item>Конфуций</item>
+    </string-array>
+    <string-array name="quotesAns5">
+        <item>Марк Твен</item>
+        <item>Высоцкий</item>
+        <item>Д.К.Роулинг</item>
+    </string-array>
+    <string-array name="quotesAns6">
+        <item>Сент-Экзюпери</item>
+        <item>А.Дюма</item>
+        <item>Оскар Уайльд</item>
+    </string-array>
+    <string-array name="quotesAns7">
+        <item>Майк Тайсон</item>
+        <item>Омар Хайам</item>
+        <item>Джонн Ленон</item>
+    </string-array>
+    <string-array name="quotesAns8">
+        <item>Оскар Уайльд</item>
+        <item>Омар Хайам</item>
+        <item>Сент-Экзюпери</item>
+    </string-array>
+    <string-array name="quotesAns9">
+        <item>Галилей</item>
+        <item>Уильям Шекспир</item>
+        <item>Конфуций</item>
+    </string-array>
+    <string-array name="quotesAns10">
+        <item>Егор Летов</item>
+        <item>Сунь-цзы</item>
+        <item>Будда</item>
+    </string-array>
+
+    <string-array name="quotesRight">
+        <item>Конфуций</item>
+        <item>С.Есенин</item>
+        <item>Э.М.Ремарк</item>
+        <item>Будда</item>
+        <item>Марк Твен</item>
+        <item>Сент-Экзюпери</item>
+        <item>Омар Хайам</item>
+        <item>Оскар Уайльд</item>
+        <item>Уильям Шекспир</item>
+        <item>Егор Летов</item>
+    </string-array>
+
+
+    <string-array name="romQ">
+        <item>Прежде всего:
+бассейн с килотой - хорошая идея?</item>
+        <item>Как Вам Заступники (пародия на мстителей)?</item>
+        <item>Сколько существует параллельных миров?
+Конкретно</item>
+        <item>В одной из серий Морти сам придумывал приключение. Это то, где появляется король Желатин
+Приключение было…</item>
+        <item>Чем можно оправдать цинизм человека?</item>
+        <item>Нужно ли избавить мир от всего зла?</item>
+        <item>Каждое существо заслуживает свободы</item>
+        <item>Рик создал целую минивселенную, которая питает двигатель его корабля</item>
+        <item>Вас впечатлило превращение в огурец?</item>
+        <item>В одном из миров Вы встречате девушку, которая находится в опасности.
+Вы ей поможете?</item>
+        <item>И напоследок:
+сычуаньский соус или любовь всей жизни?</item>
+    </string-array>
+
+    <string-array name="romAns1">
+        <item>естественно</item>
+        <item>не-а</item>
+        <item>а зачем?</item>
+    </string-array>
+    <string-array name="romAns2">
+        <item>они прикольные</item>
+        <item>без Рика они ничто</item>
+        <item>это те, что все погибли?</item>
+    </string-array>
+    <string-array name="romAns3">
+        <item>что-то около 20млрд</item>
+        <item>перевернутая восьмерка</item>
+        <item>это всего лишь теория</item>
+    </string-array>
+    <string-array name="romAns4">
+        <item>отличным</item>
+        <item>ужасным</item>
+        <item>как в туалет сходил?</item>
+    </string-array>
+    <string-array name="romAns5">
+        <item>большой утратой</item>
+        <item>бесконечным количеством миров</item>
+    </string-array>
+    <string-array name="romAns6">
+        <item>существует необходимое зло</item>
+        <item>зло - есть зло, оно ни к чему</item>
+    </string-array>
+    <string-array name="romAns7">
+        <item>за это нужно бороться</item>
+        <item>свобода иллюзорна</item>
+    </string-array>
+    <string-array name="romAns8">
+        <item>это практично</item>
+        <item>это не этично</item>
+        <item>это освещает тему тщетности бытия</item>
+    </string-array>
+    <string-array name="romAns9">
+        <item>это глупо</item>
+        <item>даа, огурчик-Рик!</item>
+    </string-array>
+    <string-array name="romAns10">
+        <item>определенно</item>
+        <item>никому нельзя доверять</item>
+    </string-array>
+    <string-array name="romAns11">
+        <item>просто дайте мне этот соус</item>
+        <item>любовь</item>
+    </string-array>
+
+    <string-array name="romRight">
+    <item>естественно - так бы ответил Рик
+     не-а - так бы ответил Морти</item>
+        <item>без Рика они ничто - так бы ответил Рик
+     они прикольные - так бы ответил Морти</item>
+        <item> перевернутая восьмерка(бесконечность) - так бы ответил Рик
+     что-то около 20млрд - так бы ответил Морти</item>
+        <item> отличным - так бы ответил Рик
+     ужасным (желатин пытался его изнасиловать) - так бы ответил Морти</item>
+        <item> бесконечным количеством миров - так бы ответил Рик
+     большой утратой - так бы ответил Морти</item>
+        <item> существует необходимое зло - так бы ответил Рик
+     зло - есть зло, оно ни к чему - так бы ответил Морти</item>
+        <item> свобода иллюзорна - так бы ответил Рик
+     за это нужно бороться - так бы ответил Морти</item>
+        <item> это практично - так бы ответил Рик
+     это не этично - так бы ответил Морти</item>
+        <item> даа, огурчик-Рик! - так бы ответил Рик
+     это глупо - так бы ответил Морти</item>
+        <item> никому нельзя доверять - так бы ответил Рик
+     определенно - так бы ответил Морти</item>
+        <item> просто дайте мне этот соус - так бы ответил Рик
+     любовь - так бы ответил Морти</item>
+    </string-array>
+
+    <string-array name="selfQ">
+        <item>За что Вас ценят Ваши друзья?</item>
+        <item>На основе сравнительной самооценки выберите, какая характеристика Вам более всего подходит</item>
+        <item>Как Вы относитесь к идее ведения личного ежедневника, к планированию своей работы на год, месяц, ближайшую неделю, день?</item>
+        <item>Что Вам больше всего мешает профессионально самосовершенствоваться, лучше учиться?</item>
+        <item>Каковы типичные причины Ваших ошибок и промахов?</item>
+        <item>На основе сравнительной самооценки выберите, какая характеристика Вам более всего подходит?</item>
+        <item>На основе сравнительной самооценки выберите, какая характеристика Вам более всего подходит?</item>
+        <item>На основе сравнительной самооценки выберите, какая характеристика Вам более всего подходит?</item>
+        <item>На основе сравнительной самооценки выберите, какие качества у Вас развиты в большей степени?</item>
+        <item>Что чаще всего Вы делаете, когда у Вас появляется свободное время?</item>
+        <item>Что из ниже приведенных сфер для Вас в последнее время представляет познавательный интерес?</item>
+        <item>Кем бы Вы могли себя максимально реализовать?</item>
+        <item>Каким чаще всего считают или считали Вас учителя?</item>
+        <item>Какой из трех принципов Вам ближе всего и которого Вы придерживаетесь чаще всего?</item>
+        <item>Кто ближе всего к Вашему идеалу?</item>
+        <item>Удастся ли Вам в жизни добиться того, о чем Вы мечтаете?</item>
+        <item>Какие фильмы Вам больше всего нравятся?</item>
+        <item>Представьте себе, что Вы заработали миллион. Куда бы Вы предпочли его истратить?</item>
+    </string-array>
+
+    <string-array name="selfAns1">
+        <item>за то, что Вы преданный и верный друг</item>
+        <item>сильный и готов в трудную минуту постоять за друзей</item>
+        <item>эрудированный, интересный собеседник</item>
+    </string-array>
+    <string-array name="selfAns2">
+        <item>целеустремленный</item>
+        <item>трудолюбивый</item>
+        <item>отзывчивый</item>
+    </string-array>
+    <string-array name="selfAns3">
+        <item>думаю, что чаще всего это пустая трата времени</item>
+        <item>я пытался это делать, но не регулярно</item>
+        <item>положительно, так как я давно это делаю</item>
+    </string-array>
+    <string-array name="selfAns4">
+        <item>нет достаточно времени</item>
+        <item>нет подходящей литературы и условий</item>
+        <item>не всегда хватает силы воли и настойчивости</item>
+    </string-array>
+    <string-array name="selfAns5">
+        <item>невнимательный</item>
+        <item>переоцениваю свои способности</item>
+        <item>точно не знаю</item>
+    </string-array>
+    <string-array name="selfAns6">
+        <item>настойчивый</item>
+        <item>усидчивый</item>
+        <item>доброжелательный</item>
+    </string-array>
+    <string-array name="selfAns7">
+        <item>решительный</item>
+        <item>любознательный</item>
+        <item>справедливый</item>
+    </string-array>
+    <string-array name="selfAns8">
+        <item>генератор идей</item>
+        <item>критик</item>
+        <item>организатор</item>
+    </string-array>
+    <string-array name="selfAns9">
+        <item>сила воли</item>
+        <item>память</item>
+        <item>обязательность</item>
+    </string-array>
+    <string-array name="selfAns10">
+        <item>занимаюсь любимым делом, у меня есть хобби</item>
+        <item>читаю художественную литературу</item>
+        <item>провожу время с друзьями, либо в кругу семьи</item>
+    </string-array>
+    <string-array name="selfAns11">
+        <item>научная фантастика</item>
+        <item>религия</item>
+        <item>психология</item>
+    </string-array>
+    <string-array name="selfAns12">
+        <item>спортсменом</item>
+        <item>ученым</item>
+        <item>художником</item>
+    </string-array>
+    <string-array name="selfAns13">
+        <item>трудолюбивым</item>
+        <item>сообразительным</item>
+        <item>дисциплинированным</item>
+    </string-array>
+    <string-array name="selfAns14">
+        <item>живи и наслаждайся жизнью</item>
+        <item>жить, чтобы больше знать и уметь</item>
+        <item>жизнь прожить - не поле перейти</item>
+    </string-array>
+    <string-array name="selfAns15">
+        <item>человек здоровый, сильный духом</item>
+        <item>человек, много знающий и умеющий</item>
+        <item>человек независимый и уверенный в себе</item>
+    </string-array>
+    <string-array name="selfAns16">
+        <item>думаю, что да</item>
+        <item>скорее всего да</item>
+        <item>как повезет</item>
+    </string-array>
+    <string-array name="selfAns17">
+        <item>приключенческие и романтические</item>
+        <item>комедийно-развлекательные</item>
+        <item>философские</item>
+    </string-array>
+    <string-array name="selfAns18">
+        <item>путешествовал бы и посмотрел мир</item>
+        <item>вложил бы деньги в любимое дело</item>
+        <item>жил бы в свое удовольствие</item>
+    </string-array>
+
+    <string-array name="standupQ">
+        <item>Вы часто шутите в компании?</item>
+        <item>Эти шутки имеют успех?</item>
+        <item>Вам приходят в голову интересные идеи?</item>
+        <item>Вы смотрите на вещи по-другому?</item>
+        <item>С Вами часто происходят необыкновенные/смешные ситуации?</item>
+        <item>Вы подмечаете происходящие вокруг глупости?</item>
+        <item>Вы можете нести какой-то посыл людям?</item>
+    </string-array>
+
+    <string-array name="standupAns1">
+        <item>постоянно</item>
+        <item>обычно нет</item>
+    </string-array>
+    <string-array name="standupAns2">
+        <item>да, и не только для меня</item>
+        <item>не всегда</item>
+    </string-array>
+    <string-array name="standupAns3">
+        <item>редко</item>
+        <item>моя голова ими кишит</item>
+    </string-array>
+    <string-array name="standupAns4">
+        <item>нет</item>
+        <item>да</item>
+    </string-array>
+    <string-array name="standupAns5">
+        <item>слишком часто!</item>
+        <item>почти никогда</item>
+    </string-array>
+    <string-array name="standupAns6">
+        <item>все вроде в порядке</item>
+        <item>полно глупостей кругом</item>
+    </string-array>
+    <string-array name="standupAns7">
+        <item>могу посылку нести</item>
+        <item>могу и буду</item>
+    </string-array>
+
+    <string-array name="standupRight">
+        <item>это свойственно не всем комикам, но большинсту(по крайней мере в кругу близких людей)</item>
+        <item>если они имеют успех - это хороший знак</item>
+        <item>свежие, интересные и даже безумные мысли - признак отличного комика</item>
+        <item>нужно смотреть на вещи под другим углом, тогда можно высмеять все, что угодно</item>
+        <item>доработать смешную ситуацию и выйдет готовый монолог</item>
+        <item>глупости вызывают смех у людей</item>
+        <item>это тоже необязательно, но гораздо интереснее</item>
+    </string-array>
+
+    <string-array name="tastyQ">
+        <item>Представьте себе, что вы заплутали в темном лесу и уже начинаете испытывать первые муки голода, когда неожиданно натыкаетесь на домик, состоящий из сладостей. Как вы расправитесь с этим лакомством?</item>
+    </string-array>
+
+    <string-array name="tastyAns">
+        <item>стану есть все подряд</item>
+        <item>постараюсь отведать как можно больше разных сортов сладостей</item>
+        <item>найду самую вкусную деталь и буду есть только ее</item>
+        <item>вообще-то, я не очень люблю сладкое</item>
+    </string-array>
+
+    <string-array name="tempQ">
+        <item>Какой у вас характер?</item>
+        <item>Какие эмоции вы наиболее часто испытываете?</item>
+        <item>Какие игры вам нравятся?</item>
+        <item>Как реагируете на наказание?</item>
+        <item>Как ведете себя в неожиданных ситуациях?</item>
+        <item>Насколько вы общительны?</item>
+        <item>Выберете утверждение</item>
+        <item>Особенности памяти</item>
+        <item>Как усваивается новое?</item>
+        <item>Утомляемость:</item>
+        <item>Особенности речи:</item>
+        <item>Движения:</item>
+        <item>Привыкание к школе:</item>
+        <item>Особенности сна:</item>
+    </string-array>
+
+    <string-array name="tempAns1">
+        <item>спокойный, сдержанный, миролюбивый</item>
+        <item>робкий, застенчивый, впечатлительный</item>
+        <item>энергичный, неугомонный</item>
+        <item>жизнелюбивый, оптимистичный, компромиссный</item>
+    </string-array>
+    <string-array name="tempAns2">
+        <item>положительные, бурных реакций нет</item>
+        <item>страх</item>
+        <item>гнев, бурные эмоции</item>
+        <item>положительные эмоции, много смеюсь</item>
+    </string-array>
+    <string-array name="tempAns3">
+        <item>уединенные, тихие, спокойные</item>
+        <item>подвижные и шумные – только с близкими</item>
+        <item>азартные, шумные, подвижные, даже агрессивные</item>
+        <item>всякие, но чтобы было весело</item>
+    </string-array>
+    <string-array name="tempAns4">
+        <item>практически без эмоций</item>
+        <item>негативно, с обидой</item>
+        <item>на словесные – спокойно</item>
+        <item>спокойно</item>
+    </string-array>
+    <string-array name="tempAns5">
+        <item>малоэмоционально</item>
+        <item>пытаюсь избежать этой ситуации</item>
+        <item>пытаюсь сопротивляться</item>
+        <item>проявляю любопытство</item>
+    </string-array>
+    <string-array name="tempAns6">
+        <item>предпочитаю уединение</item>
+        <item>предпочитаю  уединение, общителен только с близкими</item>
+        <item>нуждаюсь в зрителях и сподвижниках</item>
+        <item>люблю общество, знакомлюсь быстро</item>
+    </string-array>
+    <string-array name="tempAns7">
+        <item>авторитета и качеств лидера не имею</item>
+        <item>авторитет имею в узком кругу друзей</item>
+        <item>сам себя выдвигаю лидером</item>
+        <item>прирожденный лидер, душа компании</item>
+    </string-array>
+    <string-array name="tempAns8">
+        <item>Запоминаю медленно, но запоминаю навсегда</item>
+        <item>запоминаю по-разному, больше вникаю в мелочи</item>
+        <item>быстро запоминаю детали, но быстро забываю</item>
+        <item>быстро и легко схватываю целое и долго помню</item>
+    </string-array>
+    <string-array name="tempAns9">
+        <item>медленно, зато обстоятельно</item>
+        <item>зависит от обстоятельств</item>
+        <item>схватываю на лету, но быстро забываю</item>
+        <item>быстро и легко</item>
+    </string-array>
+    <string-array name="tempAns10">
+        <item>очень низкая, почти не устаю</item>
+        <item>высокая</item>
+        <item>иногда средняя, а иногда высокая</item>
+        <item>средняя, устаю соразмерно деятельности</item>
+    </string-array>
+    <string-array name="tempAns11">
+        <item>медленная, без жестов, невыразительная</item>
+        <item>тихая и неуверенная, но выразительная</item>
+        <item>речь эмоциональная, отрывистая, быстрая</item>
+        <item>с жестами и мимикой, выразительная</item>
+    </string-array>
+    <string-array name="tempAns12">
+        <item>солидные, неторопливые, нерасторопные</item>
+        <item>суетливые, неточные, неуверенные</item>
+        <item>резкие, порывистые</item>
+        <item>ритмичные, точные, уверенные</item>
+    </string-array>
+    <string-array name="tempAns13">
+        <item>боязнь нового, нежелание перемен</item>
+        <item>долгое привыкание, трудная адаптация</item>
+        <item>неохотное подчинение требованиям взрослых</item>
+        <item>адаптация легкая и быстрая</item>
+    </string-array>
+    <string-array name="tempAns14">
+        <item>засыпаю быстро, сплю спокойно</item>
+        <item>укладываюсь спать долго, но засыпаю быстро</item>
+        <item>засыпаю долго и трудно, сон беспокойный</item>
+        <item>засыпаю быстро, сон крепкий</item>
+    </string-array>
+
+    <string-array name="thelawsQ">
+        <item>Что запрещено по воскресеньям после полудня в общественных местах в Австралии?</item>
+        <item>Что нельзя делать на железнодорожных вокзалах в Англии?</item>
+        <item>Что запретили в городе Эраклея, что недалеко от Венеции, на пляжах?</item>
+        <item>Что запрещено делать в Сингапуре аж с 1992 года?</item>
+        <item>В 2008 году Япония решила ввести ежегодный контроль за … своих граждан в возрасте 40–74 лет
+Заполните пропуск</item>
+        <item>В Канаде по закону c 6:00 до 18:00 с понедельника по пятницу 35 % радиоэфира должен занимать…</item>
+        <item>В Таиланде вас оштрафуют, если наступите на банкноту с изображением монарха
+Серьезно?</item>
+        <item>Что нельзя делать в Бельгии в холодное время года?</item>
+        <item>Что запрещено делать в Италии на площади Святого Марка?</item>
+    </string-array>
+
+    <string-array name="thelawsAns1">
+        <item>появляться в розовых штанах</item>
+        <item>использовать колонку</item>
+        <item>выгуливать собаку</item>
+    </string-array>
+    <string-array name="thelawsAns2">
+        <item>целоваться</item>
+        <item>читать книгу</item>
+        <item>быть</item>
+    </string-array>
+    <string-array name="thelawsAns3">
+        <item>быть голым</item>
+        <item>строительство песочных замков</item>
+        <item>кормить чаек</item>
+    </string-array>
+    <string-array name="thelawsAns4">
+        <item>жевать жвачку</item>
+        <item>использовать пластик</item>
+        <item>есть голубей</item>
+    </string-array>
+    <string-array name="thelawsAns5">
+        <item>количеством машин</item>
+        <item>размером талий</item>
+        <item>размером их участка</item>
+    </string-array>
+    <string-array name="thelawsAns6">
+        <item>только национальный контент</item>
+        <item>гимн</item>
+        <item>глава охраны леса</item>
+    </string-array>
+    <string-array name="thelawsAns7">
+        <item>серьезно</item>
+        <item>неправда</item>
+        <item>только если на очень крупную</item>
+    </string-array>
+    <string-array name="thelawsAns8">
+        <item>быть легко одетым</item>
+        <item>кидаться снежками</item>
+        <item>кататься на ледянке</item>
+    </string-array>
+    <string-array name="thelawsAns9">
+        <item>кормить голубей</item>
+        <item>креститься</item>
+        <item>молиться</item>
+    </string-array>
+
+    <string-array name="thelawsRight">
+        <item>появляться в розовых штанах</item>
+        <item>целоваться. Об этом говорят установленные знаки. Власти опасаются, что из-за долгих прощаний все перроны будут перегружены</item>
+        <item>строительство песочных замков. Они могут «препятствовать проходу» людей, прогуливающихся вдоль берега</item>
+        <item>жевать жвачку. В этой стране уверены, что жвачка может очень сильно испортить здоровье и загрязнить окружающую среду</item>
+        <item>размером талий. Так Япония борется с ожирением и сопутствующими болезнями. В 2015 году те компании, которые "не выполнили показатели", были оштрафованы</item>
+        <item>только национальный контент</item>
+        <item>серьезно</item>
+        <item>кидаться снежками. Пять лет назад Бельгия на законодательном уровне решила, что снежок и камень — это одно и то же. И если вам дороги ваши €100, найдите занятие поинтереснее</item>
+        <item>кормить голубей. Это вызвано тем, что голуби портят исторические здания и памятники. А также эти на первый взгляд безобидные птицы являются разносчиками опасных болезней</item>
+    </string-array>
+
+
+
+    <string-array name="skyQ">
+        <item>Представьте себе чистое голубое небо без единого облачка. Одна только мысль об этом должна хоть немного улучшить ваше настроение. Теперь окиньте глазами сознания окружающий ландшафт. Какая из перечисленных ниже картин выглядит для вас наиболее успокаивающей и расслабляющей?</item>
+    </string-array>
+
+    <string-array name="skyAns">
+        <item>белая заснеженная равнина</item>
+        <item>голубой морской простор</item>
+        <item>покрытые зеленью горы</item>
+        <item>поле, поросшее желтыми цветами</item>
+    </string-array>
+
+    <string-array name="victimQ">
+        <item>Считаете ли вы, что у вас дурной характер и что вас невозможно терпеть?</item>
+        <item>Думаете ли вы, что обязаны выполнять какие-то дела, навязанные социальной ролью (например, убираться или готовить), а иначе вы не будете соответствовать ей?</item>
+        <item>Сравниваете ли вы свои достижения с другими не в свою пользу?</item>
+        <item>Считаете ли вы, что вам постоянно не везет, а другим, напротив, везет?</item>
+        <item>Делаете ли вы для окружающих людей больше, чем для себя?</item>
+        <item>Сложно ли вам отказать другому человеку в том, что вы не хотите делать, а он настаивает?</item>
+        <item>Уверены ли вы, что без помощи других людей вы бы вообще ничего не добились в жизни?</item>
+        <item>Свойственно ли вам занижать свои умения и способности? И испытываете ли вы сложности с оценкой результата собственного труда (вам может казаться, что вас всегда недооценивают)?</item>
+        <item>Считаете ли вы, что у вас недостаточно возможностей для достижения целей (таланта, связей, средств и так далее)?</item>
+        <item>Уверены ли вы, что человека нельзя любить просто так, а можно только за его достижения?
+</item>
+    </string-array>
+
+    <string-array name="victimAns">
+        <item>да</item>
+        <item>нет</item>
+        <item>иногда</item>
+    </string-array>
+
+    <string-array name="wildQ">
+    <item>Главное - вода
+Самый простой фильтр для воды</item>
+    <item>Вас укусила змея. Правда, что нужно отсасывать яд?</item>
+    <item>А если укусил паук, что делать?</item>
+    <item>На Вас напало дикое племя. У Вас стрела в ноге, что делать?</item>
+    <item>Можно ли есть сырую рыбу?</item>
+    <item>Вода из родников чистая, ее можно пить</item>
+    <item>А если нет источников воды, нужно пить свою мочу</item>
+    <item>На рану можно приложить подоржник</item>
+    <item>Можно ли без помощи вылезти из зыбучих песков?</item>
+    <item>Мох растет на северной стороне дерева</item>
+    <item>И напоследок:
+чтобы согреться нужно выпить спиртное</item>
+    </string-array>
+
+    <string-array name="wildAns1">
+        <item>бутылка, песок</item>
+        <item>банка, уголь</item>
+        <item>камни, бутылка/банка</item>
+    </string-array>
+    <string-array name="wildAns2">
+        <item>миф</item>
+        <item>правда</item>
+    </string-array>
+    <string-array name="wildAns3">
+        <item>писать завещание и вызывать скорую</item>
+        <item>отсосать!</item>
+    </string-array>
+    <string-array name="wildAns4">
+        <item>не трогать</item>
+        <item>аккуратно сломать и вытащить</item>
+        <item>протолкнуть поглубже</item>
+    </string-array>
+    <string-array name="wildAns5">
+        <item>можно, но редко</item>
+        <item>нет</item>
+    </string-array>
+    <string-array name="wildAns6">
+        <item>не правда</item>
+        <item>правда</item>
+        <item>лучше, чем морская</item>
+    </string-array>
+    <string-array name="wildAns7">
+        <item>только если Вам это нравится</item>
+        <item>не следует</item>
+        <item>это помогает</item>
+    </string-array>
+    <string-array name="wildAns8">
+        <item>нет</item>
+        <item>да, с детства знаю</item>
+    </string-array>
+    <string-array name="wildAns9">
+        <item>без помощи никак</item>
+        <item>можно, это не сложно</item>
+    </string-array>
+    <string-array name="wildAns10">
+        <item>нет</item>
+        <item>верно</item>
+        <item>на южной</item>
+    </string-array>
+    <string-array name="wildAns11">
+        <item>это наоборот навредит</item>
+        <item>алкоголь согревает!</item>
+    </string-array>
+
+    <string-array name="wildRight">
+    <item>бутылка, песок</item>
+        <item>Правда</item>
+        <item>писать завещание и вызывать скорую. Укус паука оставляет маленькую дырочку в коже, в сравнение со змеями, поэтому высасывать бесполезно. Также яд паук намного быстрее проникает глубже</item>
+        <item>не трогать. Представьте шарик, наполненный водой. Проткните его карандашом. Что будет, если вытащить карандаш? Так же и с человеком</item>
+        <item>нет</item>
+        <item>не правда. Практически не существует чистых родников. Банальный пример: любое животное могло находиться в этом роднике</item>
+        <item>не следует. Это не утолит жажду. Только если ради вкуса, но это может ударить по почкам и кишечнику</item>
+        <item>нет. Ведь подорожник не стерильный. Можно заразиться чем угодно</item>
+        <item>можно, это не сложно</item>
+        <item>нет. Мох растет везде, от стороны света это не зависит</item>
+        <item>это наоборот навредит</item>
+    </string-array>
+
+
+
+    <string-array name="wordsQ">
+        <item>Энтропия</item>
+        <item>Виафилия</item>
+        <item>Носогрот</item>
+        <item>Кольеретка</item>
+        <item>Камьектор</item>
+        <item>Верминофобия</item>
+        <item>Керватизация</item>
+        <item>Бибабо</item>
+    </string-array>
+
+    <string-array name="wordsAns1">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns2">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns3">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns4">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns5">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns6">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns7">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+    <string-array name="wordsAns8">
+        <item>реальное</item>
+        <item>выдуманное</item>
+    </string-array>
+
+    <string-array name="wordsRight">
+        <item>реальное. Широко используемый в естественных и точных науках термин, обозначающий меру необратимого рассеивания энергии или бесполезности энергии</item>
+        <item>реальное. Коллекционирование сувениров</item>
+        <item>выдуманное</item>
+        <item>реальное. Этикетка, наклеиваемая возле горлышка бутылки</item>
+        <item>выдуманное</item>
+        <item>реальное. Это боязнь заражения какой-либо болезнью, связанной с микроорганизмами, бактериями, микробами и вирусами, червями, насекомыми</item>
+        <item>выдуманное</item>
+        <item>реальное. Простейшая кукла, состоящая из головы и платья в виде перчатки</item>
+    </string-array>
+
+
+    <string-array name="zolQ">
+        <item>Среди многочисленных сказок история о Золушке является самой популярной. Какая из сцен этой старой сказки больше всего привлекает вас?</item>
+    </string-array>
+
+    <string-array name="zolAns">
+        <item>издевательства мачехи и сестер над Золушкой</item>
+        <item>золушка превращается в принцессу</item>
+        <item>золушка теряет башмачок, убегая из дворца</item>
+        <item>принц надевает Золушке туфельку</item>
+    </string-array>
+
+    <string-array name="zombieQ">
+        <item>Без этого никак:
+Вы в форме?</item>
+        <item>Вы всегда пристегиваетесь?</item>
+        <item>Вы осторожны в туалетах?</item>
+        <item>Старики, слабые - это лишний груз?</item>
+        <item>Вы будете соблюдать законы и правила?</item>
+        <item>А разминаться будете, когда почувствуете опасность?</item>
+        <item>У Вас много вещей?</item>
+        <item>Чего вы всегда ждете?</item>
+    </string-array>
+
+    <string-array name="zombieAns1">
+        <item>естественно</item>
+        <item>нет</item>
+        <item>вообще нет</item>
+    </string-array>
+    <string-array name="zombieAns2">
+        <item>чаще всего</item>
+        <item>всегда</item>
+    </string-array>
+    <string-array name="zombieAns3">
+        <item>да</item>
+        <item>нет</item>
+    </string-array>
+    <string-array name="zombieAns4">
+        <item>не привязываться</item>
+        <item>нужно помогать</item>
+    </string-array>
+    <string-array name="zombieAns5">
+        <item>конечно</item>
+        <item>нет, это же апокалипсис!</item>
+    </string-array>
+    <string-array name="zombieAns6">
+        <item>да</item>
+        <item>нет</item>
+        <item>зачем?</item>
+    </string-array>
+    <string-array name="zombieAns7">
+        <item>достаточно</item>
+        <item>я на легке</item>
+    </string-array>
+    <string-array name="zombieAns8">
+        <item>чуда</item>
+        <item>неприятностей</item>
+    </string-array>
+
+
+
+</resources>
